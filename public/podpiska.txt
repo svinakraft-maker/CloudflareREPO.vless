@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://2ip.io
 #profile-web-page-url: https://2ip.io
-#announce: ☁️Cloudflare host☁️                                                                   ☁️vless free config by nokls☁️
+#announce:                                 ☁️Cloudflare host☁️                                                                                                             ☁️vless free config by nokls☁️
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 

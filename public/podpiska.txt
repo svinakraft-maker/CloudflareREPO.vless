@@ -1,7 +1,7 @@
 #profile-title: Nokls 🛡️VPN🛡️ 
 #profile-update-interval: 1
 #support-url: https://2ip.io
-#profile-web-page-url: https://2ip.io
+#profile-web-page-url: https://github.com/svinakraft-maker/CloudflareREPO.vless/tree/main
 #announce:                                 🔗Nokls VPN🔗                                                                                                             🔗vless free config by nokls🔗
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 

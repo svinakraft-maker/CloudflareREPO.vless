@@ -1,4 +1,4 @@
-#profile-title: Nokls bypass ☁️Cloudflare host☁️
+#profile-title:Nokls bypass ☁️Cloudflare☁️
 #profile-update-interval: 1
 #support-url: https://2ip.io
 #profile-web-page-url: https://2ip.io

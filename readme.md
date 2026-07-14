@@ -10,7 +10,7 @@
 
 </div>
 
-## 🎬 Live Demo
+## 🎬 Демо
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/svinakraft-maker/CloudflareREPO.vless/main/video/prewiew.gif" alt="Live Demo" width="100%">

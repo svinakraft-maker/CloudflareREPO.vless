@@ -1,7 +1,7 @@
 Vless подписки автообновляются по 🔗Ссылке🔗 
 
 
-CloudFlare  https://cloudflarevless.svinakraft.workers.dev/podpiska.txt
+CloudFlare  https://vless.svinakraft.workers.dev/podpiska.txt
 
 
 Vless подписки автообновляются по 🪞Зеркалам🪞

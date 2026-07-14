@@ -97,7 +97,7 @@ https://vless.svinakraft.workers.dev/podpiska.txt
 ```
 📁 public
 📄 package.json
-📄 README.md        ← единственный readme, заглавными буквами
+📄 README.md
 📄 worker.js
 📄 wrangler.toml
 ```

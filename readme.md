@@ -95,14 +95,12 @@ https://vless.svinakraft.workers.dev/podpiska.txt
 ## 📁 Структура репозитория
 
 ```
-CloudflareREPO.vless/
-├── worker.js          # Обработчик запросов Cloudflare Worker
-├── podpiska.txt       # Основной файл подписки VLESS
-├── README.md          # Документация
-└── wrangler.toml      # Конфигурация Wrangler (для деплоя)
+📁 public
+📄 package.json
+📄 README.md        ← единственный readme, заглавными буквами
+📄 worker.js
+📄 wrangler.toml
 ```
-
----
 
 ## 🔄 Обновление подписок
 

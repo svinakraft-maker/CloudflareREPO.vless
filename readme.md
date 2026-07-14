@@ -13,9 +13,7 @@
 ## 🎬 Live Demo
 
 <div align="center">
-
-<video src="https://raw.githubusercontent.com/svinakraft-maker/CloudflareREPO.vless/main/video/video.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 10px; max-width: 600px; margin: 15px 0;"></video>
-
+  <img src="https://raw.githubusercontent.com/svinakraft-maker/CloudflareREPO.vless/main/video/prewiew.gif" alt="Live Demo" width="100%">
 </div>
 
 

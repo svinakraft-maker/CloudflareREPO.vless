@@ -1,4 +1,4 @@
-name = "cloudflarevless"
+name = "vless"
 main = "worker.js"
 compatibility_date = "2026-07-11"
 

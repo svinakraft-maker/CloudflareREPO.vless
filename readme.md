@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ flarefeed ☁️
+# ☁️ FlareFeed ☁️
 
 ### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 

@@ -1,21 +1,21 @@
 <div align="center">
 
-# ☁️ CloudflareREPO.vless
+# ☁️ flarefeed
 
-### Персональное хранилище VLESS-подписок на Cloudflare Workers
+### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
+[![last update](https://img.shields.io/github/last-commit/svinakraft-maker/flarefeed?label=last%20update&style=for-the-badge&logo=github&color=blue)](https://github.com/svinakraft-maker/flarefeed/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/svinakraft-maker/CloudflareREPO.vless?style=for-the-badge&color=blue)](https://github.com/svinakraft-maker/CloudflareREPO.vless/stargazers)
+[![Stars](https://img.shields.io/github/stars/svinakraft-maker/flarefeed?style=for-the-badge&color=blue)](https://github.com/svinakraft-maker/flarefeed/stargazers)
 
 </div>
 
 ## 🎬 Демо
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/svinakraft-maker/CloudflareREPO.vless/main/video/prewiew.gif" alt="Live Demo" width="100%">
+  <img src="https://raw.githubusercontent.com/svinakraft-maker/flarefeed/main/video/prewiew.gif" alt="Live Demo" width="100%">
 </div>
-
 
 ## 🚀 Готовая подписка
 
@@ -23,10 +23,10 @@
 
 ### 🌐 ALL — все рабочие серверы
 Полный список живых конфигов после проверки. Для ПК и мощных клиентов.
-
 ```
 https://vless.svinakraft.workers.dev/podpiska.txt
 ```
+
 
 ### 📱 MOBILE — топ‑100 самых быстрых
 Отсортировано по качеству (минимальный пинг + максимальная скорость). **Для телефона и Happ** — лёгкий список, не тормозит импорт.
@@ -42,9 +42,10 @@ https://vless.svinakraft.workers.dev/fastest.txt
 </div>
 
 ---
+
 ## 📖 О проекте
 
-**CloudflareREPO.vless** — это репозиторий VLESS-конфигураций, развёрнутый на Cloudflare Workers. Все файлы отдаются как обычный текст (`text/plain`), что позволяет использовать их напрямую в качестве подписок для любых VPN-клиентов.
+**flarefeed** — это **независимый персональный** проект: репозиторий VLESS‑конфигураций, который раздаётся через Cloudflare Workers. Все файлы отдаются как обычный текст (`text/plain`), что позволяет использовать их напрямую в качестве подписок для любых VPN‑клиентов. Проект не аффилирован с Cloudflare — технология Workers используется просто как удобный бесплатный хостинг.
 
 ### 🎯 Преимущества
 
@@ -61,9 +62,9 @@ https://vless.svinakraft.workers.dev/fastest.txt
 ### 🖥 v2rayN (Windows)
 1. Открой программу → **Подписки** → **Настроить подписки**
 2. Нажми **Добавить** и вставь URL:
-   ```
-   https://vless.svinakraft.workers.dev/podpiska.txt
-   ```
+```
+https://vless.svinakraft.workers.dev/podpiska.txt
+```
 3. Сохрани → нажми **Обновить подписки без прокси**
 
 ### 📱 Happ (Android/PC)
@@ -94,19 +95,17 @@ https://vless.svinakraft.workers.dev/fastest.txt
   }]
 }
 ```
+Логика работы:
 
----
+📥 Пользователь запрашивает файл (например, podpiska.txt)
 
-**Логика работы:**
-1. 📥 Пользователь запрашивает файл (например, `podpiska.txt`)
-2. 🔍 Worker берёт файл из статики (`env.ASSETS`)
-3. 🔄 Подменяет `Content-Type` на `text/plain`
-4. 📤 Отдаёт чистый текст, готовый для парсинга VPN-клиентом
+🔍 Worker берёт файл из статики (env.ASSETS)
 
----
+🔄 Подменяет Content-Type на text/plain
 
-## 📁 Структура репозитория
+📤 Отдаёт чистый текст, готовый для парсинга VPN‑клиентом
 
+📁 Структура репозитория
 ```
 📁 public
 📄 package.json
@@ -114,55 +113,30 @@ https://vless.svinakraft.workers.dev/fastest.txt
 📄 worker.js
 📄 wrangler.toml
 ```
-
-## 🔄 Обновление подписок
-
-Большинство клиентов обновляют подписки автоматически (обычно раз в 24 часа). 
-
-**Ручное обновление:**
-- **v2rayN:** правый клик по подписке → Обновить
-- **Nekobox:** зажми подписку → Обновить
-- **Streisand:** свайп вниз в разделе конфигураций
-- **Hiddify:** потяни вниз для обновления
-
----
-
-## ❓ Частые вопросы
-
-**Q: Безопасно ли использовать эту подписку?**  
-A: Файл содержит публичные VLESS-конфигурации. Используй на свой страх и риск.
-
-**Q: Почему у меня не подключается?**  
+🔄 Обновление подписок
+Большинство клиентов обновляют подписки автоматически (обычно раз в 24 часа).
+Ручное обновление:
+v2rayN: правый клик по подписке → Обновить
+Nekobox: зажми подписку → Обновить
+Streisand: свайп вниз в разделе конфигураций
+Hiddify: потяни вниз для обновления
+❓ Частые вопросы
+Q: Безопасно ли использовать эту подписку?
+A: Файл содержит публичные VLESS‑конфигурации. Используй на свой страх и риск.
+Q: Почему у меня не подключается?
 A: Проверь: 1) актуальность конфигов (могли устареть), 2) корректность настроек клиента, 3) доступность Cloudflare в твоей сети.
-
-**Q: Как часто обновляются конфиги?**  
-A: По мере необходимости. Следи за обновлениями репозитория.
-
-**Q: Могу ли я предложить свои конфиги?**  
+Q: Как часто обновляются конфиги?
+A: Авто‑чекер пересобирает список примерно раз в час; клиенты подтягивают его по своему интервалу. Следи за бейджем last update сверху.
+Q: Могу ли я предложить свои конфиги?
 A: Да! Открой Pull Request или Issue.
-
----
-
-## ⚠️ Дисклеймер
-
-Проект создан **в образовательных целях** для изучения работы Cloudflare Workers, HTTP-заголовков и сетевых протоколов. 
-
+⚠️ Дисклеймер
+Проект создан в образовательных целях для изучения работы Cloudflare Workers, HTTP‑заголовков и сетевых протоколов. Это независимый проект, не связанный с Cloudflare Inc.
 Автор не несёт ответственности за использование данного инструмента третьими лицами. Используя проект, вы соглашаетесь соблюдать законодательство вашей страны.
-
----
-
-## 📄 Лицензия
-
-Распространяется под лицензией [MIT](LICENSE).
-
----
-
+📄 Лицензия
+Распространяется под лицензией MIT.
 <div align="center">
 
-### ⭐ Если проект полезен — поставь звёздочку!
-
-**Made with ❤️ by [@svinakraft-maker](https://github.com/svinakraft-maker)**
-
-[🌐 Подписка](https://vless.svinakraft.workers.dev/podpiska.txt) • [🐛 Сообщить о проблеме](https://github.com/svinakraft-maker/CloudflareREPO.vless/issues) • [⭐ Star](https://github.com/svinakraft-maker/CloudflareREPO.vless)
-
+⭐ Если проект полезен — поставь звёздочку!
+Made with ❤️ by @svinakraft-maker
+🌐 Подписка • 🐛 Сообщить о проблеме • ⭐ Star
 </div>

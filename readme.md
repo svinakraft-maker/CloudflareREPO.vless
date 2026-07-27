@@ -5,6 +5,8 @@
 ### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
+[![Gitverse mirror](https://img.shields.io/badge/mirror-Gitverse-2b6cb0?style=for-the-badge)](https://gitverse.ru/Nokls/FlareFeed)
+[![Auto-updated](https://img.shields.io/badge/refresh-~every%201h-brightgreen?style=for-the-badge)](#-обновление-подписок)
 [![last update](https://img.shields.io/github/last-commit/svinakraft-maker/flarefeed?label=last%20update&style=for-the-badge&logo=github&color=blue)](https://github.com/svinakraft-maker/flarefeed/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/svinakraft-maker/flarefeed?style=for-the-badge&color=blue)](https://github.com/svinakraft-maker/flarefeed/stargazers)
@@ -14,30 +16,43 @@
 ## 🎬 Демо
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/svinakraft-maker/flarefeed/main/video/prewiew.gif" alt="Live Demo" width="100%">
+  <img src="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/video/prewiew.gif" alt="Live Demo" width="100%">
 </div>
 
 ## 🚀 Готовая подписка
 
-Две ссылки — выбирай под свой клиент. Просто скопируй и вставь в VPN‑клиент (Happ, v2rayN, mihomo, Shadowrocket и др.):
+Ссылки — выбирай под свой клиент. Просто скопируй и вставь в VPN‑клиент (Happ, v2rayN, mihomo, Shadowrocket и др.):
 
 ### 🌐 ALL — все рабочие серверы
 Полный список живых конфигов после проверки. Для ПК и мощных клиентов.
-```
+
+```text
 https://vless.svinakraft.workers.dev/podpiska.txt
 ```
 
-
 ### 📱 MOBILE — топ‑100 самых быстрых
 Отсортировано по качеству (минимальный пинг + максимальная скорость). **Для телефона и Happ** — лёгкий список, не тормозит импорт.
-```
+
+```text
 https://vless.svinakraft.workers.dev/fastest.txt
+```
+
+### 🇷🇺 ЗЕРКАЛО на Gitverse — если основное не открывается
+Резервные ссылки на российском Gitverse. Работают **без Cloudflare и GitHub** (отдаются напрямую через raw‑API), ASCII‑шапка без кракозябр:
+
+**ALL:**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt
+```
+**MOBILE (топ‑100):**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt
 ```
 
 <div align="center">
 
 **🔼 Одна ссылка – десятки рабочих серверов 🔽**
-*Авто‑обновление · время и количество в шапке файла*
+*Авто‑обновление ~каждый час · время и количество в шапке файла*
 
 </div>
 
@@ -45,13 +60,16 @@ https://vless.svinakraft.workers.dev/fastest.txt
 
 ## 📖 О проекте
 
-**flarefeed** — это **независимый персональный** проект: репозиторий VLESS‑конфигураций, который раздаётся через Cloudflare Workers. Все файлы отдаются как обычный текст (`text/plain`), что позволяет использовать их напрямую в качестве подписок для любых VPN‑клиентов. Проект не аффилирован с Cloudflare — технология Workers используется просто как удобный бесплатный хостинг.
+**FlareFeed** — это **независимый персональный** проект: репозиторий VLESS‑конфигураций, который раздаётся через Cloudflare Workers, с **зеркалом на Gitverse** для доступности из России. Все файлы отдаются как обычный текст (`text/plain`), что позволяет использовать их напрямую в качестве подписок для любых VPN‑клиентов. Проект не аффилирован с Cloudflare — технология Workers используется просто как удобный бесплатный хостинг, а Gitverse — как резервный канал раздачи.
+
+Авто‑чекер каждый час собирает конфиги из публичных источников, проверяет каждый сервер (пинг + скорость) и публикует два файла: полный список живых (`ALL`) и топ‑100 самых быстрых (`MOBILE`).
 
 ### 🎯 Преимущества
 
 - ⚡ **Скорость** — файлы раздаются через глобальный CDN Cloudflare
 - 🌍 **Доступность** — работает там, где заблокирован GitHub
-- 🔄 **Автообновление** — клиенты сами подтягивают свежие конфиги
+- 🇷🇺 **Зеркало в РФ** — Gitverse отдаёт подписки без Cloudflare и GitHub
+- 🔄 **Автообновление** — список пересобирается ~каждый час, клиенты подтягивают свежее
 - 🆓 **Бесплатно** — Cloudflare Workers даёт 100 000 запросов в день бесплатно
 - 📱 **Универсальность** — работает во всех популярных клиентах
 
@@ -62,9 +80,9 @@ https://vless.svinakraft.workers.dev/fastest.txt
 ### 🖥 v2rayN (Windows)
 1. Открой программу → **Подписки** → **Настроить подписки**
 2. Нажми **Добавить** и вставь URL:
-```
-https://vless.svinakraft.workers.dev/podpiska.txt
-```
+   ```text
+   https://vless.svinakraft.workers.dev/podpiska.txt
+   ```
 3. Сохрани → нажми **Обновить подписки без прокси**
 
 ### 📱 Happ (Android/PC)
@@ -91,54 +109,70 @@ https://vless.svinakraft.workers.dev/podpiska.txt
   "providers": [{
     "type": "remote",
     "url": "https://vless.svinakraft.workers.dev/podpiska.txt",
-    "update_interval": "24h"
+    "update_interval": "1h"
   }]
 }
 ```
-Логика работы:
 
-📥 Пользователь запрашивает файл (например, podpiska.txt)
+---
 
-🔍 Worker берёт файл из статики (env.ASSETS)
+**Логика работы:**
+1. 📥 Пользователь запрашивает файл (например, `podpiska.txt`)
+2. 🔍 **Основной канал:** Worker берёт файл из статики (`env.ASSETS`), подменяет `Content-Type` на `text/plain` и отдаёт чистый текст
+3. 🇷🇺 **Зеркало:** Gitverse отдаёт тот же файл напрямую через raw‑API — без Cloudflare, работает из РФ
+4. 📤 Клиент парсит готовые конфиги
 
-🔄 Подменяет Content-Type на text/plain
+---
 
-📤 Отдаёт чистый текст, готовый для парсинга VPN‑клиентом
+## 📁 Структура репозитория
 
-📁 Структура репозитория
-```
+```text
 📁 public
-📄 package.json
-📄 README.md
+   📄 podpiska.txt      ← ALL (все живые)
+   📄 fastest.txt       ← MOBILE (топ-100)
+📁 video
+   📄 prewiew.gif
 📄 worker.js
 📄 wrangler.toml
+📄 package.json
+📄 README.md
+📄 LICENSE
 ```
-🔄 Обновление подписок
-Большинство клиентов обновляют подписки автоматически (обычно раз в 24 часа).
-Ручное обновление:
-v2rayN: правый клик по подписке → Обновить
-Nekobox: зажми подписку → Обновить
-Streisand: свайп вниз в разделе конфигураций
-Hiddify: потяни вниз для обновления
+
+## 🔄 Обновление подписок
+
+Авто‑чекер пересобирает список **примерно каждый час**; в оба файла (и в зеркало на Gitverse) изменения попадают автоматически. Большинство клиентов обновляют подписки сами по своему интервалу.
+
+**Ручное обновление:**
+- **v2rayN:** правый клик по подписке → Обновить
+- **Nekobox:** зажми подписку → Обновить
+- **Streisand:** свайп вниз в разделе конфигураций
+- **Hiddify:** потяни вниз для обновления
+
+---
+
 ## ❓ Частые вопросы
 
-**Q: Безопасно ли использовать эту подписку?**  
-A: Файл содержит публичные VLESS-конфигурации. Используй на свой страх и риск.
+**Q: Безопасно ли использовать эту подписку?**
+A: Файл содержит публичные VLESS‑конфигурации. Используй на свой страх и риск.
 
-**Q: Почему у меня не подключается?**  
+**Q: Почему у меня не подключается?**
 A: Проверь: 1) актуальность конфигов (могли устареть), 2) корректность настроек клиента, 3) доступность Cloudflare в твоей сети.
 
-**Q: Как часто обновляются конфиги?**  
-A: По мере необходимости. Следи за обновлениями репозитория.
+**Q: Основная ссылка (workers.dev) не открывается. Что делать?**
+A: Используй **зеркало на Gitverse** (блок «🇷🇺 ЗЕРКАЛО» выше) — оно работает без Cloudflare и GitHub.
 
-**Q: Могу ли я предложить свои конфиги?**  
-A: Да! Открой Pull Request или Issue.
+**Q: Как часто обновляются конфиги?**
+A: Авто‑чекер пересобирает список ~каждый час. Следи за бейджем *last update* и шапкой файла (дата/время/количество).
+
+**Q: Могу ли я предложить свои конфиги?**
+A: Да! Открой Pull Request или Issue (на [GitHub](https://github.com/svinakraft-maker/flarefeed) или [Gitverse](https://gitverse.ru/Nokls/FlareFeed/issues)).
 
 ---
 
 ## ⚠️ Дисклеймер
 
-Проект создан **в образовательных целях** для изучения работы Cloudflare Workers, HTTP-заголовков и сетевых протоколов. 
+Проект создан **в образовательных целях** для изучения работы Cloudflare Workers, HTTP‑заголовков и сетевых протоколов. Это **независимый** проект, не связанный с Cloudflare Inc.
 
 Автор не несёт ответственности за использование данного инструмента третьими лицами. Используя проект, вы соглашаетесь соблюдать законодательство вашей страны.
 
@@ -156,7 +190,6 @@ A: Да! Открой Pull Request или Issue.
 
 **Made with ❤️ by [@svinakraft-maker](https://github.com/svinakraft-maker)**
 
-[🌐 Подписка](https://vless.svinakraft.workers.dev/podpiska.txt) • [🐛 Сообщить о проблеме](https://github.com/svinakraft-maker/CloudflareREPO.vless/issues) • [⭐ Star](https://github.com/svinakraft-maker/CloudflareREPO.vless)
+[🌐 Подписка](https://vless.svinakraft.workers.dev/podpiska.txt) • [🐙 GitHub](https://github.com/svinakraft-maker/flarefeed) • [🇷🇺 Gitverse](https://gitverse.ru/Nokls/FlareFeed) • [🐛 Issues](https://github.com/svinakraft-maker/flarefeed/issues)
 
 </div>
-](https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt)

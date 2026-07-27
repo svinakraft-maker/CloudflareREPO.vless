@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # ☁️ FlareFeed ☁️
 
@@ -159,3 +159,4 @@ A: Да! Открой Pull Request или Issue.
 [🌐 Подписка](https://vless.svinakraft.workers.dev/podpiska.txt) • [🐛 Сообщить о проблеме](https://github.com/svinakraft-maker/CloudflareREPO.vless/issues) • [⭐ Star](https://github.com/svinakraft-maker/CloudflareREPO.vless)
 
 </div>
+](https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt)

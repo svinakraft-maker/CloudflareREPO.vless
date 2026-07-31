@@ -48,6 +48,10 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.tx
 ```text
 https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt
 ```
+**WhiteLists:**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.txt
+```
 
 <div align="center">
 

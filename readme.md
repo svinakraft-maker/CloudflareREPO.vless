@@ -74,6 +74,9 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.t
 
 Авто‑чекер каждый час собирает конфиги из публичных источников, проверяет каждый сервер (пинг + скорость) и публикует два файла: полный список живых (`ALL`) и топ‑100 самых быстрых (`MOBILE`).
 
+## 🌐 Сайт проекта 
+# https://vless.svinakraft.workers.dev
+
 ### 🎯 Преимущества
 
 - ⚡ **Скорость** — файлы раздаются через глобальный CDN Cloudflare
@@ -87,7 +90,7 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.t
 
 ## 📱 Как подключить подписку
 
-### 🖥 v2rayN (Windows)
+### 🖥 v2rayN (Windows) - https://github.com/2dust/v2rayN/releases
 1. Открой программу → **Подписки** → **Настроить подписки**
 2. Нажми **Добавить** и вставь URL:
    ```text
@@ -95,24 +98,17 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.t
    ```
 3. Сохрани → нажми **Обновить подписки без прокси**
 
-### 📱 Happ (Android/PC)
-1. **Плюс** → **Вставить из буфера**
+### 📱 V2rayNG (Android) - https://github.com/2dust/v2rayNG/releases
+1. **Плюс** → **Импорт из буфера обмена**
 2. Обнови подписку через меню
+3. Проверить задержку профилей
+4. Сортировать по результатам теста
 
-### 🍎 Streisand (iOS)
-1. Открой приложение → **+** → **Добавить из ссылки**
-2. Вставь URL подписки → **Добавить**
-
-### 🍎 Shadowrocket (iOS)
-1. Нажми **+** в правом верхнем углу
-2. Выбери **Subscribe** (Подписка)
-3. Вставь ссылку → **Сохранить**
-
-### 🤖 Hiddify (Все платформы)
+### 🤖 Hiddify (Все платформы) - https://github.com/hiddify/hiddify-app/releases
 1. **Add Profile** → **From URL**
 2. Вставь URL → **Continue**
 
-### 📦 Sing-box
+### 📦 Sing-box - https://github.com/SagerNet/sing-box/releases
 Добавь в конфигурационный файл:
 ```json
 {
@@ -140,6 +136,7 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.t
 📁 public
    📄 podpiska.txt      ← ALL (все живые)
    📄 fastest.txt       ← MOBILE (топ-100)
+   📄 index.html        ← Основной сайт проекта
 📁 video
    📄 prewiew.gif
 📄 worker.js

@@ -37,6 +37,12 @@ https://vless.svinakraft.workers.dev/podpiska.txt
 https://vless.svinakraft.workers.dev/fastest.txt
 ```
 
+### 🏳️ WhiteLists — все рабочие обходы глушилок
+
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.txt
+```
+
 ### 🇷🇺 ЗЕРКАЛО на Gitverse — если основное не открывается
 Резервные ссылки на российском Gitverse. Работают **без Cloudflare и GitHub** (отдаются напрямую через raw‑API), ASCII‑шапка без кракозябр:
 

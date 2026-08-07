@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 02:33 (Moscow)
+# Date/Time: 2026-08-07 / 04:35 (Moscow)
 # Количество: 100
 vless://dc53f855-5025-45c8-9a85-981036839c5c@172.67.174.37:8880?encryption=none&host=summer-breeze-0574.279.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#🇩🇪_ping_52ms_speed_27.4Mbps_out🇩🇪
 vless://86e1cbab-329e-48ca-a213-71745655886f@72.56.4.94:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=ra-OyOGZwj9ZApabpTq2sZWIzub52UfzLvnfw1utsQg&security=reality&sid=23637807&sni=www.gosuslugi.ru&type=raw#🇩🇪_ping_54ms_speed_27.1Mbps_out🇩🇪

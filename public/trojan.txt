@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 20:31 (Moscow)
+# Date/Time: 2026-08-07 / 22:40 (Moscow)
 # Количество: 131
 trojan://XG59623478@tough-shark.rooster465.autos:443?security=tls#🇯🇵_ping_57ms_speed_23.6Mbps
 trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#🇰🇷_ping_58ms

@@ -58,7 +58,57 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt
 ```text
 https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.txt
 ```
+# Разделение на протоколы
 
+**VLESS**
+```text
+https://vless.svinakraft.workers.dev/vless.txt
+```
+
+**HYSTERIA2**
+```text
+https://vless.svinakraft.workers.dev/hysteria2.txt
+```
+
+**TROJAN**
+```text
+https://vless.svinakraft.workers.dev/trojan.txt
+```
+
+**VMESS**
+```text
+https://vless.svinakraft.workers.dev/vmess.txt
+```
+
+**SHADOWSOCKS**
+```text
+https://vless.svinakraft.workers.dev/ss.txt
+```
+### 🇷🇺 ЗЕРКАЛО на Gitverse
+**VLESS**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/vless.txt
+```
+
+**HYSTERIA2**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/hysteria2.txt
+```
+
+**TROJAN**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/trojan.txt
+```
+
+**VMESS**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/vmess.txt
+```
+
+**SHADOWSOCKS**
+```text
+https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/ss.txt
+```
 <div align="center">
 
 **🔼 Одна ссылка – десятки рабочих серверов 🔽**

@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 07:00 (Moscow)
+# Date/Time: 2026-08-07 / 09:05 (Moscow)
 # Количество: 13
 hysteria2://velluto_8325804083:b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@31.76.30.79:35000?sni=gretacoin.shop#🇫🇮_ping_54ms_speed_10.0Mbps
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&fp=qq&security=tls#🇩🇪_ping_55ms_speed_19.7Mbps

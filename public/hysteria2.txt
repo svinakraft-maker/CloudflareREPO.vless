@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 02:33 (Moscow)
+# Date/Time: 2026-08-07 / 04:35 (Moscow)
 # Количество: 10
 hysteria2://f5a1e574-86c4-421a-a572-ad6c5dea8cb1@yaroslavl.gosgenarchive.com:8443?security=tls&sni=yaroslavl.gosgenarchive.com#🇩🇪_ping_58ms_speed_27.2Mbps_out🇩🇪
 hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft&fp=qq&security=tls#🇺🇸_ping_59ms_speed_25.0Mbps

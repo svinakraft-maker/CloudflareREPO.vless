@@ -1,14 +1,8 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 04:35 (Moscow)
-# Количество: 10
-hysteria2://f5a1e574-86c4-421a-a572-ad6c5dea8cb1@yaroslavl.gosgenarchive.com:8443?security=tls&sni=yaroslavl.gosgenarchive.com#🇩🇪_ping_58ms_speed_27.2Mbps_out🇩🇪
-hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft&fp=qq&security=tls#🇺🇸_ping_59ms_speed_25.0Mbps
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?insecure=0#🇩🇪_ping_80ms_speed_17.0Mbps_out🇩🇪
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls#🇦🇪_ping_83ms_speed_17.2Mbps
-hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?security=tls&insecure=0&sni=grape-sos-de.roxa.org#🇩🇪_ping_233ms_speed_2.7Mbps
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&allowInsecure=1#🇺🇸_ping_433ms
-hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?fm=%257B%250A%250A%257D&type=hysteria&security=tls&sni=quic.tyr-agentstvo.tech&alpn=h3#🇺🇸_ping_465ms_speed_1.6Mbps_out🇺🇸
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#🇺🇸_ping_565ms_speed_6.7Mbps
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#🇫🇮_ping_977ms_speed_0.8Mbps
-hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.250.230:2053?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#🇺🇸_ping_1229ms_speed_0.2Mbps_out🇺🇸
+# Date/Time: 2026-08-07 / 05:39 (Moscow)
+# Количество: 4
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls#🇦🇪_🇦🇪_ping_81ms
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&allowInsecure=1#ping_759ms
+hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?security=tls&insecure=0&sni=grape-sos-de.roxa.org#🇩🇪_🇩🇪_ping_1003ms
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#🇫🇮_🇫🇮_ping_3227ms

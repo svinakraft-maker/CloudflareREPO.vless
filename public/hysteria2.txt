@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 00:19 (Moscow)
+# Date/Time: 2026-08-08 / 02:24 (Moscow)
 # Количество: 11
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_ping_370ms_speed_7.7Mbps
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls#🇫🇮_ping_411ms_speed_13.7Mbps

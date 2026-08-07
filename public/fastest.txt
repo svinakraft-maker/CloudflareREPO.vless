@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 16:03 (Moscow)
+# Date/Time: 2026-08-07 / 18:06 (Moscow)
 # Количество: 100
 vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@104.16.72.162:80?path=%2F&security=&encryption=none&host=new-scale37-cdn.sabzi.name.ng.&type=ws#🇩🇪_ping_53ms_speed_27.9Mbps_out🇩🇪
 vless://7193bdae-58d9-42be-93a7-94c60f14bf86@31.76.119.133:443?encryption=none&fp=&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&security=reality&sni=cloudrynth.com&type=tcp#🇩🇪_ping_56ms_speed_28.0Mbps

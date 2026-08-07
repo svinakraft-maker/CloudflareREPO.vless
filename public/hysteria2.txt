@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 20:31 (Moscow)
+# Date/Time: 2026-08-07 / 22:40 (Moscow)
 # Количество: 9
 hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443/?insecure=1#🇩🇪_ping_60ms_speed_11.3Mbps_out🇩🇪
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls#🇫🇮_ping_94ms_speed_17.0Mbps

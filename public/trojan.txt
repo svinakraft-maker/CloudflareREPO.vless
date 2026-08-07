@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 11:32 (Moscow)
+# Date/Time: 2026-08-07 / 13:38 (Moscow)
 # Количество: 139
 trojan://NQ26071394@chief-cricket.rooster465.autos:443?security=tls#🇩🇪_ping_54ms_speed_24.3Mbps_out🇩🇪
 trojan://humanity@104.18.115.61:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#🇩🇪_ping_60ms_speed_3.1Mbps_out🇩🇪

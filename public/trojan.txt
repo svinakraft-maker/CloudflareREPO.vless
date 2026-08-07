@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 16:03 (Moscow)
+# Date/Time: 2026-08-07 / 18:06 (Moscow)
 # Количество: 137
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#🇩🇪_ping_56ms_speed_25.7Mbps_out🇩🇪
 trojan://humanity@104.18.152.152:443/?type=ws&sni=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#🏳_ping_56ms_speed_16.4Mbps

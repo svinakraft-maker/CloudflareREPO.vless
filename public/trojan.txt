@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 07:00 (Moscow)
+# Date/Time: 2026-08-07 / 09:05 (Moscow)
 # Количество: 134
 trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?path=/ws-79dffb8106db&security=tls&insecure=0&host=vpn5.rnmcnm.com&type=ws&allowInsecure=0&sni=vpn5.rnmcnm.com#🇦🇲_ping_54ms_speed_20.4Mbps
 trojan://MiTiVPN@104.16.98.215:443?path=/@MiTiVPN/@MiTiVPN/@MiTiVPN/NL@MiTiVPN/@MiTiVPN/@MiTiVPN&security=tls&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.S88R.iR&type=ws#🇩🇪_ping_54ms_speed_17.2Mbps_out🇩🇪

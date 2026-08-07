@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 16:03 (Moscow)
+# Date/Time: 2026-08-07 / 18:06 (Moscow)
 # Количество: 19
 hysteria2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808?sni=nl6.unlockvpn.online#🇩🇪_ping_55ms_speed_16.3Mbps_out🇩🇪
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.215:8443?sni=grape-turbo-fr.roxa.org#🇩🇪_ping_57ms_speed_9.6Mbps_out🇩🇪

@@ -1,13 +1,7 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 22:40 (Moscow)
-# Количество: 9
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443/?insecure=1#🇩🇪_ping_60ms_speed_11.3Mbps_out🇩🇪
-hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls#🇫🇮_ping_94ms_speed_17.0Mbps
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_ping_245ms_speed_4.5Mbps
-hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech#🇫🇮_ping_480ms_speed_3.1Mbps_out🇫🇮
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?security=tls&insecure=1&sni=www.cloudflare.com#🇩🇪_ping_503ms_speed_0.2Mbps
-hysteria2://ik0zt621uw9iqvsi@95.217.96.131:52051?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k#🇫🇮_ping_1128ms_speed_4.8Mbps
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#🇫🇮_ping_2264ms_speed_0.3Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1#🇹🇼_ping_2364ms_speed_13.2Mbps
-hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?security=tls&insecure=0&sni=grape-sos-de.roxa.org#🇩🇪_ping_3884ms_speed_1.5Mbps
+# Date/Time: 2026-08-07 / 23:43 (Moscow)
+# Количество: 3
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls#🇫🇮_🇫🇮_ping_427ms
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_🇫🇮_ping_1317ms
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#🇫🇮_🇫🇮_ping_3032ms

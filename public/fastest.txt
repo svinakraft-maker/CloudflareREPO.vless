@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 07:00 (Moscow)
+# Date/Time: 2026-08-07 / 09:05 (Moscow)
 # Количество: 100
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.190:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&mode=auto#🏳_ping_53ms_speed_27.1Mbps
 vless://3e553ebf-db9d-4858-b608-03d6ff615a41@172.67.209.127:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&host=rapid-waterfall-7270.255-22b.workers.dev&type=ws#🏳_ping_54ms_speed_27.1Mbps

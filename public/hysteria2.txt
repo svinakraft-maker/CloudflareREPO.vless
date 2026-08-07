@@ -1,11 +1,10 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 10:12 (Moscow)
-# Количество: 7
-hysteria2://TelegramVPNjey@179.61.251.253:37003?sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch&security=tls#🇩🇪_🇩🇪_ping_290ms
-hysteria2://22j0d00lev7mq0yv@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&fp=qq&security=tls#🇩🇪_🇩🇪_ping_352ms
-hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech#🇺🇸_🇺🇸_ping_447ms
-hysteria2://22j0d00lev7mq0yv@ipaste.4ippi.ru:1935?sni=ipaste.4ippi.ru&obfs=salamander&obfs-password=816ys5fceofhpwft&fp=qq&security=tls#🇺🇸_🇺🇸_ping_483ms
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_🇫🇮_ping_650ms
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?sni=hopp-legend-se.roxa.org#🇸🇨_🇸🇨_ping_1496ms
-hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.250.230:8443?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#🇺🇸_🇺🇸_ping_3114ms
+# Date/Time: 2026-08-07 / 11:32 (Moscow)
+# Количество: 6
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443?security=tls&insecure=0&sni=hopp-us.yyuyy.com#🇺🇸_ping_61ms_speed_27.9Mbps
+hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech#🇺🇸_ping_311ms_speed_2.6Mbps_out🇺🇸
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls#🇫🇮_ping_415ms_speed_5.7Mbps
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#🇺🇸_ping_650ms_speed_10.6Mbps
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?security=tls&insecure=1&sni=www.cloudflare.com#🇩🇪_ping_788ms_speed_0.1Mbps
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_ping_1113ms_speed_0.7Mbps

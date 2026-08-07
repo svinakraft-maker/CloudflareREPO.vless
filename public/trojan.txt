@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-07 / 02:33 (Moscow)
+# Date/Time: 2026-08-07 / 04:35 (Moscow)
 # Количество: 126
 trojan://ND91608427@13.192.168.51:443?sni=learning-leopard.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵_ping_53ms_speed_16.9Mbps
 trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#🇩🇪_ping_54ms_speed_25.5Mbps_out🇩🇪

@@ -1,11 +1,8 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 11:26 (Moscow)
-# Количество: 7
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#🇫🇮_ping_302ms_speed_2.9Mbps
-hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech#🇫🇮_ping_307ms_speed_21.7Mbps_out🇫🇮
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴_ping_400ms_speed_21.3Mbps
-hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇩🇪_ping_445ms_speed_0.3Mbps
-hysteria2://Kaba_J9EW524x_Nx9gh5_Mzqkl9r_Se260@147.90.14.165:8443?sni=key-very-far.mysynology.net#🇫🇷_ping_635ms_speed_0.4Mbps
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443?sni=fi-one.quiet-rogue.site#🇫🇮_ping_2318ms_speed_1.7Mbps
-hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?security=tls&insecure=1#🇺🇸_ping_4124ms_speed_1.4Mbps
+# Date/Time: 2026-08-08 / 12:32 (Moscow)
+# Количество: 4
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#🇫🇮_🇫🇮_ping_162ms
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇩🇪_🇩🇪_ping_373ms
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴_🇷🇴_ping_1128ms
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443?sni=fi-one.quiet-rogue.site#🇫🇮_🇫🇮_ping_2092ms

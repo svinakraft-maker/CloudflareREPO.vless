@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-09 / 00:26 (Moscow)
+# Date/Time: 2026-08-09 / 02:30 (Moscow)
 # Количество: 11
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443?sni=mercedes-grape.yyuyy.com#🇷🇴_ping_152ms
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.222.3.181:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_374ms_speed_18.8Mbps

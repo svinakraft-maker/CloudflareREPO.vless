@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 16:08 (Moscow)
+# Date/Time: 2026-08-08 / 18:14 (Moscow)
 # Количество: 100
 vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.85:8443?type=grpc&security=reality&encryption=none&sni=avatars.mds.yandex.net&fp=qq&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&headerType=none&serviceName=grpc-yandex&mode=gun#🇷🇺_ping_62ms_speed_26.8Mbps
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.63.156:62145?type=tcp&headerType=none&path=%2F#🇳🇱_ping_88ms_speed_26.0Mbps

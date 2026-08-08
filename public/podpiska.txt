@@ -1,6 +1,6 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 16:08 (Moscow)
+# Date/Time: 2026-08-08 / 18:14 (Moscow)
 # Количество: 814
 vless://bee21918-0933-430c-904b-c941b92256ba@104.171.136.112:2200?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_38ms
 vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:26795?headerType=&type=tcp&encryption=none&security=&freeinternet=kizyak_vpn1786130140620#🇫🇮_ping_40ms

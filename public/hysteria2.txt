@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 04:52 (Moscow)
+# Date/Time: 2026-08-08 / 06:54 (Moscow)
 # Количество: 11
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@on.cryptoofarm.com:443?sni=on.cryptoofarm.com&insecure=0&allowInsecure=0#🇫🇮_ping_165ms_speed_17.5Mbps
 hysteria2://8e9b2c52-e083-40fb-92c1-8a8cd4c6a02c@78.159.250.230:443?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#🇫🇮_ping_203ms_speed_10.5Mbps_out🇫🇮

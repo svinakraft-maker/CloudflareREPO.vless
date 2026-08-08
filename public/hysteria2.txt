@@ -1,15 +1,12 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 06:54 (Moscow)
-# Количество: 11
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@on.cryptoofarm.com:443?sni=on.cryptoofarm.com&insecure=0&allowInsecure=0#🇫🇮_ping_165ms_speed_17.5Mbps
-hysteria2://8e9b2c52-e083-40fb-92c1-8a8cd4c6a02c@78.159.250.230:443?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#🇫🇮_ping_203ms_speed_10.5Mbps_out🇫🇮
-hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech&insecure=0&allowInsecure=0#🇫🇮_ping_320ms_speed_5.8Mbps_out🇫🇮
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443?sni=fi-one.quiet-rogue.site#🇫🇮_ping_547ms_speed_5.9Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷_ping_821ms_speed_8.3Mbps
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇦🇪_ping_1205ms_speed_8.0Mbps
-hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?security=tls&insecure=1&sni=185.236.22.119#🇩🇪_ping_1208ms_speed_25.7Mbps_out🇩🇪
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls#🇦🇪_ping_1342ms_speed_14.7Mbps
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?sni=hopp-legend-se.roxa.org#🇸🇨_ping_1361ms_speed_6.3Mbps_out🇸🇨
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#🇺🇸_ping_2610ms
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_ping_4300ms_speed_3.0Mbps
+# Date/Time: 2026-08-08 / 08:01 (Moscow)
+# Количество: 8
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇦🇪_🇦🇪_ping_286ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls#🇦🇪_🇦🇪_ping_320ms
+hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@on.cryptoofarm.com:443?sni=on.cryptoofarm.com&insecure=0&allowInsecure=0#🇫🇮_🇫🇮_ping_408ms
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#🇺🇸_🇺🇸_ping_552ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#ping_840ms
+hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech&insecure=0&allowInsecure=0#🇫🇮_🇫🇮_ping_1236ms
+hysteria2://8e9b2c52-e083-40fb-92c1-8a8cd4c6a02c@78.159.250.230:443?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#🇫🇮_🇫🇮_ping_1690ms
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443?sni=fi-one.quiet-rogue.site#🇫🇮_🇫🇮_ping_3296ms

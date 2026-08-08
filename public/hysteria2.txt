@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 16:08 (Moscow)
+# Date/Time: 2026-08-08 / 18:14 (Moscow)
 # Количество: 9
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?sni=hopp-legend-se.roxa.org#🇸🇨_ping_312ms_speed_7.8Mbps_out🇸🇨
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_ping_350ms_speed_2.0Mbps

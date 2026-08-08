@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 19:55 (Moscow)
+# Date/Time: 2026-08-08 / 22:02 (Moscow)
 # Количество: 135
 trojan://Telegram_healer_config@www.speedtest.net:443?path=/tr/D738GCJkClC3ZuZTvEDbh?ed=2560&security=tls&alpn=http/1.1&sni=f1d3r2i3j-9cbv9ixq6u73529fgb.lxmdyxormmmdiabx0-td.workers.dev&fp=chrome&type=ws&sni=f1d3r2i3j-9cBv9iXQ6U73529fGb.lxmdYxORMmmDIaBX0-tD.WOrkerS.dEv#🇩🇪_ping_120ms_out🇩🇪
 trojan://UO36402987@3.120.37.181:443?sni=many-cricket.rooster465.autos#🇩🇪_ping_136ms

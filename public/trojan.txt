@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-08 / 09:24 (Moscow)
+# Date/Time: 2026-08-08 / 11:26 (Moscow)
 # Количество: 139
 trojan://Telegram_healer_config@www.speedtest.net:443?path=/tr/WBxqItFfodwwd5KkhKtK2o?ed=2560&security=tls&alpn=http/1.1&sni=jfw5fii30i7-sc560avfnfnh613.i6jsq7mr66e-e14trd.workers.dev&fp=chrome&type=ws&sni=jfw5Fii30i7-sc560AVFNfNH613.i6JSQ7Mr66E-e14trd.wOrkeRs.dev#🇩🇪_ping_112ms_out🇩🇪
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#🇸🇪_ping_118ms_out🇸🇪

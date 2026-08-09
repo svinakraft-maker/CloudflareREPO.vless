@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-09 / 09:28 (Moscow)
+# Date/Time: 2026-08-09 / 11:30 (Moscow)
 # Количество: 9
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.122:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#🇷🇴_ping_248ms_speed_8.1Mbps
 hysteria2://7836b28e-8451-4596-ad3e-e3601b2335ba@78.159.240.69:8443?sni=quic.tyr-agentstvo.tech#🇫🇮_ping_329ms_speed_10.2Mbps_out🇫🇮

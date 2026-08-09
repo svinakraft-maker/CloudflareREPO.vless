@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-09 / 23:10 (Moscow)
+# Date/Time: 2026-08-10 / 01:14 (Moscow)
 # Количество: 100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🇳🇱_ping_87ms_speed_26.9Mbps
 vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&host=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#🇷🇺_ping_66ms_speed_18.2Mbps

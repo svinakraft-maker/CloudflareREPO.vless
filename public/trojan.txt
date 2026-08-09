@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-09 / 04:57 (Moscow)
+# Date/Time: 2026-08-09 / 06:59 (Moscow)
 # Количество: 142
 trojan://cvZSjDw-t2FsubEAfYmGJhGhu6KQ4f7o@lvhy2.metricpipe.space:9443?type=tcp&security=tls&sni=lvhy2.metricpipe.space&fp=chrome&alpn=http/1.1#🇱🇻_ping_81ms
 trojan://cvZSjDw-t2FsubEAfYmGJhGhu6KQ4f7o@fihy2.metricpipe.space:9443?type=tcp&security=tls&sni=fihy2.metricpipe.space&fp=chrome&alpn=http/1.1#🇷🇺_ping_104ms

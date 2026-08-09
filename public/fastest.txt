@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-09 / 18:35 (Moscow)
+# Date/Time: 2026-08-09 / 20:40 (Moscow)
 # Количество: 100
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@195.133.23.5:60110#🇷🇺_ping_45ms_speed_26.0Mbps
 vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.97.7:443?security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#🇺🇸_ping_93ms_speed_27.4Mbps_out🇺🇸

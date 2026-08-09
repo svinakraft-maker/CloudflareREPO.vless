@@ -1,14 +1,10 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-09 / 06:59 (Moscow)
-# Количество: 10
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_ping_157ms_speed_2.8Mbps
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🇦🇪_ping_204ms_speed_12.3Mbps
-hysteria2://Kaba_J9EW524x_Nx9gh5_Mzqkl9r_Se260@147.90.14.165:8443?sni=key-very-far.mysynology.net#🇫🇷_ping_227ms_speed_5.5Mbps
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443?sni=mercedes-grape.yyuyy.com#🇷🇴_ping_309ms_speed_8.8Mbps
-hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_ping_327ms_speed_12.6Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_394ms_speed_8.2Mbps
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#🇺🇸_ping_676ms
-hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:2053?sni=fi-one.quiet-rogue.site#🇫🇮_ping_716ms_speed_4.8Mbps_out🇫🇮
-hysteria2://8e9b2c52-e083-40fb-92c1-8a8cd4c6a02c@78.159.250.230:443?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#🇫🇮_ping_1097ms_speed_0.8Mbps_out🇫🇮
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🇦🇪_ping_1297ms_speed_13.2Mbps
+# Date/Time: 2026-08-09 / 08:05 (Moscow)
+# Количество: 6
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🇦🇪_🇦🇪_ping_455ms
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#🇺🇸_🇺🇸_ping_669ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_🇨🇦_ping_786ms
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#🇫🇮_🇫🇮_ping_1523ms
+hysteria2://8e9b2c52-e083-40fb-92c1-8a8cd4c6a02c@78.159.250.230:443?alpn=h3&sni=quic.tyr-agentstvo.tech&fp=chrome#🇫🇮_🇫🇮_ping_2256ms
+hysteria2://Kaba_J9EW524x_Nx9gh5_Mzqkl9r_Se260@147.90.14.165:8443?sni=key-very-far.mysynology.net#🇫🇷_🇫🇷_ping_3425ms

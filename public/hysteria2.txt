@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-10 / 08:27 (Moscow)
+# Date/Time: 2026-08-10 / 10:31 (Moscow)
 # Количество: 7
 hysteria2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@138.124.64.113:443?sni=pl1.apexvpn.space#🇨🇭_ping_339ms_speed_4.0Mbps
 hysteria2://8e9b2c52-e083-40fb-92c1-8a8cd4c6a02c@78.159.240.215:443?security=tls&insecure=0&sni=quic.tyr-agentstvo.tech#🇫🇮_ping_398ms_speed_7.1Mbps_out🇫🇮

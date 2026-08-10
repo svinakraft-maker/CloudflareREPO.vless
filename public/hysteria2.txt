@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-10 / 03:45 (Moscow)
+# Date/Time: 2026-08-10 / 05:48 (Moscow)
 # Количество: 7
 hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:8443?sni=de-two.quiet-rogue.site#🇩🇪_ping_150ms_speed_10.4Mbps_out🇩🇪
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443/?sni=mercedes-grape.yyuyy.com#🇷🇴_ping_577ms_speed_1.5Mbps

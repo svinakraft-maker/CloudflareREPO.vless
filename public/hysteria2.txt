@@ -1,11 +1,8 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-10 / 05:48 (Moscow)
-# Количество: 7
-hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:8443?sni=de-two.quiet-rogue.site#🇩🇪_ping_150ms_speed_10.4Mbps_out🇩🇪
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443/?sni=mercedes-grape.yyuyy.com#🇷🇴_ping_577ms_speed_1.5Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_583ms_speed_8.5Mbps
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#🇺🇸_ping_778ms_speed_7.7Mbps
-hysteria2://8e9b2c52-e083-40fb-92c1-8a8cd4c6a02c@78.159.240.215:443?security=tls&insecure=0&sni=quic.tyr-agentstvo.tech#🇫🇮_ping_782ms_speed_3.3Mbps_out🇫🇮
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443?sni=host-vds2-fr.kvncococ.org&path=%2f#🇫🇷_ping_1240ms_speed_12.7Mbps
-hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#🇰🇷_ping_1363ms
+# Date/Time: 2026-08-10 / 06:58 (Moscow)
+# Количество: 4
+hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:8443?sni=de-two.quiet-rogue.site#🇩🇪_🇩🇪_ping_258ms
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443/?sni=mercedes-grape.yyuyy.com#🇷🇴_🇷🇴_ping_461ms
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#🇺🇸_🇺🇸_ping_1567ms
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443?sni=host-vds2-fr.kvncococ.org&path=%2f#ping_1585ms

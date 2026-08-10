@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-10 / 13:08 (Moscow)
+# Date/Time: 2026-08-10 / 15:16 (Moscow)
 # Количество: 7
 hysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41&security=tls&fp=chrome&fm={#🇵🇱_ping_205ms
 hysteria2://8f7eeebd-3378-4bf1-b80a-cb2a393a031d@176.124.222.180:8443?sni=j47lq.pleiades.codes#🇩🇪_ping_263ms_speed_2.3Mbps_out🇩🇪

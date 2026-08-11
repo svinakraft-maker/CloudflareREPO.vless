@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-11 / 02:55 (Moscow)
+# Date/Time: 2026-08-11 / 04:57 (Moscow)
 # Количество: 13
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#🇩🇪_ping_156ms_speed_2.4Mbps_out🇩🇪
 hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:2083?sni=swe-one.quiet-rogue.site#🇸🇪_ping_184ms_speed_26.5Mbps_out🇸🇪

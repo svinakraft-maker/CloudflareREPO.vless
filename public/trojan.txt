@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-11 / 16:34 (Moscow)
+# Date/Time: 2026-08-11 / 18:44 (Moscow)
 # Количество: 90
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?fp=chrome&path=%2FWangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🏳_ping_122ms
 trojan://UO36402987@3.120.37.181:443?sni=many-cricket.rooster465.autos#🇩🇪_ping_136ms

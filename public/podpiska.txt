@@ -1,6 +1,6 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-11 / 02:55 (Moscow)
+# Date/Time: 2026-08-11 / 04:56 (Moscow)
 # Количество: 731
 vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?&type=ws&headerType=none&path=%2Fv1#🇷🇺_ping_36ms
 vless://4cbdaf4f-ca34-4a00-9a96-49eaa6564b42@217.149.23.169:2200?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_36ms

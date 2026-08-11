@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-11 / 07:25 (Moscow)
+# Date/Time: 2026-08-11 / 09:28 (Moscow)
 # Количество: 100
 vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009&spx=/HesarWeb#🇷🇺_ping_77ms_speed_29.8Mbps
 vless://39c17ce4-86e4-07d0-ae20-ebc942f73334@89.208.231.191:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=raw#🇷🇺_ping_74ms_speed_27.5Mbps

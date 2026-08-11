@@ -1,6 +1,6 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-11 / 07:25 (Moscow)
+# Date/Time: 2026-08-11 / 09:28 (Moscow)
 # Количество: 1879
 vless://6c0ced37-dd9c-43f2-b474-6dafe036c44b@104.171.132.128:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_36ms_speed_0.1Mbps
 vless://b3d66abd-ea82-4616-92f0-1dec8d1e4cfc@193.188.23.170:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺_ping_38ms_speed_0.0Mbps

@@ -1,10 +1,10 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 18:02 (Moscow)
+# Date/Time: 2026-08-12 / 18:41 (Moscow)
 # Количество: 6
-hysteria2://130e6aab-9eba-441e-9021-22cbccc72832@srvhy1.ezcon24.online:8443?sni=srvhy1.ezcon24.online#🇺🇸_🇺🇸_ping_330ms
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=nl1.noesissite.ru#🇳🇱_🇳🇱_ping_526ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_🏳_ping_651ms
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8443?sni=grape-honk.yyuyy.com#🇺🇸_🇺🇸_ping_672ms
-hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?sni=hopp-us.yyuyy.com#🇺🇸_🇺🇸_ping_1566ms
-hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001/?insecure=1#🇺🇸_🇺🇸_ping_1959ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?insecure=0&sni=ee1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇪🇪_ping_226ms_speed_20.6Mbps
+hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.tokyoservice.ir:2082?sni=hy2.tokyoservice.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9&security=tls#🇩🇪_ping_496ms
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#🇺🇸_ping_622ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇸🇬_ping_762ms_speed_14.4Mbps
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1#🇺🇸_ping_1344ms_speed_5.3Mbps
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.126:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#🇷🇴_ping_5541ms_speed_18.0Mbps

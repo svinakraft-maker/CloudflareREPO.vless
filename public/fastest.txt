@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 06:10 (Moscow)
+# Date/Time: 2026-08-12 / 08:16 (Moscow)
 # Количество: 100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🇳🇱_ping_78ms_speed_26.9Mbps
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#🇳🇱_ping_97ms_speed_24.3Mbps_out🇳🇱

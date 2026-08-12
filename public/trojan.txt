@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 01:40 (Moscow)
+# Date/Time: 2026-08-12 / 03:42 (Moscow)
 # Количество: 102
 trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#🇫🇷_ping_183ms_speed_0.1Mbps
 trojan://UO36402987@54.216.124.178:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=warm-bass.rooster465.autos#🇮🇪_ping_208ms

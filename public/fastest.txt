@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 10:46 (Moscow)
+# Date/Time: 2026-08-12 / 12:49 (Moscow)
 # Количество: 100
 vless://27392d81-048b-45c6-b919-70f4d3f9d60e@195.78.48.167:8453?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nzqaN3lDq7ydcGlEpDvQ58WNo2iEETUxDHzSZwvkhmY&sid=a1b2c3d4&sni=yastatic.net#🇯🇵_ping_87ms_speed_29.2Mbps
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🇳🇱_ping_82ms_speed_26.7Mbps

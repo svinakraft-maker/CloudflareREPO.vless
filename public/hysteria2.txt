@@ -1,9 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 21:19 (Moscow)
-# Количество: 5
-hysteria2://cd74c0a406664a5bc0bac098220a2468@fi1.sferavpn.pro:443?sni=fi1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇫🇮_🇫🇮_ping_160ms
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.214:8443?sni=grape-turbo-fr.roxa.org#🇷🇴_🇷🇴_ping_266ms
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#🇺🇸_🇺🇸_ping_572ms
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=nl1.noesissite.ru#🇳🇱_🇳🇱_ping_691ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#ping_5016ms
+# Date/Time: 2026-08-12 / 21:59 (Moscow)
+# Количество: 7
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_212ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_529ms_speed_1.6Mbps
+hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.tokyoservice.ir:2082?insecure=0&sni=hy2.tokyoservice.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#🇩🇪_ping_662ms
+hysteria2://@Telegram@Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#🇹🇷_ping_754ms_speed_23.1Mbps
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_866ms_speed_8.0Mbps
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1#🇩🇪_ping_1466ms_speed_0.4Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.251.47.95:443/?insecure=1&sni=vpn-us-002.fastervpn.world#🇺🇸_ping_1614ms_speed_14.6Mbps

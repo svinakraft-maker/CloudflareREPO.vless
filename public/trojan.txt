@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 21:59 (Moscow)
+# Date/Time: 2026-08-12 / 22:38 (Moscow)
 # Количество: 104
 trojan://UO36402987@3.120.37.181:443/?type=tcp&security=tls&sni=many-cricket.rooster465.autos#🇩🇪_ping_144ms
 trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos#🇩🇪_ping_161ms

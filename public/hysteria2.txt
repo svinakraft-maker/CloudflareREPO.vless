@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 20:19 (Moscow)
+# Date/Time: 2026-08-12 / 20:58 (Moscow)
 # Количество: 10
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?sni=nl1.noesissite.ru#🇳🇱_ping_216ms_speed_24.4Mbps
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#🇺🇸_ping_562ms_speed_11.4Mbps

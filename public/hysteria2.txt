@@ -1,11 +1,8 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-12 / 22:38 (Moscow)
-# Количество: 7
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_212ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_529ms_speed_1.6Mbps
-hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.tokyoservice.ir:2082?insecure=0&sni=hy2.tokyoservice.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#🇩🇪_ping_662ms
-hysteria2://@Telegram@Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#🇹🇷_ping_754ms_speed_23.1Mbps
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_866ms_speed_8.0Mbps
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1#🇩🇪_ping_1466ms_speed_0.4Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.251.47.95:443/?insecure=1&sni=vpn-us-002.fastervpn.world#🇺🇸_ping_1614ms_speed_14.6Mbps
+# Date/Time: 2026-08-12 / 22:59 (Moscow)
+# Количество: 4
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_🇫🇷_ping_185ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_🇨🇦_ping_447ms
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1#🇩🇪_🇩🇪_ping_664ms
+hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.tokyoservice.ir:2082?insecure=0&sni=hy2.tokyoservice.ir&obfs=salamander&obfs-password=AIbOe_791iQ4k6kPUgdsO7B9#ping_756ms

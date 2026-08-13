@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 13:08 (Moscow)
+# Date/Time: 2026-08-13 / 13:45 (Moscow)
 # Количество: 100
 vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?type=raw&security=reality&sni=obx1.vypnet.su&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=chrome#🇷🇺_ping_53ms_speed_27.4Mbps
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@45.140.169.123:10808#🇷🇺_ping_49ms_speed_24.9Mbps

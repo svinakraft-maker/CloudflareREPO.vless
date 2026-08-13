@@ -1,6 +1,6 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 06:16 (Moscow)
+# Date/Time: 2026-08-13 / 06:54 (Moscow)
 # Количество: 2007
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@195.133.23.5:30331#🇷🇺_ping_31ms_speed_16.4Mbps
 vless://bee21918-0933-430c-904b-c941b92256ba@104.171.133.53:2200?host=rzd.ru&path=%2Fv1&security=none&type=ws#🇷🇺_ping_34ms_speed_0.1Mbps

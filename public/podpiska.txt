@@ -1,6 +1,6 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 14:48 (Moscow)
+# Date/Time: 2026-08-13 / 15:27 (Moscow)
 # Количество: 997
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@195.133.23.5:30331#🇷🇺_ping_31ms_speed_9.5Mbps
 vless://a08968c9-6301-459c-b047-ac7c7be57c40@83.217.192.58:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#🇷🇺_ping_36ms_speed_0.1Mbps

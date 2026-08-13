@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 04:34 (Moscow)
+# Date/Time: 2026-08-13 / 05:09 (Moscow)
 # Количество: 220
 trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&type=tcp&fp=chrome#🇫🇷_ping_167ms_speed_8.9Mbps
 trojan://AE62539071@up-dinosaur.rooster465.autos:443?sni=up-dinosaur.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_170ms_speed_2.7Mbps

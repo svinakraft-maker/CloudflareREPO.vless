@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 17:09 (Moscow)
+# Date/Time: 2026-08-13 / 17:34 (Moscow)
 # Количество: 264
 trojan://AE62539071@sterling-macaw.rooster465.autos:443?security=tls#🇩🇪_ping_154ms_speed_0.5Mbps
 trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos#🇫🇷_ping_162ms

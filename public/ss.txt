@@ -1,6 +1,6 @@
 # profile-title: SS
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 21:12 (Moscow)
+# Date/Time: 2026-08-13 / 21:51 (Moscow)
 # Количество: 62
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ==@195.133.23.200:30331#🇷🇺_ping_55ms_speed_6.0Mbps
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#🇫🇷_ping_58ms_speed_3.1Mbps

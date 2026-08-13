@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 11:25 (Moscow)
+# Date/Time: 2026-08-13 / 12:04 (Moscow)
 # Количество: 9
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@els1.mangshe.xyz:2056?insecure=1&sni=els1.mangshe.xyz#🇷🇺_ping_261ms_speed_13.6Mbps
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1#🇩🇪_ping_400ms_speed_14.6Mbps

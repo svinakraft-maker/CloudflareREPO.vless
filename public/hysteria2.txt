@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 14:49 (Moscow)
+# Date/Time: 2026-08-13 / 15:27 (Moscow)
 # Количество: 7
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1#🇩🇪_ping_357ms_speed_5.2Mbps
 hysteria2://cd74c0a406664a5bc0bac098220a2468@de2.sferavpn.pro:443?insecure=0&sni=de2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_448ms_speed_25.0Mbps

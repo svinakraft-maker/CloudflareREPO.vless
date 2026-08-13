@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 16:30 (Moscow)
+# Date/Time: 2026-08-13 / 17:09 (Moscow)
 # Количество: 100
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@ru.falsemirrov.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.falsemirrov.com&fp=firefox&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb&type=tcp&headerType=none#🇷🇺_ping_74ms_speed_26.4Mbps
 vless://463a26c2-eba8-40ea-89c4-ee5c1373ccbe@dsech.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=dsech.mostserv.xyz&fp=firefox&pbk=g0mDPNlv3uOrnxXvBYP3cEjd0ewJuIFlBh93KE5bU3A&sid=d0ca141e839394a3&flow=xtls-rprx-vision#🏳_ping_77ms_speed_26.6Mbps_out🏳

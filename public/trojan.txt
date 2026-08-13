@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-14 / 02:17 (Moscow)
+# Date/Time: 2026-08-14 / 02:56 (Moscow)
 # Количество: 335
 trojan://123444@104.17.122.10:2083?path=/?ed=2560&security=tls&host=northrendserver.sherekontop.workers.dev&fp=random&type=ws&sni=northrendserver.sherekontop.workers.dev#🇷🇺_ping_141ms_out🇷🇺
 trojan://AE62539071@proper-marlin.rooster465.autos:443?security=tls#🇩🇪_ping_147ms

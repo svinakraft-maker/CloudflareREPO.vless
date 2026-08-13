@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 17:51 (Moscow)
+# Date/Time: 2026-08-13 / 18:30 (Moscow)
 # Количество: 8
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_376ms_speed_14.4Mbps
 hysteria2://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@rpc-2068.internet-booster.com:443/?sni=rpc-2068.internet-booster.com&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22maxIdleTimeout%22%3A10%2C%22keepAlivePeriod%22%3A5%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22initStreamReceiveWindow%22%3A8388608%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22initConnectionReceiveWindow%22%3A20971520%7D%7D#🇵🇱_ping_937ms_speed_10.5Mbps

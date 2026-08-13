@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 02:55 (Moscow)
+# Date/Time: 2026-08-13 / 03:32 (Moscow)
 # Количество: 100
 vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?encryption=none&flow=xtls-rprx-vision&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&security=reality&sid=03a70b17f8036009&sni=smartcaptcha.yandexcloud.net&type=raw#🇷🇺_ping_62ms_speed_29.1Mbps
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl08.skorostnet.space:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&sni=www.epicgames.com#🇦🇪_ping_96ms_speed_27.3Mbps

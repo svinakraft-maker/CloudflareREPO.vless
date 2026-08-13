@@ -1,9 +1,14 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-13 / 22:14 (Moscow)
-# Количество: 5
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#🇷🇴_🇷🇴_ping_271ms
-hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_🇱🇻_ping_340ms
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🇷🇴_🇷🇴_ping_449ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de2.sferavpn.pro:443?insecure=0&sni=de2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_🇩🇪_ping_1047ms
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443?sni=grape-turbo-fr.roxa.org#🇷🇴_🇷🇴_ping_3598ms
+# Date/Time: 2026-08-13 / 22:55 (Moscow)
+# Количество: 10
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#🇩🇪_ping_172ms_speed_15.8Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de2.sferavpn.pro:443?insecure=0&sni=de2.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_374ms_speed_24.0Mbps
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=159.223.157.129#🇺🇸_ping_524ms_speed_6.4Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_755ms_speed_10.5Mbps
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#🇺🇸_ping_940ms
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.214:8443?sni=grape-turbo-fr.roxa.org#🇷🇴_ping_1170ms_speed_3.0Mbps
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.218:8443?sni=grape-turbo-fr.roxa.org#🇷🇴_ping_1214ms_speed_15.4Mbps
+hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_ping_1582ms_speed_0.5Mbps
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk.yyuyy.com#🇨🇳_ping_1666ms_speed_3.6Mbps_out🇨🇳
+hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.210:8443?sni=borat-hopp.bumbleshrimp.com#🇰🇿_ping_6482ms_speed_0.4Mbps

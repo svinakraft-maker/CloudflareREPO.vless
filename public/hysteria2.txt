@@ -1,14 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 01:34 (Moscow)
-# Количество: 10
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.234.58:443/?insecure=1&sni=nl1.noesissite.ru#🇳🇱_ping_181ms_speed_2.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇫🇷_ping_190ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬_ping_588ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_ping_642ms_out🏳
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_ping_1020ms_speed_11.3Mbps_out🏳
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&burmalda=a6daf07e#🇪🇪_ping_1296ms_speed_3.0Mbps
-hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#🇩🇪_ping_1480ms_speed_0.4Mbps
-hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.40:8443?sni=grape-beer.yyuyy.com#🇯🇵_ping_1910ms_speed_2.6Mbps
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8080?sni=grape-honk.yyuyy.com#🇸🇨_ping_3562ms_speed_3.2Mbps_out🇸🇨
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8443?sni=grape-honk.yyuyy.com#🇺🇸_ping_3627ms_speed_2.7Mbps
+# Date/Time: 2026-08-15 / 01:58 (Moscow)
+# Количество: 7
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&burmalda=a6daf07e#🇪🇪_🇪🇪_ping_413ms
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.234.58:443/?insecure=1&sni=nl1.noesissite.ru#🇳🇱_🇳🇱_ping_440ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#ping_589ms
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_🏳_ping_1071ms
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_🏳_ping_1113ms
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8080?sni=grape-honk.yyuyy.com#🇸🇨_🇸🇨_ping_1572ms
+hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.40:8443?sni=grape-beer.yyuyy.com#🇯🇵_🇯🇵_ping_1659ms

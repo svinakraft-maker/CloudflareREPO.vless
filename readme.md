@@ -16,7 +16,9 @@
 ## 🎬 Демо
 
 <div align="center">
-  <img src="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/video/prewiew.gif" alt="Live Demo" width="100%">
+  
+![maxresdefault](https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/refs/heads/main/video/prewiew.gif)
+
 </div>
 
 ## 🚀 Готовая подписка

@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-14 / 12:55 (Moscow)
+# Date/Time: 2026-08-14 / 13:34 (Moscow)
 # Количество: 13
 hysteria2://4e82f6c9-e180-4672-9d63-9060679ebdb9@node.embrofree.org:443?sni=node.embrofree.org#🇺🇸_ping_196ms_speed_8.9Mbps_out🇺🇸
 hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_ping_243ms_speed_0.8Mbps

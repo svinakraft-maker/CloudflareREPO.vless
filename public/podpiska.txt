@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
 # Date/Time: 2026-08-14 / 06:26 (Moscow)
-# Количество: 1973
+# Количество: 1951
 vless://a08968c9-6301-459c-b047-ac7c7be57c40@83.217.192.58:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1#🇷🇺_ping_36ms
 vless://ed1cd50f-ead9-4e01-b5ae-b7d2dfb532fc@201.51.5.253:2200?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_36ms_speed_0.2Mbps
 vless://d5d72f0a-42b0-4f43-b568-9cf7fbff073d@104.171.137.141:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#🇷🇺_ping_37ms_speed_0.0Mbps
@@ -1953,25 +1953,3 @@ vless://79aa80da-2394-4b0a-986b-15dad2382046@146.190.174.67:386?encryption=none&
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.159.181.182:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&security=reality&sid=e852dc&sni=amd.com&type=tcp#🇩🇪_ping_5668ms_speed_0.4Mbps
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@8.6.112.6:2053?type=ws&security=tls&fp=firefox&sni=music1000.melobitmusic1.ir#🇫🇷_ping_5795ms_speed_2.2Mbps_out🇫🇷
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@chatgpt.com:2053?encryption=none&host=music1000.melobitmusic1.ir&path=/&security=tls&sni=music1000.melobitmusic1.ir&type=ws#🇫🇷_ping_6006ms_speed_7.3Mbps_out🇫🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#🇫🇮_🇫🇮_ping_64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#🇫🇮_🇫🇮_ping_64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_80ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷_🇫🇷_ping_91ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#🇳🇱_🇳🇱_ping_95ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱_🇳🇱_ping_95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDE5My4yOS4xMzkuMjM0OjgwODA=#🇳🇱_🇳🇱_ping_100ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9qQDE5My4yOS4xMzkuMjEyOjgwODA=#🇳🇱_🇳🇱_ping_103ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#🇫🇷_🇫🇷_ping_108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#🇬🇧_🇬🇧_ping_115ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#🇬🇧_🇬🇧_ping_115ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_141ms
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#🇳🇱_🇳🇱_ping_172ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#🇬🇧_🇬🇧_ping_189ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#🇳🇱_🇳🇱_ping_204ms
-ss://YWVzLTEyOC1nY206MzQ4Mjk3MzQtYjFjYy00NWU0LWEwZmEtNjZjOThkZDJiMWQ1QDEwNy4xNzQuMjAxLjE3NzozMDAwMQ==#🇺🇸_🇺🇸_ping_384ms
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206NWpmck1vU0dQU1IxRnF3VEZ0cGM4Zz09@47.88.85.254:23226#🇺🇸_🇺🇸_ping_387ms
-hysteria2://22j0d00lev7mq0yv@2.26.97.21:8443/?insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#🇫🇮_🇫🇮_ping_390ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNOQDE5NC42MS4xMjEuOTM6NzUzOA==#🇵🇱_🇵🇱_ping_423ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZ3dJQTNueXhqWVlPdWRPNTRwdW90@130.49.189.158:10792#🇷🇺_🇷🇺_ping_466ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENIQDQ1Ljc3LjIzMi4yMTM6MTU2NzU=#🇦🇺_🇦🇺_ping_603ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443#🇳🇱_🇳🇱_ping_5950ms

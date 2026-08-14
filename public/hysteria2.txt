@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-14 / 07:35 (Moscow)
+# Date/Time: 2026-08-14 / 08:15 (Moscow)
 # Количество: 10
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#🇦🇪_ping_322ms_speed_11.6Mbps
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?sni=hopp-legend-se.roxa.org#🇸🇨_ping_406ms_speed_3.2Mbps_out🇸🇨

@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-14 / 04:01 (Moscow)
+# Date/Time: 2026-08-14 / 04:40 (Moscow)
 # Количество: 384
 trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_144ms_speed_10.9Mbps
 trojan://AE62539071@18.194.232.212:443?sni=dashing-bedbug.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_146ms

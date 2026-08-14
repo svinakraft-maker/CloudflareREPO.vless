@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-14 / 16:09 (Moscow)
+# Date/Time: 2026-08-14 / 16:48 (Moscow)
 # Количество: 340
 trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#🇫🇷_ping_182ms
 trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos#🇫🇷_ping_182ms

@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 11:55 (Moscow)
+# Date/Time: 2026-08-15 / 12:35 (Moscow)
 # Количество: 11
 hysteria2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443?sni=ltu-01.node.lumixnet.com&security=tls&fm={}#🇺🇸_ping_98ms_speed_11.7Mbps
 hysteria2://b8f1b61e-d5c4-4765-866d-ece1fc8e590b@87.251.19.4:9443?security=tls&sni=onecloudstream.com#🇪🇪_ping_135ms_speed_3.9Mbps

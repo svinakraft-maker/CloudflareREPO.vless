@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 10:04 (Moscow)
+# Date/Time: 2026-08-15 / 10:44 (Moscow)
 # Количество: 11
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&seq=you_are_beautiful5561#🇺🇸_ping_151ms_speed_23.5Mbps_out🇺🇸
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=95.164.123.231#🇩🇪_ping_404ms_speed_0.2Mbps

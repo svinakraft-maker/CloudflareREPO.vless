@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 13:46 (Moscow)
+# Date/Time: 2026-08-15 / 14:26 (Moscow)
 # Количество: 12
 hysteria2://crmgwnrnnp1bh7z0@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh&fp=edge&security=tls#🇳🇱_ping_254ms_speed_9.6Mbps
 hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@89.169.47.112:443?sni=game.hambot.ru#🇷🇺_ping_285ms_speed_3.8Mbps

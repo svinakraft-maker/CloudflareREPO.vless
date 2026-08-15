@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 04:30 (Moscow)
+# Date/Time: 2026-08-15 / 05:09 (Moscow)
 # Количество: 541
 trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#🇸🇪_ping_133ms_out🇸🇪
 trojan://FH72359861@renewed-chigger.rooster465.autos:443?sni=renewed-chigger.rooster465.autos&type=tcp&fp=chrome#🇳🇱_ping_146ms_speed_3.0Mbps

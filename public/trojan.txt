@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 19:16 (Moscow)
+# Date/Time: 2026-08-15 / 19:55 (Moscow)
 # Количество: 614
 trojan://AE62539071@3.79.7.150:443?type=tcp&security=none&encryption=none&sni=moved-bluegill.rooster465.autos#🇩🇪_ping_140ms
 trojan://FH72359861@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_144ms

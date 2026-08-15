@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 22:53 (Moscow)
+# Date/Time: 2026-08-15 / 23:32 (Moscow)
 # Количество: 12
 hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@nlgas.hambot.ru:443?sni=nlgas.hambot.ru#🇳🇱_ping_143ms_speed_18.6Mbps
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?sni=hopp-legend-se.roxa.org&insecure=0&allowInsecure=0#🇸🇨_ping_290ms_speed_21.7Mbps_out🇸🇨

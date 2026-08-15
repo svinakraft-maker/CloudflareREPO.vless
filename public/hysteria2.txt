@@ -1,20 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 19:55 (Moscow)
-# Количество: 16
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org&insecure=0&allowInsecure=0#🇳🇱_ping_137ms_speed_14.2Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@fi1.sferavpn.pro:443?sni=fi1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇫🇮_ping_194ms_speed_12.7Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇫🇷_ping_198ms
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@els1.mangshe.xyz:2056?insecure=1&security=tls&sni=els1.mangshe.xyz#🇷🇺_ping_278ms_speed_21.0Mbps
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.103:8443?insecure=1&sni=mercedes-grape.yyuyy.com#🇷🇴_ping_300ms_speed_25.3Mbps
-hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@89.169.47.112:443?sni=game.hambot.ru#🇷🇺_ping_429ms_speed_7.9Mbps
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🇷🇴_ping_458ms_speed_12.9Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_459ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_512ms_speed_3.9Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&burmalda=a6daf07e#🇪🇪_ping_553ms_speed_4.5Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.149.2:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_611ms
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?alpn=h3&sni=at164.mechvpn.online#🇦🇹_ping_703ms_speed_2.7Mbps
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_768ms_speed_7.4Mbps
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_ping_1280ms_speed_9.7Mbps_out🏳
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_ping_1329ms_speed_15.5Mbps
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_ping_1937ms_speed_11.2Mbps_out🏳
+# Date/Time: 2026-08-15 / 20:18 (Moscow)
+# Количество: 7
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org&insecure=0&allowInsecure=0#🇳🇱_🇳🇱_ping_253ms
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@els1.mangshe.xyz:2056?insecure=1&security=tls&sni=els1.mangshe.xyz#🇷🇺_🇷🇺_ping_476ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.149.2:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_595ms
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_🏳_ping_947ms
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_🏳_ping_993ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@fi1.sferavpn.pro:443?sni=fi1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇫🇮_🇫🇮_ping_1241ms
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?alpn=h3&sni=at164.mechvpn.online#🇦🇹_🇦🇹_ping_2773ms

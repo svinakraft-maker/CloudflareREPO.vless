@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 06:23 (Moscow)
+# Date/Time: 2026-08-15 / 07:01 (Moscow)
 # Количество: 11
 hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@sc.hambot.ru:4500?sni=sc.hambot.ru#🇪🇪_ping_81ms_speed_3.9Mbps_out🇪🇪
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_255ms

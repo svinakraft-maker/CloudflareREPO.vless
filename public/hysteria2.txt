@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 19:16 (Moscow)
+# Date/Time: 2026-08-15 / 19:55 (Moscow)
 # Количество: 16
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org&insecure=0&allowInsecure=0#🇳🇱_ping_137ms_speed_14.2Mbps
 hysteria2://cd74c0a406664a5bc0bac098220a2468@fi1.sferavpn.pro:443?sni=fi1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇫🇮_ping_194ms_speed_12.7Mbps

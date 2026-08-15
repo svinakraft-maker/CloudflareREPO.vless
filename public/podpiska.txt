@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
 # Date/Time: 2026-08-15 / 16:16 (Moscow)
-# Количество: 1524
+# Количество: 1504
 vless://bee21918-0933-430c-904b-c941b92256ba@104.171.136.112:2200/?__rand=39758b19&path=%2Fv1&type=ws&host=rzd.ru&flow=&burmalda=cc56f356&__rand=dca886c1&encryption=none#🇷🇺_ping_36ms_speed_0.0Mbps
 vless://68fe654e-a28d-4750-a9da-46ae0b865551@201.24.127.110:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#🇷🇺_ping_37ms_speed_0.1Mbps
 vless://ed1cd50f-ead9-4e01-b5ae-b7d2dfb532fc@201.51.5.253:2200?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_38ms_speed_0.0Mbps
@@ -1506,23 +1506,3 @@ trojan://AE62539071@13.158.137.73:443?sni=novel-bat.rooster465.autos&type=tcp&fp
 vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@194.26.229.214:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_5866ms_speed_0.0Mbps
 vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?encryption=none&type=ws&security=tls&path=%2Fvless&host=admin.jikebet.com&sni=admin.jikebet.com&insecure=0&allowInsecure=0#🇬🇧_ping_5986ms_speed_2.2Mbps_out🇬🇧
 vless://2b2ed3be-36bd-486d-9d04-ebf5b4be7ae9@www.ipget.net:8880?type=ws&host=twilight-heart-dbd6.220-2bd.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇸🇬_ping_7492ms_out🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#🇫🇮_🇫🇮_ping_65ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#🇳🇱_🇳🇱_ping_95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#🇳🇱_🇳🇱_ping_105ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDE5My4yOS4xMzkuMjM0OjgwODA=#🇳🇱_🇳🇱_ping_107ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#🇳🇱_🇳🇱_ping_118ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_168ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#🇨🇦_🇨🇦_ping_269ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🇨🇦_🇨🇦_ping_270ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_278ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo=@23.150.248.20:8388#🇺🇸_🇺🇸_ping_304ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_468ms_speed_10.6Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#🇺🇸_🇺🇸_ping_470ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_538ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#🇹🇼_🇹🇼_ping_1070ms_speed_0.7Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#🇹🇼_🇹🇼_ping_1128ms_speed_0.6Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#🇹🇼_🇹🇼_ping_1182ms_speed_0.8Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#🇫🇮_🇫🇮_ping_1249ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYjRZaUlDUWZlRGp2cUNNb3ZLWGxE@74.81.63.87:443#🇺🇸_🇺🇸_ping_1257ms_speed_0.1Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamg0QWFKVGxwaHJ6VTdUSE5qdlkwNUk1ZHlPOHJ3Ng@212.193.6.27:234#🇷🇺_🇷🇺_ping_1600ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#🇫🇷_🇫🇷_ping_5155ms_speed_3.5Mbps

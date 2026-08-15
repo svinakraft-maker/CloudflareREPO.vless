@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-15 / 19:16 (Moscow)
+# Date/Time: 2026-08-15 / 19:55 (Moscow)
 # Количество: 648
 vless://bceda826-c83c-45d0-891e-15c4bfec76bc@104.171.134.235:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_36ms
 vless://bee21918-0933-430c-904b-c941b92256ba@201.24.118.145:4100?type=ws&security=none&path=/v1#🇷🇺_ping_36ms_speed_0.4Mbps

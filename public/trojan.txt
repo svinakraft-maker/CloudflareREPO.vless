@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 04:28 (Moscow)
+# Date/Time: 2026-08-16 / 05:06 (Moscow)
 # Количество: 649
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#🏳_ping_130ms
 trojan://FH72359861@3.120.70.66:443?sni=renewed-porpoise.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_142ms_speed_3.1Mbps

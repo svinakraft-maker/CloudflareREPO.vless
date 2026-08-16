@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 20:04 (Moscow)
+# Date/Time: 2026-08-16 / 20:43 (Moscow)
 # Количество: 9
 hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node3.vpnushka.lol:443/?sni=node3.vpnushka.lol#🇺🇸_ping_147ms_speed_6.3Mbps
 hysteria2://qSQN48hYCKlZvTFCWMxzoCMykKrifx3r@2.27.23.44:43327?sni=gate-v1.not-a-projects.xyz#🇸🇪_ping_298ms_speed_1.0Mbps

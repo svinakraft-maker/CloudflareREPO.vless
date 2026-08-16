@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 23:55 (Moscow)
+# Date/Time: 2026-08-17 / 00:33 (Moscow)
 # Количество: 21
 hysteria2://0147bb62-7972-40ee-a86a-409e0a0fb838@gogo.fontanvpn.com:443?sni=gogo.fontanvpn.com#🇵🇱_ping_141ms_speed_9.4Mbps_out🇵🇱
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_ping_164ms_speed_15.0Mbps

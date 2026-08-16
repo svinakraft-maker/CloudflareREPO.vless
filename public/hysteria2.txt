@@ -1,13 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 20:43 (Moscow)
-# Количество: 9
-hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node3.vpnushka.lol:443/?sni=node3.vpnushka.lol#🇺🇸_ping_147ms_speed_6.3Mbps
-hysteria2://qSQN48hYCKlZvTFCWMxzoCMykKrifx3r@2.27.23.44:43327?sni=gate-v1.not-a-projects.xyz#🇸🇪_ping_298ms_speed_1.0Mbps
-hysteria2://2c1611f83747dd3694e0e90cbf7d4e29@38.99.248.120:50160?insecure=1&sni=38-99-248-120.liao.kdns.fr#🇺🇸_ping_535ms
-hysteria2://b07baf8fca580933cc39e6e5a6671a5d@138-2-67-146.liao.kdns.fr:50160?insecure=1&sni=138-2-67-146.liao.kdns.fr#🇸🇬_ping_710ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷_ping_772ms_speed_6.8Mbps
-hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#🇰🇷_ping_806ms
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_ping_839ms_out🏳
-hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#🇯🇵_ping_1027ms
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?sni=de200.mechvpn.online#🇩🇪_ping_2571ms_speed_4.8Mbps
+# Date/Time: 2026-08-16 / 21:09 (Moscow)
+# Количество: 7
+hysteria2://b07baf8fca580933cc39e6e5a6671a5d@138-2-67-146.liao.kdns.fr:50160?insecure=1&sni=138-2-67-146.liao.kdns.fr#ping_602ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷_🇰🇷_ping_774ms
+hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node3.vpnushka.lol:443/?sni=node3.vpnushka.lol#🇺🇸_🇺🇸_ping_780ms
+hysteria2://qSQN48hYCKlZvTFCWMxzoCMykKrifx3r@2.27.23.44:43327?sni=gate-v1.not-a-projects.xyz#🇸🇪_🇸🇪_ping_902ms
+hysteria2://2c1611f83747dd3694e0e90cbf7d4e29@38.99.248.120:50160?insecure=1&sni=38-99-248-120.liao.kdns.fr#🇺🇸_🇺🇸_ping_989ms
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_🏳_ping_1050ms
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?sni=de200.mechvpn.online#🇩🇪_🇩🇪_ping_2411ms

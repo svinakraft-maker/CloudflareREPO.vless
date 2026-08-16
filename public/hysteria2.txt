@@ -1,23 +1,14 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 22:39 (Moscow)
-# Количество: 19
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?sni=at133.mechvpn.online#🇦🇹_ping_219ms_speed_8.8Mbps
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?sni=hopp-legend-se.roxa.org#🇸🇨_ping_272ms_speed_8.7Mbps_out🇸🇨
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@flkf3.mangshe.xyz:2056?insecure=1&sni=flkf3.mangshe.xyz#🇫🇷_ping_298ms_speed_15.1Mbps
-hysteria2://425e9e31-b017-4e32-bbd3-656473466d5e@mdt1.pubconverter.com:2443?sni=md.pubconverter.com#🇷🇴_ping_304ms_speed_6.7Mbps
-hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:2083?sni=swe-one.quiet-rogue.site#🇸🇪_ping_330ms_speed_9.9Mbps_out🇸🇪
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🇷🇴_ping_388ms_speed_18.2Mbps
-hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@h2.vpnushka.lol:443/?sni=h2.vpnushka.lol&fm={#🇫🇮_ping_396ms_speed_0.3Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳_ping_558ms_speed_10.3Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬_ping_590ms
-hysteria2://6f6f58431702c3aa0b55ddf3d0a63a2c@107-173-165-41.liao.kdns.fr:50160?insecure=1&sni=107-173-165-41.liao.kdns.fr#🇺🇸_ping_592ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.149.2:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_601ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#🇺🇸_ping_603ms_speed_10.8Mbps
-hysteria2://b07baf8fca580933cc39e6e5a6671a5d@138-2-67-146.liao.kdns.fr:50160?insecure=1&sni=138-2-67-146.liao.kdns.fr#🇸🇬_ping_606ms
-hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=95.164.123.231#🇩🇪_ping_802ms_speed_0.2Mbps
-hysteria2://90af65ff00ef2ff089d28d6a11fc10de@23-19-231-152.liao.kdns.fr:50160?sni=23-19-231-152.liao.kdns.fr#🇺🇸_ping_818ms_speed_12.1Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷_ping_868ms_speed_9.0Mbps
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_916ms_speed_9.7Mbps
-hysteria2://0147bb62-7972-40ee-a86a-409e0a0fb838@kum.tokervpn.ru:443?sni=kum.tokervpn.ru#🇩🇪_ping_1763ms_speed_3.1Mbps_out🇩🇪
-hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?insecure=1&sni=130-17-10-202.sslip.io#🇩🇪_ping_3655ms_speed_0.1Mbps_out🇩🇪
+# Date/Time: 2026-08-16 / 23:05 (Moscow)
+# Количество: 10
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?sni=at133.mechvpn.online#🇦🇹_🇦🇹_ping_356ms
+hysteria2://0147bb62-7972-40ee-a86a-409e0a0fb838@kum.tokervpn.ru:443?sni=kum.tokervpn.ru#🇩🇪_🇩🇪_ping_369ms
+hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=95.164.123.231#🇩🇪_🇩🇪_ping_444ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳_🇮🇳_ping_563ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#🇺🇸_🇺🇸_ping_602ms
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🇷🇴_🇷🇴_ping_700ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷_🇰🇷_ping_770ms
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_🇭🇰_ping_882ms
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@flkf3.mangshe.xyz:2056?insecure=1&sni=flkf3.mangshe.xyz#🇫🇷_🇫🇷_ping_2493ms
+hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?insecure=1&sni=130-17-10-202.sslip.io#🇩🇪_🇩🇪_ping_2808ms

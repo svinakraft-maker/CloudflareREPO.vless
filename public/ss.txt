@@ -1,6 +1,6 @@
 # profile-title: SS
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 10:24 (Moscow)
+# Date/Time: 2026-08-16 / 11:05 (Moscow)
 # Количество: 53
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@45.140.169.123:20801#🇷🇺_ping_50ms_speed_6.2Mbps
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ==@195.133.23.200:20901#🇷🇺_ping_79ms_speed_19.6Mbps

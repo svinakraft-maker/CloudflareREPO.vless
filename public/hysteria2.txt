@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 02:33 (Moscow)
+# Date/Time: 2026-08-16 / 03:12 (Moscow)
 # Количество: 32
 hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@sc.hambot.ru:4500?sni=sc.hambot.ru#🇪🇪_ping_94ms_speed_3.5Mbps_out🇪🇪
 hysteria2://Pe1OXeWJcLlGDk2m312qm2UDNcpOgZL4@2.27.42.66:43327?sni=gate-v1.not-a-projects.xyz#🇫🇮_ping_135ms

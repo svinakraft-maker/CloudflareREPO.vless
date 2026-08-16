@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
 # Date/Time: 2026-08-16 / 07:03 (Moscow)
-# Количество: 2691
+# Количество: 2660
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@195.133.23.5:20810#🇷🇺_ping_34ms_speed_5.4Mbps
 vless://d5d72f0a-42b0-4f43-b568-9cf7fbff073d@104.171.133.53:2200?type=ws&path=%2Fv1&host=rzd.ru#🇷🇺_ping_35ms
 vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#🇷🇺_ping_36ms_speed_0.2Mbps
@@ -2662,34 +2662,3 @@ trojan://FH72359861@square-skink.rooster465.autos:443?sni=square-skink.rooster46
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@168.222.140.155:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_5907ms
 trojan://FH72359861@engaged-lionfish.rooster465.autos:443?allowInsecure=0&sni=engaged-lionfish.rooster465.autos#🇯🇵_ping_5948ms
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:2200?encryption=none&type=ws&path=%2Fv1&host=rzd.ru&security=none#🇷🇺_ping_5978ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🇳🇱_🇳🇱_ping_78ms_speed_8.6Mbps
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2hzYmdXM09yNWlLb1d4TlpReVRTeEd4M0tJS0hqT0QrdzF0OS9NYmVlQT0@141.148.234.216:45819#🇳🇱_🇳🇱_ping_86ms_speed_2.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_90ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱_🇳🇱_ping_91ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDE5My4yOS4xMzkuMjM0OjgwODA=#🇳🇱_🇳🇱_ping_95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#🇳🇱_🇳🇱_ping_96ms_speed_7.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#🇬🇧_🇬🇧_ping_99ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#🇳🇱_🇳🇱_ping_101ms_speed_23.2Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg=@104.249.22.75:43377#🇬🇧_🇬🇧_ping_101ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#🇳🇱_🇳🇱_ping_102ms_speed_11.2Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#🇳🇱_🇳🇱_ping_107ms_speed_19.8Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#🇳🇱_🇳🇱_ping_111ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#🇳🇱_🇳🇱_ping_115ms_speed_9.7Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#🇫🇮_🇫🇮_ping_117ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#🇫🇷_🇫🇷_ping_117ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#🇳🇱_🇳🇱_ping_117ms_speed_14.6Mbps
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443#🇳🇱_🇳🇱_ping_124ms_speed_1.2Mbps
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NUNrYVkvRWdBMTA2RWMvY2VXSTJBNEk3QlhJZ2JEVUo2aFJuRGlDV1g2MD0@134.65.62.195:61312#🇬🇧_🇬🇧_ping_129ms_speed_4.5Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_140ms_speed_5.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸_🇪🇸_ping_140ms_speed_22.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸_🇪🇸_ping_141ms_speed_15.9Mbps
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.234.58:443?sni=nl1.noesissite.ru&path=%2f#🇳🇱_🇳🇱_ping_194ms_speed_10.3Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🇨🇦_🇨🇦_ping_267ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo=@23.150.248.20:8388#🇺🇸_🇺🇸_ping_289ms
-ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcA==@23.185.200.135:57841#🇺🇸_🇺🇸_ping_367ms_speed_5.3Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc=@176.97.64.144:8388#🇸🇬_🇸🇬_ping_398ms
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z211azJXNGZUMmREQWVRcVJlWUp2WDNjVkdURUp4R0tRSDR6Z0V1Ty82bz0@161.118.216.2:56927#🇸🇬_🇸🇬_ping_404ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamg0QWFKVGxwaHJ6VTdUSE5qdlkwNUk1ZHlPOHJ3Ng==@212.193.6.27:234#🇷🇺_🇷🇺_ping_588ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENIQDQ1Ljc3LjIzMi4yMTM6MTU2NzU=#🇦🇺_🇦🇺_ping_604ms
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#🇺🇸_🇺🇸_ping_617ms_speed_7.7Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#🇹🇼_🇹🇼_ping_1409ms

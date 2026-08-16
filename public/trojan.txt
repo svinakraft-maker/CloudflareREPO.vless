@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 16:17 (Moscow)
+# Date/Time: 2026-08-16 / 16:56 (Moscow)
 # Количество: 600
 trojan://FH72359861@3.64.117.92:443?type=tcp&security=none&encryption=none&sni=epic-iguana.rooster465.autos#🇩🇪_ping_143ms_speed_1.9Mbps
 trojan://FH72359861@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_147ms_speed_3.8Mbps

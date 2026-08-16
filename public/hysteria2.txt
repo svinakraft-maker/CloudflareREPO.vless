@@ -1,23 +1,16 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 13:02 (Moscow)
-# Количество: 19
-hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?sni=serv21.strettenvpn.com#🇫🇮_ping_104ms_speed_11.2Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_ping_194ms
-hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node1.vpnushka.lol:443/?sni=node1.vpnushka.lol#🇩🇪_ping_200ms_speed_5.6Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@fi1.sferavpn.pro:443?sni=fi1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇫🇮_ping_342ms_speed_4.8Mbps
-hysteria2://137f3b50-a6ba-40e7-b537-e37fab064097@latvia.koalaexpress.ru:2443?sni=latvia.koalaexpress.ru#🇱🇹_ping_355ms_speed_10.4Mbps
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=127.0.0.1#🇩🇪_ping_380ms_speed_0.3Mbps
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_ping_427ms_speed_8.8Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_458ms
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🇷🇴_ping_494ms_speed_19.6Mbps
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#🇺🇸_ping_566ms_speed_14.4Mbps
-hysteria2://Pe1OXeWJcLlGDk2m312qm2UDNcpOgZL4@2.27.42.66:43327?sni=gate-v1.not-a-projects.xyz#🇫🇮_ping_606ms_speed_3.8Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&burmalda=a6daf07e#🇪🇪_ping_709ms_speed_1.7Mbps
-hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?insecure=1&sni=130-17-10-202.sslip.io#🇩🇪_ping_718ms_speed_2.1Mbps_out🇩🇪
-hysteria2://STYyftThFn@85.121.122.25:12765?sni=freedom.chenlan.top#🇯🇵_ping_896ms
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?alpn=h3&sni=at164.mechvpn.online#🇦🇹_ping_916ms_speed_2.8Mbps
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=www.bing.com#🇯🇵_ping_1016ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@ln4.xiaoliyu.cyou:4433?insecure=1&sni=ln4.xiaoliyu.cyou#🇮🇳_ping_1334ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_ping_1364ms_speed_11.3Mbps_out🏳
-hysteria2://4fd8857a2c6af64470191e79500f42d7@129-146-143-124.liao.kdns.fr:50160?insecure=1&sni=129-146-143-124.liao.kdns.fr#🇺🇸_ping_1481ms_speed_10.1Mbps
+# Date/Time: 2026-08-16 / 13:30 (Moscow)
+# Количество: 12
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_🇳🇱_ping_144ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_🇩🇪_ping_183ms
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=127.0.0.1#🇩🇪_🇩🇪_ping_256ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&burmalda=a6daf07e#🇪🇪_🇪🇪_ping_320ms
+hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?sni=serv21.strettenvpn.com#🇫🇮_🇫🇮_ping_366ms
+hysteria2://Pe1OXeWJcLlGDk2m312qm2UDNcpOgZL4@2.27.42.66:43327?sni=gate-v1.not-a-projects.xyz#🇫🇮_🇫🇮_ping_408ms
+hysteria2://STYyftThFn@85.121.122.25:12765?sni=freedom.chenlan.top#🇯🇵_🇯🇵_ping_873ms
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🇷🇴_🇷🇴_ping_942ms
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=www.bing.com#🇯🇵_🇯🇵_ping_1002ms
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#🇺🇸_🇺🇸_ping_1010ms
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@ln4.xiaoliyu.cyou:4433?insecure=1&sni=ln4.xiaoliyu.cyou#ping_1646ms
+hysteria2://133f76fc-a5ab-463e-b46d-9587d7137e55@node1.vpnushka.lol:443/?sni=node1.vpnushka.lol#🇩🇪_🇩🇪_ping_4071ms

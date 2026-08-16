@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 10:24 (Moscow)
+# Date/Time: 2026-08-16 / 11:05 (Moscow)
 # Количество: 1833
 vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@200.165.225.234:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&sni=rf6.o4ka-internet.com#🇧🇷_ping_38ms_speed_1.9Mbps
 vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:2200?path=%2Fv1&sni=rzd.ru&type=ws#🇺🇸_ping_42ms

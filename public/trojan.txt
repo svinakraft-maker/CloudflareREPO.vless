@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-17 / 19:29 (Moscow)
+# Date/Time: 2026-08-17 / 20:08 (Moscow)
 # Количество: 878
 trojan://AE62539071@18.194.130.12:443?sni=sterling-macaw.rooster465.autos&peer=sterling-macaw.rooster465.autos&security=tls#🇩🇪_ping_141ms
 trojan://FH72359861@35.159.21.7:443?sni=summary-lemming.rooster465.autos&peer=summary-lemming.rooster465.autos&security=tls#🇩🇪_ping_144ms

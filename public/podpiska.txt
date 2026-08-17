@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
 # Date/Time: 2026-08-17 / 10:31 (Moscow)
-# Количество: 2881
+# Количество: 2860
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@104.171.133.53:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺_ping_37ms_speed_0.1Mbps
 vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@104.171.133.53:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇷🇺_ping_40ms
 vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_41ms
@@ -2862,24 +2862,3 @@ trojan://PQ05174892@flexible-pony.rooster465.autos:443?sni=flexible-pony.rooster
 trojan://AE62539071@evolving-kangaroo.rooster465.autos:443?sni=evolving-kangaroo.rooster465.autos&type=tcp&fp=chrome#🇯🇵_ping_5752ms_speed_0.9Mbps
 vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_5803ms_speed_0.1Mbps
 vless://a484645e-59df-4980-b649-92b71250ec60@185.247.16.4:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_5930ms_speed_0.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#🇫🇮_🇫🇮_ping_63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#🇵🇱_🇵🇱_ping_75ms_speed_26.4Mbps
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TGRld25IT2pEN0xieFpsY3BTWDBFTmZhVXhlTk9OWnN6MFU2c0xIUVNKbz06QTR2YzF6dkVQQk1pdDRqYWpDL3pqZWVHTElBZ2F6eVBvckUyb3dLWFpjZz0@91.107.155.114:1943#ping_91ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_93ms_speed_23.1Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#🇳🇱_🇳🇱_ping_94ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_100ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9qQDE5My4yOS4xMzkuMjEyOjgwODA=#🇳🇱_🇳🇱_ping_102ms_speed_12.7Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#🇳🇱_🇳🇱_ping_104ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDE5My4yOS4xMzkuMjM0OjgwODA=#🇳🇱_🇳🇱_ping_105ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧_🇬🇧_ping_111ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#🇫🇷_🇫🇷_ping_118ms_speed_23.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_140ms_speed_5.5Mbps
-hysteria2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.5.9:2102?security=tls&insecure=1&sni=panel.vlessbotkey.ru#🇵🇱_🇵🇱_ping_193ms_speed_1.6Mbps
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.234.58:443/?insecure=1&sni=nl1.noesissite.ru#🇳🇱_🇳🇱_ping_197ms
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#🇳🇱_🇳🇱_ping_323ms
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.234.58:443?insecure=1&sni=nl1.noesissite.ru#🇳🇱_🇳🇱_ping_365ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#🇯🇵_🇯🇵_ping_563ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5QDM4LjU0LjgwLjE2MDoxNjI5Mg==#🇺🇸_🇺🇸_ping_685ms_speed_6.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#🇹🇼_🇹🇼_ping_1032ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#🇹🇼_🇹🇼_ping_1115ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#🇳🇱_🇳🇱_ping_4895ms_speed_10.2Mbps

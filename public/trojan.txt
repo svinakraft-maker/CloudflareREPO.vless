@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-17 / 15:48 (Moscow)
+# Date/Time: 2026-08-17 / 16:27 (Moscow)
 # Количество: 875
 trojan://AE62539071@moved-bluegill.rooster465.autos:443?security=tls#🇩🇪_ping_140ms
 trojan://FH72359861@epic-iguana.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇩🇪_ping_146ms_speed_0.6Mbps

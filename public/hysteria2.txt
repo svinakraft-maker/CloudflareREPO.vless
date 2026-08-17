@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-17 / 05:49 (Moscow)
+# Date/Time: 2026-08-17 / 06:28 (Moscow)
 # Количество: 37
 hysteria2://2a0099ded5baa93c55823af39229c5b1@185.22.155.81:50160/?sni=185-22-155-81.liao.kdns.fr#🇷🇺_ping_121ms_speed_2.4Mbps
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#🇩🇪_ping_151ms_speed_15.9Mbps

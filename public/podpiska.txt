@@ -1,6 +1,6 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-17 / 17:41 (Moscow)
+# Date/Time: 2026-08-17 / 18:15 (Moscow)
 # Количество: 1505
 vless://62b72631-985d-4768-8b5a-7cc06753e0f0@moscow.koexp.ru:443?type=grpc&security=reality&fp=chrome&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&sni=moscow.koexp.ru&mode=gun&serviceName=grpc#🇷🇺_ping_38ms_speed_5.6Mbps
 vless://137f3b50-a6ba-40e7-b537-e37fab064097@moscow.koexp.ru:443?type=grpc&security=reality&fp=chrome&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&sni=moscow.koexp.ru&serviceName=grpc#🇷🇺_ping_38ms_speed_8.6Mbps

@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 03:04 (Moscow)
+# Date/Time: 2026-08-18 / 03:42 (Moscow)
 # Количество: 36
 hysteria2://81378ef7-89a1-43b5-9a9d-a04a8af25b7c@fin1.apexvpn.space:443?sni=fin1.apexvpn.space#🇫🇮_ping_120ms_speed_17.8Mbps
 hysteria2://55b71f97202647049ce999646de57c50@f1b.wareznet.ru:8444?sni=f1b.wareznet.ru#🇬🇧_ping_159ms_speed_20.8Mbps

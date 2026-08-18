@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 20:31 (Moscow)
+# Date/Time: 2026-08-18 / 20:53 (Moscow)
 # Количество: 574
 trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_142ms_speed_13.1Mbps
 trojan://PQ05174892@3.120.37.181:443?sni=many-cricket.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_145ms_speed_10.6Mbps

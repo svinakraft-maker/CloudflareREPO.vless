@@ -1,20 +1,21 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 04:07 (Moscow)
-# Количество: 16
-hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_🇱🇻_ping_105ms
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_🇳🇱_ping_136ms
-hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1#🇫🇷_🇫🇷_ping_219ms
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8080?sni=grape-turbo-fr.roxa.org#🇸🇨_🇸🇨_ping_223ms
-hysteria2://81378ef7-89a1-43b5-9a9d-a04a8af25b7c@194.31.223.107:443?sni=de1.apexvpn.space#🇩🇪_🇩🇪_ping_278ms
-hysteria2://ed77b662dbdf1a817d5eb75ae940cac4@198-46-188-116.liao.kdns.fr:50160?insecure=1&sni=198-46-188-116.liao.kdns.fr#ping_578ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_609ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.201.58.201:443?insecure=1&sni=css.rbxcdn.com#🇰🇷_🇰🇷_ping_765ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.150.77:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷_🇰🇷_ping_793ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg1.xiaoliyu.cyou:1935?insecure=1&sni=sg1.xiaoliyu.cyou#🇸🇬_🇸🇬_ping_824ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_884ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1#🇭🇰_🇭🇰_ping_916ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.214.225:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷_🇰🇷_ping_1171ms
-hysteria2://81378ef7-89a1-43b5-9a9d-a04a8af25b7c@fin1.apexvpn.space:443?sni=fin1.apexvpn.space#🇫🇮_🇫🇮_ping_1421ms
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?sni=de200.mechvpn.online&seq=you_are_beautiful9440#🇩🇪_🇩🇪_ping_2121ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.139.135:443?insecure=1&sni=speedtest.tinkoff.ru#🇰🇷_🇰🇷_ping_2805ms
+# Date/Time: 2026-08-18 / 04:58 (Moscow)
+# Количество: 17
+hysteria2://d325f389-7bc9-4d6a-8a2b-7dd4f7ab6e9f@186.246.12.32:443?sni=ru.h.topbelka.ru#🇷🇺_ping_62ms_speed_28.0Mbps
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@177.3.212.103:443/?insecure=1&sni=nl1.noesissite.ru#🇺🇸_ping_145ms_speed_26.5Mbps
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8080?insecure=1&sni=hopp-legend-se.roxa.org#🇸🇨_ping_257ms_speed_14.9Mbps_out🇸🇨
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_586ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_586ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#🇺🇸_ping_616ms_speed_8.2Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.225.195:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_620ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.241.184:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_620ms
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🏳_ping_680ms_out🏳
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg3.xiaoliyu.cyou:4466?insecure=1&sni=sg3.xiaoliyu.cyou#🇸🇬_ping_825ms_speed_7.6Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1#🇹🇼_ping_1012ms_speed_0.9Mbps
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_ping_1215ms_speed_14.3Mbps
+hysteria2://76c1579d-e996-473c-b23f-2c8301082602@40t1.wxgqlfx.vip:11683?insecure=1&sni=204.44.74.220#🇺🇸_ping_1296ms
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk.yyuyy.com&insecure=0&allowInsecure=0#🇨🇳_ping_1616ms_speed_8.3Mbps_out🇨🇳
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8080?sni=grape-honk.yyuyy.com#🇺🇸_ping_1750ms_speed_1.6Mbps
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8080?sni=grape-honk.yyuyy.com#🇸🇨_ping_1760ms_speed_1.1Mbps_out🇸🇨
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=de1.sferavpn.pro#🇩🇪_ping_2712ms_speed_5.7Mbps

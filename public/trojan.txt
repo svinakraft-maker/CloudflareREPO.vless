@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-19 / 01:15 (Moscow)
+# Date/Time: 2026-08-19 / 01:36 (Moscow)
 # Количество: 880
 trojan://AE62539071@18.194.130.12:443?security=tls&sni=sterling-macaw.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇩🇪_ping_134ms
 trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇩🇪_ping_136ms

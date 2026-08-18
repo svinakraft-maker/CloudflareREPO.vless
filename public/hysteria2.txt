@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 17:28 (Moscow)
+# Date/Time: 2026-08-18 / 17:49 (Moscow)
 # Количество: 19
 hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_443ms_speed_5.5Mbps
 hysteria2://1icJigVfIH8bEjy5@38.60.202.43:35001?insecure=1&sni=ae-1-d.nebulacloud.win#🇺🇸_ping_496ms_speed_11.0Mbps

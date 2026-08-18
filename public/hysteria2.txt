@@ -1,23 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 17:49 (Moscow)
-# Количество: 19
-hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_443ms_speed_5.5Mbps
-hysteria2://1icJigVfIH8bEjy5@38.60.202.43:35001?insecure=1&sni=ae-1-d.nebulacloud.win#🇺🇸_ping_496ms_speed_11.0Mbps
-hysteria2://V2SXTzHaoyzTPHZW@35.91.81.96:36001?insecure=1&sni=us-ls-o-1.khljbzxpeytzgsqgtfki.cc#🇺🇸_ping_582ms
-hysteria2://0ee718a6-4e01-41d5-824a-fd38bf477cc3@pq.us7.globals-download.com:35000?insecure=1&sni=www.apple.com#🇺🇸_ping_605ms_speed_11.7Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_606ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.32.171:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_607ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.227.91:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_609ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.75.123:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_623ms
-hysteria2://CWsE4u1kSIC5Oyji@18.177.155.57:36001?insecure=1&sni=jp-ls-g-2.nebulacloud.win#🇯🇵_ping_635ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬_ping_693ms
-hysteria2://4fd8857a2c6af64470191e79500f42d7@129-146-143-124.liao.kdns.fr:50160?insecure=1&sni=129-146-143-124.liao.kdns.fr#🇺🇸_ping_856ms
-hysteria2://BwAmBUHr2Sk9ZpR8@151.242.164.80:16001?insecure=1&sni=jp-akile-1.nebulacloud.win#🇯🇵_ping_861ms_speed_9.3Mbps
-hysteria2://STYyftThFn@85.121.122.25:12765?sni=freedom.chenlan.top#🇯🇵_ping_904ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg1.xiaoliyu.cyou:1935?insecure=1&security=tls&sni=sg1.xiaoliyu.cyou#🇸🇬_ping_933ms_speed_15.8Mbps
-hysteria2://eKUjiNGWdzBL1ngu@82.152.90.46:36001?insecure=1&sni=tw-akile-2.apcwjtnmuwembbfzmxqx.cc#🇹🇼_ping_1675ms_speed_8.4Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳_ping_2249ms_speed_9.5Mbps
-hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?insecure=1&sni=130-17-10-202.sslip.io#🇩🇪_ping_2700ms_speed_0.8Mbps_out🇩🇪
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de200.mechvpn.online:443?insecure=1#🇩🇪_ping_2915ms_speed_0.6Mbps
-hysteria2://N41uhuAvUwokxUCReDCn8Et-QcixLzBy@2.27.42.66:43327?sni=gate-v1.not-a-projects.xyz#🇫🇮_ping_4252ms_speed_18.2Mbps
+# Date/Time: 2026-08-18 / 18:12 (Moscow)
+# Количество: 7
+hysteria2://N41uhuAvUwokxUCReDCn8Et-QcixLzBy@2.27.42.66:43327?sni=gate-v1.not-a-projects.xyz#🇫🇮_🇫🇮_ping_404ms
+hysteria2://V2SXTzHaoyzTPHZW@35.91.81.96:36001?insecure=1&sni=us-ls-o-1.khljbzxpeytzgsqgtfki.cc#🇺🇸_🇺🇸_ping_578ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.75.123:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_610ms
+hysteria2://0ee718a6-4e01-41d5-824a-fd38bf477cc3@pq.us7.globals-download.com:35000?insecure=1&sni=www.apple.com#🇺🇸_🇺🇸_ping_815ms
+hysteria2://4fd8857a2c6af64470191e79500f42d7@129-146-143-124.liao.kdns.fr:50160?insecure=1&sni=129-146-143-124.liao.kdns.fr#🇺🇸_🇺🇸_ping_854ms
+hysteria2://eKUjiNGWdzBL1ngu@82.152.90.46:36001?insecure=1&sni=tw-akile-2.apcwjtnmuwembbfzmxqx.cc#🇹🇼_🇹🇼_ping_1321ms
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_🇹🇷_ping_1707ms

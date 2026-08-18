@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 23:41 (Moscow)
+# Date/Time: 2026-08-19 / 00:01 (Moscow)
 # Количество: 863
 trojan://PQ05174892@18.199.174.201:443?sni=casual-quail.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_161ms_speed_9.8Mbps
 trojan://EQ30679154@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_167ms_speed_3.6Mbps

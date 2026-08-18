@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
 # Date/Time: 2026-08-18 / 19:21 (Moscow)
-# Количество: 1342
+# Количество: 1323
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@195.133.23.5:20998#🇷🇺_ping_38ms
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@185.147.26.175:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=yt.orpheous.ru&type=tcp#🇷🇺_ping_50ms_speed_0.7Mbps
 vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@185.247.16.117:2200?type=ws&path=%2Fv1&host=rzd.ru#🇷🇺_ping_53ms
@@ -1325,22 +1325,3 @@ vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.80:443?path=%2F&security
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.80.73:443?fp=chrome&host=josni.hoyes.cloudns.ch&path=%2Fmusiclovers85%3Fed%3D512&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇸🇬_ping_6167ms_out🇸🇬
 vless://25a95029-1ecc-4ad6-83b6-d0dba7cab392@31.200.250.160:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=Rpc9MCEogqr44HkgduXGcJqCOGnNiaGyjCb4PDPRVQw&sid=ad93fb04&sni=api.max.ru#🇷🇺_ping_6693ms_speed_25.1Mbps
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.112:8080?path=/?ed&security=none&encryption=none&type=ws#🇺🇸_ping_7185ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#🇫🇮_🇫🇮_ping_80ms_speed_0.1Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_81ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_98ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuNGxmTEdwYWxmdUswVXho@20.166.49.191:443#ping_125ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸_🇪🇸_ping_141ms_speed_22.1Mbps
-ss://2022-blake3-chacha20-poly1305:7CCOp1icO5ZfmmzSweQowSvA5+efeJ3HrKxHDAAJmUc=@129.151.88.180:61312#🇬🇧_🇬🇧_ping_176ms_speed_10.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#🇳🇱_🇳🇱_ping_282ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#🇳🇱_🇳🇱_ping_327ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowWENJNHBRY1oybnh6VlQ0MENDYzBL@creativegermany.zanity.net:5228#🇩🇪_🇩🇪_ping_332ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDE5My4yOS4xMzkuMjM0OjgwODA=#🇳🇱_🇳🇱_ping_356ms_speed_1.7Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9qQDE5My4yOS4xMzkuMjEyOjgwODA=#🇳🇱_🇳🇱_ping_364ms
-ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.150.100.115:27755#🇸🇬_🇸🇬_ping_424ms
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZTduNitVa251cjZ1WGlQNHp1SllOK242S0FDQVg5K3MxN0ozTUxuek5CND0@129.159.55.129:59319#🇧🇷_🇧🇷_ping_460ms_speed_3.9Mbps
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@177.3.212.103:443?insecure=1&sni=nl1.noesissite.ru#🇺🇸_🇺🇸_ping_579ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#🇯🇵_🇯🇵_ping_687ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#🇫🇷_🇫🇷_ping_1175ms_speed_22.8Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmY1NTE5N2QyYmFjMmRiMmVkODFjNTY5Y2U5NTc2Y0A2NC44My4zMi4xMjY6ODQ4MQ==#🇯🇵_🇯🇵_ping_2278ms_speed_0.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#🇳🇱_🇳🇱_ping_4248ms_speed_10.1Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_4421ms_speed_15.1Mbps

@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 22:05 (Moscow)
+# Date/Time: 2026-08-18 / 22:26 (Moscow)
 # Количество: 867
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🇪🇪_ping_142ms
 trojan://PQ05174892@54.93.209.134:443?sni=alert-fish.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_157ms_speed_9.9Mbps

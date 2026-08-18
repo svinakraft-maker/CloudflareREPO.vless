@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 04:58 (Moscow)
+# Date/Time: 2026-08-18 / 05:36 (Moscow)
 # Количество: 17
 hysteria2://d325f389-7bc9-4d6a-8a2b-7dd4f7ab6e9f@186.246.12.32:443?sni=ru.h.topbelka.ru#🇷🇺_ping_62ms_speed_28.0Mbps
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@177.3.212.103:443/?insecure=1&sni=nl1.noesissite.ru#🇺🇸_ping_145ms_speed_26.5Mbps

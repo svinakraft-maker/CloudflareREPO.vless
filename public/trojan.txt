@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 17:28 (Moscow)
+# Date/Time: 2026-08-18 / 17:49 (Moscow)
 # Количество: 825
 trojan://AE62539071@dashing-bedbug.rooster465.autos:443?security=tls#🇩🇪_ping_151ms
 trojan://FH72359861@35.159.21.7:443?sni=summary-lemming.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪_ping_154ms_speed_2.7Mbps

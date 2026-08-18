@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-19 / 01:15 (Moscow)
+# Date/Time: 2026-08-19 / 01:36 (Moscow)
 # Количество: 38
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.26:8443?sni=keyhop-offshore.roxa.org#🇩🇪_ping_126ms_speed_24.1Mbps
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_ping_139ms_speed_16.3Mbps

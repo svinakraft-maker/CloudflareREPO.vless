@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-19 / 11:03 (Moscow)
+# Date/Time: 2026-08-19 / 11:24 (Moscow)
 # Количество: 657
 trojan://fg20mtCFHy@172.234.100.80:5612?sni=yugdv.southbyte.xyz&peer=yugdv.southbyte.xyz&security=tls#🇸🇪_ping_100ms
 trojan://AE62539071@18.198.1.232:443?security=tls&sni=teaching-gnu.rooster465.autos&fp=chrome&type=tcp&headerType=none#🇩🇪_ping_142ms

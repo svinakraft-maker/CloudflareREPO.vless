@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 02:28 (Moscow)
+# Date/Time: 2026-08-20 / 02:50 (Moscow)
 # Количество: 463
 vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@201.24.51.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aLdyGbloIzzeClW7_SPWL0IZpcaUWsA7rlmbNieggWk&security=reality&sid=0894e51863b5c395&sni=nl.chick-team.ru&type=tcp#🇺🇸_ping_42ms_speed_0.5Mbps
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=firefox#🇷🇺_ping_44ms_speed_0.0Mbps

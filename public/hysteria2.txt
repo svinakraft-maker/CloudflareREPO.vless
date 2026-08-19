@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 00:54 (Moscow)
+# Date/Time: 2026-08-20 / 01:16 (Moscow)
 # Количество: 16
 hysteria2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443?sni=ltu-01.node.lumixnet.com&security=tls&fm={}#🇺🇸_ping_99ms_speed_22.3Mbps
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.74:8443?sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱_ping_163ms_speed_16.9Mbps

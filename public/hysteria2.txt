@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 02:28 (Moscow)
+# Date/Time: 2026-08-20 / 02:50 (Moscow)
 # Количество: 15
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.74:8443?sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱_ping_137ms_speed_17.6Mbps
 hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@rpc-2309.internet-booster.com:443?sni=rpc-2309.internet-booster.com#🇫🇮_ping_189ms_speed_20.4Mbps

@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-19 / 07:47 (Moscow)
+# Date/Time: 2026-08-19 / 08:09 (Moscow)
 # Количество: 1032
 trojan://FH72359861@63.176.171.181:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=engaging-toucan.rooster465.autos#🇩🇪_ping_132ms_speed_0.2Mbps
 trojan://PQ05174892@3.120.37.181:443?sni=many-cricket.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_134ms_speed_2.5Mbps

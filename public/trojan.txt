@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-19 / 15:38 (Moscow)
+# Date/Time: 2026-08-19 / 15:59 (Moscow)
 # Количество: 666
 trojan://FH72359861@35.159.21.7:443?sni=summary-lemming.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪_ping_143ms_speed_0.9Mbps
 trojan://FH72359861@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_145ms

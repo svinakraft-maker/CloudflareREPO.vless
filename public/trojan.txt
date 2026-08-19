@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 00:54 (Moscow)
+# Date/Time: 2026-08-20 / 01:16 (Moscow)
 # Количество: 775
 trojan://EQ30679154@35.156.13.144:443?sni=normal-cow.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_144ms_speed_3.8Mbps
 trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&path=/#🇩🇪_ping_146ms_speed_16.1Mbps

@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 08:54 (Moscow)
+# Date/Time: 2026-08-20 / 09:15 (Moscow)
 # Количество: 33
 hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@cache-1339.internet-booster.com:443?sni=cache-1339.internet-booster.com#🇫🇮_ping_151ms_speed_17.5Mbps
 hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_ping_170ms_speed_7.0Mbps

@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 12:03 (Moscow)
+# Date/Time: 2026-08-20 / 12:24 (Moscow)
 # Количество: 1067
 vless://7eb234e9-d47e-4dfe-bff3-a0d41a0c4e1d@201.24.114.60:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RRawEiil652RhrCcf0Oq94mBii7I21eN3YyOo34NrTY&sid=47e4cb670b4e547d&sni=app.prostocalc.com#🇷🇺_ping_50ms_speed_7.6Mbps
 vless://64bd5231-8c49-44f4-8bc0-998eef787d05@5.42.121.52:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_54ms

@@ -1,22 +1,37 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 08:06 (Moscow)
-# Количество: 18
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443?sni=hopp-legend-se.roxa.org#🇺🇸_🇺🇸_ping_94ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@wave-4240.internet-booster.com:443?sni=wave-4240.internet-booster.com#🇫🇮_🇫🇮_ping_176ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@cache-1339.internet-booster.com:443?sni=cache-1339.internet-booster.com#🇫🇮_🇫🇮_ping_200ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@hub-7243.internet-booster.com:443?sni=hub-7243.internet-booster.com#🇫🇮_🇫🇮_ping_200ms
-hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys2.superbuba.top:443?sni=althys2.superbuba.top#🇩🇪_🇩🇪_ping_212ms
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.169:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#🇷🇴_🇷🇴_ping_241ms
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.137:8080?sni=grape-turbo-fr.roxa.org#🇸🇨_🇸🇨_ping_242ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@node-4323.internet-booster.com:443?sni=node-4323.internet-booster.com#🇫🇮_🇫🇮_ping_242ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@rpc-4221.internet-booster.com:443?sni=rpc-4221.internet-booster.com#🇫🇮_🇫🇮_ping_247ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@mesh-6793.internet-booster.com:443?sni=mesh-6793.internet-booster.com#🇫🇮_🇫🇮_ping_339ms
-hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_🇱🇻_ping_360ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@grid-5649.internet-booster.com:443?sni=grid-5649.internet-booster.com#🇫🇮_🇫🇮_ping_442ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#🇨🇦_🇨🇦_ping_478ms
-hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?sni=replay.wwwinternetvideo.click&insecure=0&allowInsecure=0#🇩🇪_🇩🇪_ping_582ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@hub-7009.internet-booster.com:443?sni=hub-7009.internet-booster.com#🇫🇮_🇫🇮_ping_657ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@hk2.xiaoliyu.cyou:4433?insecure=1#🇭🇰_🇭🇰_ping_909ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935/?insecure=1&sni=sg2.xiaoliyu.cyou#🇸🇬_🇸🇬_ping_1275ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@rpc-2309.internet-booster.com:443?sni=rpc-2309.internet-booster.com#🇫🇮_🇫🇮_ping_1502ms
+# Date/Time: 2026-08-20 / 08:54 (Moscow)
+# Количество: 33
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@cache-1339.internet-booster.com:443?sni=cache-1339.internet-booster.com#🇫🇮_ping_151ms_speed_17.5Mbps
+hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻_ping_170ms_speed_7.0Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@core-7320.internet-booster.com:443?sni=core-7320.internet-booster.com#🇫🇮_ping_186ms_speed_16.2Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&burmalda=a6daf07e#🇪🇪_ping_202ms_speed_13.1Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@node-2337.internet-booster.com:443?sni=node-2337.internet-booster.com#🇫🇮_ping_312ms_speed_0.8Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@mesh-6793.internet-booster.com:443?sni=mesh-6793.internet-booster.com#🇫🇮_ping_322ms_speed_1.8Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@grid-5649.internet-booster.com:443?sni=grid-5649.internet-booster.com#🇫🇮_ping_322ms_speed_1.8Mbps
+hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@f3.crsmaps.com:443?security=tls&fm=%7B%7D&sni=f3.crsmaps.com#🇺🇸_ping_357ms_speed_0.8Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@hub-8590.internet-booster.com:443?sni=hub-8590.internet-booster.com#🇫🇮_ping_376ms_speed_0.6Mbps
+hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys2.superbuba.top:443?sni=althys2.superbuba.top#🇩🇪_ping_414ms_speed_2.0Mbps_out🇩🇪
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@mesh-2217.internet-booster.com:443?sni=mesh-2217.internet-booster.com#🇫🇮_ping_429ms_speed_0.5Mbps
+hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys.superbuba.top:443?sni=althys.superbuba.top#🇩🇪_ping_457ms_speed_0.6Mbps_out🇩🇪
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@hub-7009.internet-booster.com:443?sni=hub-7009.internet-booster.com#🇫🇮_ping_475ms_speed_0.7Mbps
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.169:8443?sni=grape-zet-ro-turbo.bumbleshrimp.com#🇷🇴_ping_536ms_speed_1.7Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@cdn-9863.internet-booster.com:443?sni=cdn-9863.internet-booster.com#🇫🇮_ping_558ms_speed_1.1Mbps
+hysteria2://2c1611f83747dd3694e0e90cbf7d4e29@38.99.248.120:50160?insecure=1&sni=38-99-248-120.liao.kdns.fr#🇺🇸_ping_584ms_speed_3.9Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#🇺🇸_ping_610ms_speed_8.8Mbps
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443?sni=hopp-legend-se.roxa.org#🇺🇸_ping_619ms_speed_1.0Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@node-4323.internet-booster.com:443?sni=node-4323.internet-booster.com#🇫🇮_ping_639ms_speed_1.6Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.32.171:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_664ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#🇨🇦_ping_699ms_speed_0.2Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@wave-4240.internet-booster.com:443?sni=wave-4240.internet-booster.com#🇫🇮_ping_708ms_speed_1.1Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳_ping_720ms_speed_11.6Mbps
+hysteria2://ce91dfcc-c596-4b5a-b738-25344bd610e6@tissues-halls.tun.ply.gg:32926?insecure=1&sni=tissues-halls.tun.ply.gg#🏳_ping_751ms_speed_0.2Mbps_out🏳
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@core-6343.internet-booster.com:443?sni=core-6343.internet-booster.com#🇫🇮_ping_768ms_speed_0.8Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_835ms_speed_9.3Mbps
+hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443?security=tls&fm=%7B%7D&sni=jp.cryptoofarm.com#🇯🇵_ping_920ms_speed_0.6Mbps
+hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443/?security=tls&fp=firefox&alpn=h3&sni=olp.crsmaps.com#🇺🇸_ping_1991ms_speed_0.2Mbps
+hysteria2://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@138.124.254.68:2053?sni=fi-one.quiet-rogue.site#🇫🇮_ping_2404ms_speed_3.5Mbps_out🇫🇮
+hysteria2://579f0893-e6f9-4036-86a1-7c10aa2d24ea@frn.skysafe.online:443?sni=frn.skysafe.online#🇫🇷_ping_2488ms_speed_0.3Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@hub-5491.internet-booster.com:443?sni=hub-5491.internet-booster.com#🇫🇮_ping_3950ms_speed_1.3Mbps
+hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@hub-7243.internet-booster.com:443?sni=hub-7243.internet-booster.com#🇫🇮_ping_4436ms_speed_2.1Mbps
+hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443?sni=player.wwwinternetvideo.click&insecure=0&allowInsecure=0#🇩🇪_ping_4909ms

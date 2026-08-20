@@ -1,26 +1,17 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 04:26 (Moscow)
-# Количество: 22
-hysteria2://d325f389-7bc9-4d6a-8a2b-7dd4f7ab6e9f@ru.h.topbelka.ru:443?sni=ru.h.topbelka.ru#🇷🇺_ping_122ms_speed_27.5Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee2.sferavpn.pro#🇪🇪_ping_204ms_speed_15.3Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#🇩🇪_ping_221ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_447ms_speed_10.5Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&sni=vpn-us-002.fastervpn.world#🇺🇸_ping_572ms_speed_8.2Mbps
-hysteria2://2630a66444286f47ce591752f28adf5e@154-49-127-140.liao.kdns.fr:50160?insecure=1&sni=154-49-127-140.liao.kdns.fr#🇺🇸_ping_593ms_speed_11.8Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.32.171:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_605ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_614ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.228.168.117:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_615ms
-hysteria2://2c1611f83747dd3694e0e90cbf7d4e29@38.99.248.120:50160?insecure=1&sni=38-99-248-120.liao.kdns.fr#🇺🇸_ping_623ms_speed_1.3Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.233.65:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_644ms
-hysteria2://579f0893-e6f9-4036-86a1-7c10aa2d24ea@frn.skysafe.online:443?sni=frn.skysafe.online#🇫🇷_ping_862ms_speed_6.9Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.241.184:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_870ms_speed_9.3Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_880ms
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_ping_906ms
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#🇺🇸_ping_1019ms
-hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@rpc-2309.internet-booster.com:443?sni=rpc-2309.internet-booster.com#🇫🇮_ping_1213ms_speed_20.1Mbps
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#🇰🇷_ping_1227ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.129.3.178:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2#🇸🇬_ping_1496ms
-hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_1769ms_speed_9.5Mbps
-hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?sni=replay.wwwinternetvideo.click#🇩🇪_ping_3170ms_speed_0.9Mbps
-hysteria2://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@138.124.254.21:2053?sni=fi-one.quiet-rogue.site#🇫🇮_ping_6026ms_speed_0.7Mbps_out🇫🇮
+# Date/Time: 2026-08-20 / 04:53 (Moscow)
+# Количество: 13
+hysteria2://d325f389-7bc9-4d6a-8a2b-7dd4f7ab6e9f@ru.h.topbelka.ru:443?sni=ru.h.topbelka.ru#🇷🇺_🇷🇺_ping_153ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee2.sferavpn.pro#🇪🇪_🇪🇪_ping_366ms
+hysteria2://2630a66444286f47ce591752f28adf5e@154-49-127-140.liao.kdns.fr:50160?insecure=1&sni=154-49-127-140.liao.kdns.fr#🇺🇸_🇺🇸_ping_468ms
+hysteria2://579f0893-e6f9-4036-86a1-7c10aa2d24ea@frn.skysafe.online:443?sni=frn.skysafe.online#ping_493ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#ping_494ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.233.65:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#ping_673ms
+hysteria2://2c1611f83747dd3694e0e90cbf7d4e29@38.99.248.120:50160?insecure=1&sni=38-99-248-120.liao.kdns.fr#🇺🇸_🇺🇸_ping_695ms
+hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?sni=replay.wwwinternetvideo.click#🇩🇪_🇩🇪_ping_816ms
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_🇹🇷_ping_846ms
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_🇯🇵_ping_877ms
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#ping_908ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_1004ms
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#ping_1662ms

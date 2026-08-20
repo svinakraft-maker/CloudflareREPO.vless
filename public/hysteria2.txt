@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 07:18 (Moscow)
+# Date/Time: 2026-08-20 / 07:39 (Moscow)
 # Количество: 43
 hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@rpc-2309.internet-booster.com:443?sni=rpc-2309.internet-booster.com#🇫🇮_ping_156ms_speed_23.0Mbps
 hysteria2://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@cache-1339.internet-booster.com:443?sni=cache-1339.internet-booster.com#🇫🇮_ping_175ms_speed_19.5Mbps

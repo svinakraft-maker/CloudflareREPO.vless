@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-20 / 13:32 (Moscow)
+# Date/Time: 2026-08-20 / 13:54 (Moscow)
 # Количество: 490
 trojan://FH72359861@engaging-toucan.rooster465.autos:443#🇩🇪_ping_143ms
 trojan://AE62539071@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&peer=up-dinosaur.rooster465.autos&security=tls#🇩🇪_ping_144ms

@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-21 / 21:19 (Moscow)
+# Date/Time: 2026-08-21 / 21:40 (Moscow)
 # Количество: 16
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_ping_150ms_speed_25.4Mbps
 hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?sni=node.embrofree.org&security=tls#🇵🇱_ping_181ms_speed_18.1Mbps_out🇵🇱

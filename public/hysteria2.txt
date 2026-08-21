@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-21 / 06:01 (Moscow)
+# Date/Time: 2026-08-21 / 06:23 (Moscow)
 # Количество: 16
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443?sni=hopp-legend-se.roxa.org#🇺🇸_ping_192ms_speed_14.7Mbps
 hysteria2://VpnProsto2024@fi-prosto.servebeer.com:444?sni=fi-prosto.servebeer.com#🇫🇮_ping_194ms_speed_16.5Mbps

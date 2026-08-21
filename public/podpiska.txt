@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
 # Date/Time: 2026-08-22 / 02:08 (Moscow)
-# Количество: 1017
+# Количество: 998
 vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#🇧🇷_ping_36ms
 vless://0de36006-3fab-40a6-ac2b-b9663b815a17@65.109.211.136:24854?security=&encryption=none&headerType=&type=tcp#🇫🇮_ping_39ms
 vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@188.225.47.234:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺_ping_44ms
@@ -1000,22 +1000,3 @@ trojan://AE62539071@liked-serval.rooster465.autos:443?security=tls#🇺🇸_ping
 vless://d2aeb078-90db-4f90-b334-623bcbea8d31@vs-nl8.vibesignal.space:443?flow=xtls-rprx-vision&fp=edge&nonce=7V2YsYY6&pbk=xxqv2JF09vb9H5GUrGXvXZx46-dlNtNvdTNgOe_W1A0&security=reality&sid=da8198896a34e6ec&sni=cdnjs.cloudflare.com&type=tcp#🇳🇱_ping_5747ms_speed_5.4Mbps
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=&fp=chrome&type=ws&sni=#🇩🇪_ping_5877ms_speed_8.4Mbps_out🇩🇪
 vless://20df893e-dcf4-491d-8261-6dbb24f9566b@201.51.3.146:443?encryption=none&flow=xtls-rprx-vision&pbk=bBTka5j8aqNSD5hl8X0YUhwYH04IrPIaeKUFkijUllg&security=reality&sni=www.philips.com&type=tcp&fp=firefox#🇷🇴_ping_6096ms_speed_0.7Mbps_out🇷🇴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#🇫🇮_🇫🇮_ping_62ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_80ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE5AMTY2LjEuMTI5LjI0NTo0MjYwNw==#🇺🇸_🇺🇸_ping_88ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_91ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9qQDE5My4yOS4xMzkuMjEyOjgwODA=#🇳🇱_🇳🇱_ping_99ms_speed_6.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#🇳🇱_🇳🇱_ping_140ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_147ms_speed_5.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#🇿🇦_🇿🇦_ping_396ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc=@176.97.64.144:8388#🇸🇬_🇸🇬_ping_402ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkA5NS40MC4xMjAuMTYyOjgzMTk=#🇭🇰_🇭🇰_ping_409ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.22.178:50099#🇹🇼_🇹🇼_ping_567ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcWtrSFJwWlRramJUQnJr@45.32.246.180:8388#🇦🇺_🇦🇺_ping_618ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇹🇼_🇹🇼_ping_620ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#🇹🇼_🇹🇼_ping_643ms_speed_9.4Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319#🇭🇰_🇭🇰_ping_800ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3QDY0LjE4OC43Ny4xNTk6ODM5MA==#🇳🇱_🇳🇱_ping_1390ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg==@89.125.33.16:1234#🇳🇱_🇳🇱_ping_2010ms_speed_8.1Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#🇳🇱_🇳🇱_ping_2017ms_speed_4.8Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaM2JZYVdmZ0ZvOEstLVI0WlROTFJ3QnZhSkxVeW9VZQ@89.125.33.16:1234#🇳🇱_🇳🇱_ping_2803ms_speed_11.8Mbps

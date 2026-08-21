@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-21 / 04:27 (Moscow)
+# Date/Time: 2026-08-21 / 04:48 (Moscow)
 # Количество: 609
 trojan://Ej0z16jeEyVpTTnXUCkoGR7mr6B59fae@46.8.209.223:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=zz.tgnn.live&alpn=http/1.1#🇷🇺_ping_36ms
 trojan://EQ30679154@engaging-toucan.rooster465.autos:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#🇩🇪_ping_141ms_speed_1.9Mbps

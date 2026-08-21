@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-21 / 16:50 (Moscow)
+# Date/Time: 2026-08-21 / 17:11 (Moscow)
 # Количество: 22
 hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#🇨🇦_ping_258ms_speed_12.2Mbps
 hysteria2://65761043-f5c1-4e7b-8c16-b72c7a3fa4b7@althys.superbuba.top:443?sni=althys.superbuba.top#🇩🇪_ping_316ms_speed_1.9Mbps_out🇩🇪

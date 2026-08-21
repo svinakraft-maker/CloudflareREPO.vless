@@ -1,6 +1,6 @@
 # profile-title: SS
 # profile-update-interval: 1
-# Date/Time: 2026-08-21 / 09:12 (Moscow)
+# Date/Time: 2026-08-21 / 09:33 (Moscow)
 # Количество: 66
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ckc1TE9oWDZaZ1ZiUUVVdEoweUgrb3VrMDJaL1VCRUlOQ1Q2KzVrYVNPUT0@150.230.20.164:45819#🇳🇱_ping_82ms_speed_5.7Mbps
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d1ZCV3pZL2VpREZCSEdic2hwNWl1S1VqTDhPWnNwKyt5OFdBWnRWSFB2az0@141.144.192.7:45819#🇳🇱_ping_84ms_speed_2.7Mbps

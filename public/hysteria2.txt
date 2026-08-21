@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-21 / 09:12 (Moscow)
+# Date/Time: 2026-08-21 / 09:33 (Moscow)
 # Количество: 16
 hysteria2://VpnProsto2024@fi-prosto.servebeer.com:444?sni=fi-prosto.servebeer.com#🇫🇮_ping_182ms_speed_22.0Mbps
 hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&sni=lms22.gelzaro.ir#🇨🇦_ping_241ms_speed_15.8Mbps

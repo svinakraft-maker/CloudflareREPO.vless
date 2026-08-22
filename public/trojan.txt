@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 06:12 (Moscow)
+# Date/Time: 2026-08-22 / 06:33 (Moscow)
 # Количество: 90
 trojan://45c47cfa-67da-47e0-b20b-5efa674e6a9b@104.16.75.127:443?sni=unnes.ac.id.r3xxe.eu.cc&type=ws&path=%2Fus-gllc&fp=chrome#🏳_ping_112ms
 trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.16.3.189:443?sni=ezpanslll.samankarami0686.workers.dev&type=ws&path=%2F&fp=chrome#🇺🇸_ping_132ms_out🇺🇸

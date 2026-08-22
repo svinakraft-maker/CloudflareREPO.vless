@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 09:07 (Moscow)
+# Date/Time: 2026-08-22 / 09:28 (Moscow)
 # Количество: 1258
 vless://4829c2f5-f45a-4330-9b3c-d381b9efdbec@94.249.180.41:443?type=grpc&security=reality&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&sni=id.pervye.ru&serviceName=ns&authority=id.pervye.ru#🇵🇱_ping_44ms_speed_28.1Mbps
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#🇺🇸_ping_46ms

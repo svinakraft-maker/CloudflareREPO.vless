@@ -1,15 +1,10 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 05:04 (Moscow)
-# Количество: 11
-hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?sni=node.embrofree.org&security=tls#🇵🇱_ping_104ms_speed_4.3Mbps_out🇵🇱
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_ping_166ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_198ms_speed_20.8Mbps
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&alpn=h3#🇵🇱_ping_440ms_speed_8.3Mbps_out🇵🇱
-hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_ping_678ms_speed_0.4Mbps_out🇩🇪
-hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?security=tls&sni=vps.vpsv.cc#🇯🇵_ping_841ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=t.me#🇸🇬_ping_842ms_speed_8.9Mbps
-hysteria2://4hkCvE2nz6svLLqv@52.221.223.227:36001?insecure=1&sni=sg-ls-z-5.lihmxssuqleitqcxpssa.uk#🇸🇬_ping_938ms_speed_5.3Mbps
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-wien.unlimited-access.ru:8443?sni=hy2-wien.unlimited-access.ru&fp=chrome&alpn=h3#🇦🇹_ping_1112ms_speed_7.1Mbps_out🇦🇹
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.193.153:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1602ms
-hysteria2://2630a66444286f47ce591752f28adf5e@154-49-127-140.liao.kdns.fr:50160?insecure=1&sni=154-49-127-140.liao.kdns.fr#🇺🇸_ping_5406ms
+# Date/Time: 2026-08-22 / 05:27 (Moscow)
+# Количество: 6
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_🇩🇪_ping_164ms
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click&alpn=h3#🇵🇱_🇵🇱_ping_334ms
+hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?sni=node.embrofree.org&security=tls#🇵🇱_🇵🇱_ping_375ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.193.153:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_871ms
+hysteria2://4hkCvE2nz6svLLqv@52.221.223.227:36001?insecure=1&sni=sg-ls-z-5.lihmxssuqleitqcxpssa.uk#🇸🇬_🇸🇬_ping_949ms
+hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_🇩🇪_ping_1646ms

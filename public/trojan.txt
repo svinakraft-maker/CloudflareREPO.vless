@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 01:51 (Moscow)
+# Date/Time: 2026-08-23 / 02:12 (Moscow)
 # Количество: 73
 trojan://PQ05174892@63.179.149.234:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=usable-dogfish.rooster465.autos#🇩🇪_ping_139ms
 trojan://FH72359861@3.64.117.92:443?type=tcp&security=tls&fp=chrome&sni=epic-iguana.rooster465.autos#🇩🇪_ping_140ms

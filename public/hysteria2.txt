@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 21:42 (Moscow)
+# Date/Time: 2026-08-22 / 22:03 (Moscow)
 # Количество: 10
 hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&obfs=salamander&sni=ee1.sferavpn.pro#🇪🇪_ping_351ms_speed_2.8Mbps
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#🇨🇦_ping_494ms_speed_0.3Mbps

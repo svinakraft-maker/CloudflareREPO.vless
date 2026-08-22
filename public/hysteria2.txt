@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 18:57 (Moscow)
+# Date/Time: 2026-08-22 / 19:18 (Moscow)
 # Количество: 13
 hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?security=tls&fp=chrome#🇷🇺_ping_84ms_speed_15.4Mbps
 hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567/?insecure=1&sni=bing.com#🇸🇬_ping_591ms

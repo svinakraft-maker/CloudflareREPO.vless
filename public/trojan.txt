@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 14:49 (Moscow)
+# Date/Time: 2026-08-22 / 15:10 (Moscow)
 # Количество: 82
 trojan://MiTiVPN@156.243.83.240:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ff-l%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=8373638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws#🇫🇮_ping_129ms_out🇫🇮
 trojan://PQ05174892@3.120.37.181:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=many-cricket.rooster465.autos#🇩🇪_ping_135ms

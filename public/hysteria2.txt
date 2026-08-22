@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 01:51 (Moscow)
+# Date/Time: 2026-08-23 / 02:13 (Moscow)
 # Количество: 12
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@lmny.mangshe.xyz:2056?insecure=1&sni=lmny.mangshe.xyz#🇷🇴_ping_302ms_speed_9.5Mbps
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org#🇷🇴_ping_524ms_speed_3.1Mbps

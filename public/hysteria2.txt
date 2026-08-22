@@ -1,17 +1,9 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 00:49 (Moscow)
-# Количество: 13
-hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#🇷🇺_ping_108ms_speed_8.1Mbps
-hysteria2://99469a62-c9a7-4223-a5ca-6a1ddaa1e7a9@87.251.19.13:8443?sni=speedtestmark.com#🇪🇪_ping_353ms_speed_7.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_460ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_631ms
-hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?insecure=1&sni=40t2.wxgqlfx.vip#🇺🇸_ping_647ms
-hysteria2://c85bd762dc136495ddc02b30b0b7c5c5@107-172-212-12.liao.kdns.fr:50160?sni=107-172-212-12.liao.kdns.fr#🇺🇸_ping_742ms_speed_17.9Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#🇨🇦_ping_1277ms_speed_1.8Mbps
-hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#🇩🇪_ping_1429ms_speed_0.3Mbps
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1#🇩🇪_ping_1734ms_speed_0.2Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1834ms
-hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567/?insecure=1&sni=bing.com#🇸🇬_ping_2650ms_speed_14.7Mbps
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk.yyuyy.com&insecure=0&allowInsecure=0#🇨🇳_ping_2659ms_speed_10.8Mbps_out🇨🇳
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8080?sni=grape-honk.yyuyy.com&insecure=0&allowInsecure=0#🇸🇨_ping_3543ms_speed_9.8Mbps_out🇸🇨
+# Date/Time: 2026-08-23 / 01:09 (Moscow)
+# Количество: 5
+hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#🇩🇪_🇩🇪_ping_154ms
+hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#🇷🇺_🇷🇺_ping_213ms
+hysteria2://99469a62-c9a7-4223-a5ca-6a1ddaa1e7a9@87.251.19.13:8443?sni=speedtestmark.com#🇪🇪_🇪🇪_ping_422ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_604ms
+hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567/?insecure=1&sni=bing.com#🇸🇬_🇸🇬_ping_5070ms

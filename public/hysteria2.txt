@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 07:40 (Moscow)
+# Date/Time: 2026-08-22 / 08:01 (Moscow)
 # Количество: 9
 hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?sni=node.embrofree.org&security=tls#🇵🇱_ping_262ms_speed_11.2Mbps_out🇵🇱
 hy2://17aVvwmiSU@do.aigh.store:10929/?insecure=1&sni=do.aigh.store#🇺🇸_ping_735ms

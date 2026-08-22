@@ -1,9 +1,15 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-22 / 09:50 (Moscow)
-# Количество: 5
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#🇷🇺_🇷🇺_ping_71ms
-hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?sni=lms22.gelzaro.ir&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k#🇨🇦_🇨🇦_ping_303ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_🇸🇬_ping_824ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_1034ms
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:8080?sni=grape-honk.yyuyy.com#🇸🇨_🇸🇨_ping_5800ms
+# Date/Time: 2026-08-22 / 10:34 (Moscow)
+# Количество: 11
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1#🇩🇪_ping_447ms_speed_0.2Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_474ms_speed_14.4Mbps
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-wien.unlimited-access.ru:8443?sni=hy2-wien.unlimited-access.ru&fp=chrome#🇦🇹_ping_486ms_speed_6.7Mbps_out🇦🇹
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.32.171:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_589ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.233.65:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_605ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_606ms_speed_0.3Mbps
+hysteria2://8569e507-8ef7-481d-9108-6bc7f040c2ff@newos.klzvezdi.ru:9443?insecure=1&sni=newos.klzvezdi.ru#🇨🇭_ping_1257ms_speed_6.7Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=de1.sferavpn.pro#🇩🇪_ping_1706ms_speed_1.4Mbps
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#🇭🇰_ping_2040ms_speed_12.7Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee2.sferavpn.pro:443?obfs=salamander&sni=ee2.sferavpn.pro&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&burmalda=a6daf07e#🇪🇪_ping_2327ms_speed_22.8Mbps
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8080?sni=grape-honk.yyuyy.com#🇸🇨_ping_2877ms_speed_4.4Mbps_out🇸🇨

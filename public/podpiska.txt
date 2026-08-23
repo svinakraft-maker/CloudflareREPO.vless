@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 09:19 (Moscow)
-# Количество: 1672
+# Date/Time: 2026-08-23 / 09:41 (Moscow)
+# Количество: 1697
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg==@194.87.69.207:40119#🇷🇺_ping_34ms_speed_22.0Mbps
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcktoRzZPNXlKcElfTnFlYXIzNXNB@80.90.191.35:443#🇷🇺_ping_37ms
 vless://47f2ac7a-7bc6-4d4c-b4f2-c4681da7f231@109.73.192.29:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🇷🇺_ping_41ms_speed_0.0Mbps
@@ -1674,3 +1674,28 @@ vless://5238521b-c5dd-42af-870e-c174a2aaaafe@31.76.5.26:13443?type=tcp&security=
 vless://0f6a3565-44e6-46ec-a562-a6c73bf6b685@skimio.orbvia.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=skimio.orbvia.online&fp=firefox&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8&flow=xtls-rprx-vision#🇫🇷_ping_5765ms_speed_0.0Mbps_out🇫🇷
 trojan://HC04361579@normal-elk.rooster465.autos:443?sni=normal-elk.rooster465.autos&type=tcp&fp=chrome#🇭🇰_ping_5834ms
 vless://0a2988ed-9f42-499e-b4a8-3ed4cbda5457@132.243.174.112:2054?type=grpc&security=reality&fp=firefox&pbk=JFzd2AbfzZSnMefyKEXNIae_QEZAo5o239pmuHHZsAY&sid=b27b172e7453e810&sni=www.swisscom.ch&serviceName=grpc#🇨🇭_ping_7027ms_speed_4.6Mbps
+ss://YWVzLTEyOC1nY206TVZSSlFuSkRRMUozUjFKYVMxTlhOWEk1VkZCM2VreHFRMGR4UkRkdVpVWkRXblIxZG5OcWVFaFZTMXBoVmxaeVdHNDJRbmM1TkdWMllXUlVhRkZyVGc9PUAzNy43Ny4xMDYuNDY6MjYxNDA#ping_67ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱_🇳🇱_ping_82ms_speed_24.9Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_90ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_94ms
+ss://2022-blake3-chacha20-poly1305:T8nDZA9hyAy2MrDlJBL1w5F6HMzfNNyN8Ysk1Se1INc=@158.180.13.253:45819#🇳🇱_🇳🇱_ping_108ms_speed_23.6Mbps
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N3drZ1FsbG1ZVVplQjEwR2o5aW1UaHNuSHBnNmxQY0cvcUFna08yd0k4OD0@144.24.229.104:61312#🇬🇧_🇬🇧_ping_130ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#🇪🇸_🇪🇸_ping_146ms_speed_11.8Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdDQDMxLjc2LjgyLjEzMTozNDI2MA==#🇺🇸_🇺🇸_ping_155ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRHpIZ3lRM3dGWUtFM1V3MHI4aHVCckZTSGpfUHVVVw==@62.210.249.24:33#🇫🇮_🇫🇮_ping_185ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸_🇪🇸_ping_188ms_speed_6.9Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_196ms_speed_5.8Mbps
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aWZyVGxaeTdBdmY4MWZyVWs0aGljUThieGU3Vm05a1YrSm5nZVBIRERUaz0=@161.153.119.148:50356#🇺🇸_🇺🇸_ping_356ms_speed_3.1Mbps
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Qlh4OWluYkJNV0oxQzlSRGJBU3poenNnSnk0cnZUUGliT1dxVmhMRmRObz0=@137.131.35.71:50356#🇺🇸_🇺🇸_ping_356ms_speed_2.0Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#🇳🇱_🇳🇱_ping_477ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#🇯🇵_🇯🇵_ping_572ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@r3mrcg00129437x.cybervena.com:50099#🇹🇼_🇹🇼_ping_616ms_speed_1.9Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@r3mrcg001287h3p.cybervena.com:50099#🇹🇼_🇹🇼_ping_619ms_speed_1.2Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@R3MRCG00129437X.cybervena.com:50099#🇹🇼_🇹🇼_ping_628ms_speed_2.6Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@R3MRCG001287H3P.cybervena.com:50099#🇹🇼_🇹🇼_ping_646ms_speed_3.5Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#🇹🇭_🇹🇭_ping_648ms_speed_0.2Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#🇹🇼_🇹🇼_ping_659ms_speed_7.1Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#🇹🇼_🇹🇼_ping_672ms_speed_10.6Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkA1Mi4xOTMuMjE1LjE0Mjo4MzE2#🇯🇵_🇯🇵_ping_673ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9qQDE5My4yOS4xMzkuMjEyOjgwODA=#🇳🇱_🇳🇱_ping_714ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#🇳🇱_🇳🇱_ping_3234ms

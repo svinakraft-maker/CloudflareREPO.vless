@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 20:54 (Moscow)
+# Date/Time: 2026-08-23 / 21:16 (Moscow)
 # Количество: 8
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?alpn=h3&fp=chrome&insecure=1&security=tls&sni=srv-17e124.21freedom.net#🇷🇺_ping_108ms_speed_12.7Mbps
 hysteria2://3aabd489-04af-42fb-87e2-363d1b83d335@iq5ny.pleiades.codes:8443?insecure=1&sni=iq5ny.pleiades.codes#🇬🇧_ping_252ms_speed_17.3Mbps

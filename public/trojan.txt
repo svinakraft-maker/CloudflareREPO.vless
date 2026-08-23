@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 12:17 (Moscow)
+# Date/Time: 2026-08-23 / 12:39 (Moscow)
 # Количество: 50
 trojan://EQ30679154@unique-gobbler.rooster465.autos:443?sni=unique-gobbler.rooster465.autos&type=tcp&fp=chrome#🇳🇱_ping_170ms
 trojan://EQ30679154@202.78.163.164:443?sni=pretty-mollusk.rooster465.autos&type=tcp&fp=chrome#🇵🇱_ping_207ms

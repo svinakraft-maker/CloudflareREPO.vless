@@ -1,12 +1,9 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 22:43 (Moscow)
-# Количество: 8
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?sni=pov2.api3-max.ru#🇳🇱_ping_214ms_speed_23.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=3.149.228.246#🇺🇸_ping_488ms_speed_14.9Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.52.5:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_614ms
-hysteria2://2630a66444286f47ce591752f28adf5e@154-49-127-140.liao.kdns.fr:50160?insecure=1&sni=127.0.0.1#🇺🇸_ping_998ms
-hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?insecure=1&sni=40t2.wxgqlfx.vip&obfs=&obfs-password=#🇺🇸_ping_1514ms_speed_13.6Mbps
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#🇺🇸_ping_1721ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=t.me#🇸🇬_ping_1929ms_speed_5.8Mbps
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&allowInsecure=1#🇺🇸_ping_4035ms_speed_10.9Mbps
+# Date/Time: 2026-08-23 / 23:03 (Moscow)
+# Количество: 5
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?sni=pov2.api3-max.ru#🇳🇱_🇳🇱_ping_175ms
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&allowInsecure=1#🇺🇸_🇺🇸_ping_389ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=3.149.228.246#🇺🇸_🇺🇸_ping_576ms
+hysteria2://2630a66444286f47ce591752f28adf5e@154-49-127-140.liao.kdns.fr:50160?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_902ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&sni=t.me#🇸🇬_🇸🇬_ping_1236ms

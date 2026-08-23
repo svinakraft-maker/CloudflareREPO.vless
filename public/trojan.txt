@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 20:54 (Moscow)
+# Date/Time: 2026-08-23 / 21:16 (Moscow)
 # Количество: 37
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?sni=space.byu.id.yxls.eu.cc&type=ws&path=%2Fsg-orcl&fp=chrome#🇸🇬_ping_247ms_out🇸🇬
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls&fp=chrome&sni=pretty-mollusk.rooster465.autos#🇵🇱_ping_248ms

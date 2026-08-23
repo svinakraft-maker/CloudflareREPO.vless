@@ -1,12 +1,7 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 08:10 (Moscow)
-# Количество: 8
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_628ms
-hysteria2://4hkCvE2nz6svLLqv@52.221.223.227:36001?insecure=1&sni=sg-ls-z-5.lihmxssuqleitqcxpssa.uk#🇸🇬_ping_991ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=vpn-au-002.fastervpn.world#🇦🇺_ping_1007ms
-hysteria2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567?insecure=1#🇸🇬_ping_1197ms
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@au1.xiaoliyu.cyou:4433?insecure=1&sni=au1.xiaoliyu.cyou#🇦🇺_ping_1276ms_speed_8.5Mbps
-hysteria2://c85bd762dc136495ddc02b30b0b7c5c5@107-172-212-12.liao.kdns.fr:50160?sni=107-172-212-12.liao.kdns.fr#🇺🇸_ping_1283ms
-hysteria2://e5gqbtu97umt992j@185.230.44.170:9443?sni=185.230.44.170#🏳_ping_2286ms_speed_4.8Mbps_out🏳
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?sni=grape-honk.yyuyy.com#🇨🇳_ping_2622ms_speed_2.6Mbps_out🇨🇳
+# Date/Time: 2026-08-23 / 08:34 (Moscow)
+# Количество: 3
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_443ms
+hysteria2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567?insecure=1#🇸🇬_🇸🇬_ping_623ms
+hysteria2://e5gqbtu97umt992j@185.230.44.170:9443?sni=185.230.44.170#🏳_🏳_ping_1672ms

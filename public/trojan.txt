@@ -1,40 +1,39 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 18:44 (Moscow)
-# Количество: 36
-trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?sni=space.byu.id.yxls.eu.cc&type=ws&path=%2Fsg-orcl&fp=chrome#🇸🇬_🇸🇬_ping_196ms
-trojan://AE62539071@54.188.176.255:443?fp=chrome&sni=arriving-colt.rooster465.autos#🇺🇸_🇺🇸_ping_569ms
-trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls&fp=chrome&sni=pretty-mollusk.rooster465.autos#🇵🇱_🇵🇱_ping_573ms
-trojan://PQ05174892@34.220.224.252:443?fp=chrome&sni=smooth-sculpin.rooster465.autos#🇺🇸_🇺🇸_ping_573ms
-trojan://AE62539071@35.88.120.18:443?allowInsecure=0&sni=dominant-jaguar.rooster465.autos#🇺🇸_🇺🇸_ping_592ms
-trojan://EQ30679154@absolute-teal.rooster465.autos:443?type=tcp&security=tls&fp=chrome&sni=absolute-teal.rooster465.autos#🇺🇸_🇺🇸_ping_593ms
-trojan://AE62539071@arriving-colt.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇺🇸_🇺🇸_ping_594ms
-trojan://FH72359861@35.92.245.6:443?sni=neutral-quail.rooster465.autos&type=tcp&fp=chrome#🇺🇸_🇺🇸_ping_595ms
-trojan://AE62539071@dominant-jaguar.rooster465.autos:443?security=tls&fp=chrome#🇺🇸_🇺🇸_ping_606ms
-trojan://PQ05174892@sure-bengal.rooster465.autos:443?fp=chrome#🇺🇸_🇺🇸_ping_616ms
-trojan://PQ05174892@35.90.27.143:443?fp=chrome&sni=evident-ant.rooster465.autos#🇺🇸_🇺🇸_ping_626ms
-trojan://EQ30679154@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_🇺🇸_ping_638ms
-trojan://EQ30679154@185.244.208.185:443?type=tcp&security=tls&fp=chrome&sni=striking-cheetah.rooster465.autos#🇭🇰_🇭🇰_ping_734ms
-trojan://FH72359861@34.210.213.17:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tough-tuna.rooster465.autos#🇺🇸_🇺🇸_ping_791ms
-trojan://AE62539071@liked-serval.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_🇺🇸_ping_810ms
-trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#🇫🇷_🇫🇷_ping_813ms
-trojan://FH72359861@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_🇺🇸_ping_852ms
-trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp&fp=chrome#🇺🇸_🇺🇸_ping_852ms
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_🇫🇷_ping_879ms
-trojan://EQ30679154@87.121.33.92:443?type=tcp&security=tls&fp=chrome&sni=sharing-chipmunk.rooster465.autos#🇦🇺_🇦🇺_ping_901ms
-trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_🇺🇸_ping_1083ms
-trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.18.1.196:443?type=ws&path=%2Fsg-orcl&security=tls&fp=chrome&sni=space.byu.id.yxls.eu.cc#🇸🇬_🇸🇬_ping_1113ms
-trojan://EQ30679154@true-coral.rooster465.autos:443#🇭🇰_🇭🇰_ping_1269ms
-trojan://HC04361579@185.14.47.38:443?type=tcp&security=tls&fp=chrome&sni=normal-elk.rooster465.autos#🇭🇰_🇭🇰_ping_1270ms
-trojan://HC04361579@185.244.208.60:443?type=tcp&security=tls&fp=chrome&sni=renewing-ewe.rooster465.autos#🇭🇰_🇭🇰_ping_1294ms
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls#🇫🇷_🇫🇷_ping_1317ms
-trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#🇺🇸_🇺🇸_ping_1443ms
-trojan://FH72359861@tough-tuna.rooster465.autos:443?type=tcp&security=tls&fp=chrome&sni=tough-tuna.rooster465.autos#🇺🇸_🇺🇸_ping_1575ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#ping_1754ms
-trojan://EQ30679154@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_🇺🇸_ping_1807ms
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_🇫🇷_ping_2006ms
-trojan://EQ30679154@185.14.47.56:443?type=tcp&sni=kind-unicorn.rooster465.autos#🇭🇰_🇭🇰_ping_2072ms
-trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&type=tcp&fp=chrome#🇺🇸_🇺🇸_ping_2189ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#ping_2290ms
-trojan://EQ30679154@kind-unicorn.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇭🇰_🇭🇰_ping_3088ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#ping_3467ms
+# Date/Time: 2026-08-23 / 19:29 (Moscow)
+# Количество: 35
+trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?type=ws&path=%2Fsg-orcl&security=tls&sni=space.byu.id.yxls.eu.cc#🇸🇬_ping_181ms_out🇸🇬
+trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.18.1.196:443?type=ws&path=%2Fsg-orcl&security=tls&fp=chrome&sni=space.byu.id.yxls.eu.cc#🇸🇬_ping_203ms_out🇸🇬
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls&fp=chrome&sni=pretty-mollusk.rooster465.autos#🇵🇱_ping_395ms
+trojan://EQ30679154@true-coral.rooster465.autos:443#🇭🇰_ping_602ms
+trojan://EQ30679154@185.244.208.185:443?type=tcp&security=tls&fp=chrome&sni=striking-cheetah.rooster465.autos#🇭🇰_ping_614ms
+trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#🇯🇵_ping_710ms
+trojan://HC04361579@185.244.208.60:443?type=tcp&security=tls&fp=chrome&sni=renewing-ewe.rooster465.autos#🇭🇰_ping_716ms
+trojan://EQ30679154@185.14.47.56:443?type=tcp&sni=kind-unicorn.rooster465.autos#🇭🇰_ping_736ms
+trojan://HC04361579@185.14.47.38:443?type=tcp&security=tls&fp=chrome&sni=normal-elk.rooster465.autos#🇭🇰_ping_761ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#🇺🇸_ping_825ms
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls#🇫🇷_ping_837ms_out🇫🇷
+trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#🇫🇷_ping_910ms_out🇫🇷
+trojan://AE62539071@35.88.120.18:443?allowInsecure=0&sni=dominant-jaguar.rooster465.autos#🇺🇸_ping_914ms
+trojan://PQ05174892@34.220.224.252:443?fp=chrome&sni=smooth-sculpin.rooster465.autos#🇺🇸_ping_919ms
+trojan://EQ30679154@87.121.33.92:443?type=tcp&security=tls&fp=chrome&sni=sharing-chipmunk.rooster465.autos#🇦🇺_ping_921ms
+trojan://AE62539071@54.188.176.255:443?fp=chrome&sni=arriving-colt.rooster465.autos#🇺🇸_ping_923ms
+trojan://FH72359861@34.210.213.17:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tough-tuna.rooster465.autos#🇺🇸_ping_925ms
+trojan://PQ05174892@35.91.138.234:443?fp=chrome&sni=sure-bengal.rooster465.autos#🇺🇸_ping_939ms
+trojan://EQ30679154@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_940ms_speed_0.2Mbps
+trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_945ms_speed_5.9Mbps
+trojan://PQ05174892@sure-bengal.rooster465.autos:443?fp=chrome#🇺🇸_ping_965ms
+trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_985ms_speed_3.4Mbps
+trojan://EQ30679154@absolute-teal.rooster465.autos:443?type=tcp&security=tls&fp=chrome&sni=absolute-teal.rooster465.autos#🇺🇸_ping_1002ms
+trojan://FH72359861@35.92.245.6:443?sni=neutral-quail.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_1004ms_speed_0.8Mbps
+trojan://EQ30679154@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_1020ms_speed_0.5Mbps
+trojan://PQ05174892@35.90.27.143:443?fp=chrome&sni=evident-ant.rooster465.autos#🇺🇸_ping_1026ms
+trojan://FH72359861@tough-tuna.rooster465.autos:443?type=tcp&security=tls&fp=chrome&sni=tough-tuna.rooster465.autos#🇺🇸_ping_1076ms
+trojan://FH72359861@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_1102ms_speed_8.3Mbps
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_1280ms
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls#🇺🇸_ping_1318ms_speed_0.0Mbps
+trojan://AE62539071@arriving-colt.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇺🇸_ping_1346ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#🇭🇰_ping_1636ms
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_ping_1900ms_out🇫🇷
+trojan://AE62539071@liked-serval.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_1998ms
+trojan://AE62539071@dominant-jaguar.rooster465.autos:443?security=tls&fp=chrome#🇺🇸_ping_3369ms

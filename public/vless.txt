@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 07:48 (Moscow)
+# Date/Time: 2026-08-23 / 08:10 (Moscow)
 # Количество: 1620
 vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?path=%2Fv1&sni=rzd.ru&type=ws#🇧🇷_ping_37ms
 vless://@Cooonfig@Cooonfig@ZhilaVPN@65.109.181.252:13470?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#🇫🇮_ping_41ms_speed_27.3Mbps

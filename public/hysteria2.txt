@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 09:19 (Moscow)
+# Date/Time: 2026-08-23 / 09:41 (Moscow)
 # Количество: 11
 hysteria2://99469a62-c9a7-4223-a5ca-6a1ddaa1e7a9@87.251.19.13:8443?sni=speedtestmark.com#🇪🇪_ping_174ms_speed_7.6Mbps
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq1.wwwinternetvideo.click:443?sni=cabinet.wwwinternetvideo.click&alpn=h3#🇪🇪_ping_205ms_speed_10.5Mbps_out🇪🇪

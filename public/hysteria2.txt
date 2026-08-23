@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-23 / 03:17 (Moscow)
+# Date/Time: 2026-08-23 / 03:38 (Moscow)
 # Количество: 10
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org#🇷🇴_ping_353ms_speed_15.8Mbps
 hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1#🇩🇪_ping_358ms_speed_0.4Mbps

@@ -1,10 +1,7 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 07:20 (Moscow)
-# Количество: 6
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=de1.sferavpn.pro#🇩🇪_ping_464ms_speed_14.2Mbps
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_ping_726ms_speed_0.1Mbps_out🇫🇮
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_951ms
-hysteria2://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@us-nyc.katanalink.net:443?sni=us-nyc.katanalink.net#🇺🇸_ping_1361ms_speed_18.4Mbps
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?insecure=1#🇬🇧_ping_4399ms_speed_11.1Mbps
-hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_5267ms_speed_1.5Mbps
+# Date/Time: 2026-08-24 / 07:43 (Moscow)
+# Количество: 3
+hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?insecure=1#🇬🇧_🇬🇧_ping_401ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=de1.sferavpn.pro#🇩🇪_🇩🇪_ping_431ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_🇸🇬_ping_883ms

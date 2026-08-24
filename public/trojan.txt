@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 17:13 (Moscow)
+# Date/Time: 2026-08-24 / 17:35 (Moscow)
 # Количество: 16
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@104.18.1.196:443?sni=space.byu.id.yxls.eu.cc&type=ws&path=%2Fsg-orcl&fp=chrome#🏳_ping_218ms
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_537ms

@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 11:27 (Moscow)
+# Date/Time: 2026-08-24 / 11:48 (Moscow)
 # Количество: 17
 hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@swe-one.letsgodance.site:443?sni=swe-one.letsgodance.site#🇸🇪_ping_195ms_speed_11.9Mbps
 hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@fi-one.letsgodance.site:443?sni=fi-one.letsgodance.site#🇸🇪_ping_240ms_speed_5.4Mbps

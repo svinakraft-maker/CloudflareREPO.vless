@@ -1,8 +1,21 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 15:03 (Moscow)
-# Количество: 4
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#🇩🇪_🇩🇪_ping_231ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_614ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_672ms
-hysteria2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567?insecure=1&sni=43.156.90.144#🇸🇬_🇸🇬_ping_1074ms
+# Date/Time: 2026-08-24 / 15:47 (Moscow)
+# Количество: 17
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#🇫🇷_ping_251ms_speed_8.8Mbps
+hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇳🇱_ping_444ms_speed_10.9Mbps_out🇳🇱
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&sni=vpn-us-002.fastervpn.world#🇺🇸_ping_592ms_speed_11.1Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.170.35:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_602ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.32.171:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_605ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_819ms_speed_15.4Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.1.222:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_878ms_speed_10.0Mbps
+hysteria2://sxc15led4b0vp5fy@positive.otzivs.ru:1935?sni=positive.otzivs.ru&obfs=salamander&obfs-password=8gojzqtrjrtph2mh&fp=edge&security=tls#🇩🇪_ping_1139ms_speed_7.5Mbps
+hysteria2://32d3c043-8c78-4348-94e4-37b7937ccae2@node.embrofree.org:443?sni=node.embrofree.org#🇵🇱_ping_1309ms_speed_2.5Mbps_out🇵🇱
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia1.unlimited-access.ru:443?sni=hy2-latvia1.unlimited-access.ru#🇱🇻_ping_1309ms_speed_24.8Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦_ping_1799ms
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#🇺🇸_ping_1927ms
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#🇺🇸_ping_2609ms_speed_12.4Mbps
+hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-three.letsgodance.site:8443?sni=de-three.letsgodance.site#🇩🇪_ping_2782ms_speed_1.1Mbps
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_ping_2845ms_speed_0.1Mbps_out🇫🇮
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#🇭🇰_ping_2941ms_speed_8.5Mbps
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_3022ms_speed_0.5Mbps

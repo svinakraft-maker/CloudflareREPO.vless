@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 09:58 (Moscow)
+# Date/Time: 2026-08-24 / 10:19 (Moscow)
 # Количество: 25
 trojan://Mehdi1234@172.64.144.251:2083?type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev#🏳_ping_148ms
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&security=tls#🇸🇬_ping_198ms_out🇸🇬

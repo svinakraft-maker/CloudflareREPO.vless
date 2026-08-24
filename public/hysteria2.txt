@@ -1,35 +1,15 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 08:49 (Moscow)
-# Количество: 31
-hysteria2://3aabd489-04af-42fb-87e2-363d1b83d335@iq5ny.pleiades.codes:8443?insecure=1&sni=iq5ny.pleiades.codes#🇬🇧_ping_152ms_speed_10.5Mbps
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.119.101:443?sni=de4.convert-cloud.guru#🇩🇪_ping_153ms_speed_8.5Mbps
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@fi-one.letsgodance.site:443?sni=fi-one.letsgodance.site#🇸🇪_ping_158ms_speed_10.4Mbps
-hysteria2://a4130dea-9e33-4032-805d-0392fdf26cbd@forever.h4ck.me:443?sni=forever.h4ck.me&fm={#🇺🇸_ping_182ms_speed_12.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_210ms_speed_25.0Mbps
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@swe-one.letsgodance.site:443?sni=swe-one.letsgodance.site#🇸🇪_ping_210ms_speed_8.4Mbps
-hysteria2://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@de.katanalink.net:443?sni=de.katanalink.net#🇩🇪_ping_269ms_speed_10.3Mbps
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-two.letsgodance.site:443?sni=de-two.letsgodance.site#🇩🇪_ping_337ms_speed_2.4Mbps
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇳🇱_ping_363ms_speed_26.9Mbps_out🇳🇱
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com#🇩🇪_ping_456ms_speed_0.3Mbps
-hysteria2://a4130dea-9e33-4032-805d-0392fdf26cbd@samurai.h4ck.me:443?sni=samurai.h4ck.me&fm={#🇨🇭_ping_464ms_speed_13.4Mbps
-hysteria2://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@jp.katanalink.net:443?sni=jp.katanalink.net#🇯🇵_ping_491ms_speed_6.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_509ms
-hysteria2://391f093f-85fc-473d-abe2-ea607b9ff567@217.150.197.54:8443?security=tls&insecure=1&sni=quic.tyr-agentstvo.tech#🇩🇪_ping_598ms_speed_4.7Mbps_out🇩🇪
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.75.123:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_608ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_698ms_speed_14.7Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.227.91:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_848ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_874ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_1194ms_speed_11.1Mbps
-hysteria2://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@fi.katanalink.net:443?sni=fi.katanalink.net#🇺🇸_ping_1256ms_speed_10.8Mbps
-hysteria2://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@lv.katanalink.net:443?sni=lv.katanalink.net#🇺🇸_ping_1336ms_speed_10.2Mbps
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@swe-two.letsgodance.site:8443?sni=swe-two.letsgodance.site#🇸🇪_ping_1357ms_speed_5.3Mbps
-hysteria2://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@pl.katanalink.net:443?sni=pl.katanalink.net#🇵🇱_ping_1360ms_speed_3.0Mbps
-hysteria2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@forever.h4ck.me:443?sni=forever.h4ck.me#🇺🇸_ping_1577ms_speed_15.0Mbps
-hysteria2://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@nl.katanalink.net:443?sni=nl.katanalink.net#🇳🇱_ping_1699ms_speed_5.9Mbps
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_ping_1748ms_speed_0.1Mbps_out🇫🇮
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?sni=iq5ny.pleiades.codes&insecure=0#🇬🇧_ping_1764ms_speed_19.5Mbps
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr&insecure=1#🇰🇷_ping_1926ms
-hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?insecure=1&security=tls&sni=40t2.wxgqlfx.vip#🇺🇸_ping_2098ms_speed_3.3Mbps
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#🇺🇸_ping_2172ms
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺_ping_4001ms_speed_7.5Mbps
+# Date/Time: 2026-08-24 / 09:13 (Moscow)
+# Количество: 11
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺_🇷🇺_ping_156ms
+hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.119.101:443?sni=de4.convert-cloud.guru#🇩🇪_🇩🇪_ping_158ms
+hysteria2://3aabd489-04af-42fb-87e2-363d1b83d335@iq5ny.pleiades.codes:8443?insecure=1&sni=iq5ny.pleiades.codes#🇬🇧_🇬🇧_ping_316ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_454ms
+hysteria2://a4130dea-9e33-4032-805d-0392fdf26cbd@forever.h4ck.me:443?sni=forever.h4ck.me&fm={#🇺🇸_🇺🇸_ping_459ms
+hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@fi-one.letsgodance.site:443?sni=fi-one.letsgodance.site#🇸🇪_🇸🇪_ping_643ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.227.91:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_🇸🇬_ping_850ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_917ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_1036ms
+hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-two.letsgodance.site:443?sni=de-two.letsgodance.site#🇩🇪_🇩🇪_ping_1195ms
+hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?sni=iq5ny.pleiades.codes&insecure=0#🇬🇧_🇬🇧_ping_2343ms

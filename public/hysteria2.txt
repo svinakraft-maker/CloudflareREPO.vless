@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 09:58 (Moscow)
+# Date/Time: 2026-08-24 / 10:19 (Moscow)
 # Количество: 24
 hysteria2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443?insecure=1&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#🇩🇪_ping_85ms_speed_17.9Mbps_out🇩🇪
 hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@swe-one.letsgodance.site:443?sni=swe-one.letsgodance.site#🇸🇪_ping_300ms_speed_6.8Mbps

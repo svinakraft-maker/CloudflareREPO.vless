@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 12:56 (Moscow)
+# Date/Time: 2026-08-24 / 13:17 (Moscow)
 # Количество: 18
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺_ping_413ms_speed_6.5Mbps
 hysteria2://32d3c043-8c78-4348-94e4-37b7937ccae2@node.embrofree.org:443?sni=node.embrofree.org#🇵🇱_ping_455ms_speed_6.3Mbps_out🇵🇱

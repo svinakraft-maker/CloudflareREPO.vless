@@ -1,18 +1,10 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 23:20 (Moscow)
-# Количество: 14
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.230:8443?sni=hopp-legend-se.roxa.org#🇺🇸_ping_272ms_speed_22.1Mbps
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#🇫🇷_ping_304ms_speed_0.7Mbps
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080?sni=hopp-romania-new.roxa.org#🇦🇪_ping_378ms_speed_9.6Mbps_out🇦🇪
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦_ping_396ms_speed_17.7Mbps
-hysteria2://5b9aba98-df99-4699-8fd8-15aabe7de47f@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_ping_916ms_speed_0.3Mbps_out🇩🇪
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?sni=hopp-netherland-new.dynuddns.net#🇷🇴_ping_1208ms_speed_26.3Mbps
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8080?sni=grape-turbo-fr.roxa.org#🇸🇨_ping_1229ms_speed_13.7Mbps_out🇸🇨
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443?sni=hy2-latvia2.unlimited-access.ru&fp=chrome#🇱🇻_ping_1279ms_speed_20.2Mbps
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_ping_1325ms_speed_0.0Mbps_out🇫🇮
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_1557ms_speed_13.0Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.193.153:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1630ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1634ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_2129ms
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#🇰🇷_ping_2252ms
+# Date/Time: 2026-08-24 / 23:39 (Moscow)
+# Количество: 6
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.230:8443?sni=hopp-legend-se.roxa.org#🇺🇸_🇺🇸_ping_240ms
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080?sni=hopp-romania-new.roxa.org#🇦🇪_🇦🇪_ping_368ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_448ms
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443?sni=hopp-netherland-new.dynuddns.net#🇷🇴_🇷🇴_ping_572ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_899ms
+hysteria2://5b9aba98-df99-4699-8fd8-15aabe7de47f@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_🇩🇪_ping_3357ms

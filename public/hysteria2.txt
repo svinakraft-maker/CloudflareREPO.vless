@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 04:03 (Moscow)
+# Date/Time: 2026-08-24 / 04:24 (Moscow)
 # Количество: 14
 hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?sni=pov2.api3-max.ru#🇳🇱_ping_154ms_speed_13.9Mbps
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_187ms

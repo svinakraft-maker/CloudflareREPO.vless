@@ -1,10 +1,9 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 16:28 (Moscow)
-# Количество: 6
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦_🇨🇦_ping_382ms
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇳🇱_🇳🇱_ping_396ms
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#🇫🇷_🇫🇷_ping_436ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_450ms
-hysteria2://sxc15led4b0vp5fy@positive.otzivs.ru:1935?sni=positive.otzivs.ru&obfs=salamander&obfs-password=8gojzqtrjrtph2mh&fp=edge&security=tls#🇩🇪_🇩🇪_ping_1174ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&sni=vpn-us-002.fastervpn.world#🇺🇸_🇺🇸_ping_1604ms
+# Date/Time: 2026-08-24 / 17:13 (Moscow)
+# Количество: 5
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_ping_136ms_speed_22.0Mbps
+hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇳🇱_ping_234ms_speed_5.9Mbps_out🇳🇱
+hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-three.letsgodance.site:8443?sni=de-three.letsgodance.site#🇩🇪_ping_886ms_speed_0.8Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1879ms
+hysteria2://sxc15led4b0vp5fy@positive.otzivs.ru:1935?sni=positive.otzivs.ru&obfs=salamander&obfs-password=8gojzqtrjrtph2mh&fp=edge&security=tls#🇩🇪_ping_2343ms_speed_26.1Mbps

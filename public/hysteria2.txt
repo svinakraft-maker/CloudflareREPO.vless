@@ -1,11 +1,22 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 12:11 (Moscow)
-# Количество: 7
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-three.letsgodance.site:8443?sni=de-three.letsgodance.site#🇩🇪_🇩🇪_ping_319ms
-hysteria2://32d3c043-8c78-4348-94e4-37b7937ccae2@node.embrofree.org:443?sni=node.embrofree.org#🇵🇱_🇵🇱_ping_389ms
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@swe-one.letsgodance.site:443?sni=swe-one.letsgodance.site#🇸🇪_🇸🇪_ping_764ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.227.91:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_🇸🇬_ping_831ms
-hysteria2://a4130dea-9e33-4032-805d-0392fdf26cbd@forever.h4ck.me:443?sni=forever.h4ck.me&fm={#🇺🇸_🇺🇸_ping_878ms
-hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_🇹🇷_ping_1969ms
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@fi-one.letsgodance.site:443?sni=fi-one.letsgodance.site#🇸🇪_🇸🇪_ping_4814ms
+# Date/Time: 2026-08-24 / 12:56 (Moscow)
+# Количество: 18
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0#🇷🇺_ping_413ms_speed_6.5Mbps
+hysteria2://32d3c043-8c78-4348-94e4-37b7937ccae2@node.embrofree.org:443?sni=node.embrofree.org#🇵🇱_ping_455ms_speed_6.3Mbps_out🇵🇱
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&sni=vpn-us-002.fastervpn.world#🇺🇸_ping_582ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.193.153:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_668ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#🇺🇸_ping_690ms_speed_10.4Mbps
+hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-three.letsgodance.site:8443?sni=de-three.letsgodance.site#🇩🇪_ping_778ms_speed_4.5Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.1.222:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_879ms
+hysteria2://dbab9df7-5c0a-4726-8574-11e34972b67d@86.53.105.117:33015?insecure=1#🇩🇪_ping_894ms_speed_0.1Mbps
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_ping_1007ms_speed_0.0Mbps_out🇫🇮
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?alpn=h3&fp=chrome&insecure=1&security=tls&sni=srv-17e124.21freedom.net#🇷🇺_ping_1143ms_speed_6.2Mbps
+hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇳🇱_ping_1209ms_speed_3.8Mbps_out🇳🇱
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#🇫🇷_ping_1324ms_speed_8.1Mbps
+hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_1646ms_speed_0.1Mbps
+hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#🇸🇬_ping_1679ms
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1453?fm=%257B%250A%2520%2520%2522quicParams%2522%2520%3A%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520%3A%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=zisvpn.ru&alpn=h3#🇭🇰_ping_1786ms_out🇭🇰
+hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@us4.xiaoliyu.cyou:4433?insecure=1&sni=127.0.0.1#🇺🇸_ping_1877ms
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@au1.xiaoliyu.cyou:4433?insecure=1&sni=au1.xiaoliyu.cyou#🇦🇺_ping_2263ms_speed_10.8Mbps
+hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&fm=%7B#🇵🇱_ping_3104ms_speed_2.9Mbps_out🇵🇱

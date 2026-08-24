@@ -1,10 +1,9 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 02:35 (Moscow)
-# Количество: 6
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_ping_151ms_speed_0.6Mbps_out🇫🇮
-hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_ping_236ms_speed_0.6Mbps_out🇩🇪
-hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_ping_495ms_speed_0.3Mbps_out🇩🇪
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#🇳🇱_ping_811ms_speed_2.0Mbps
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#🇺🇸_ping_1041ms
-hysteria2://3e8790e4fb6629aa819217d9655eafa3@140.83.85.233:50160?insecure=1&sni=www.bing.com#🇯🇵_ping_2208ms_speed_8.3Mbps
+# Date/Time: 2026-08-25 / 02:37 (Moscow)
+# Количество: 5
+hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_🇩🇪_ping_327ms
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_🇫🇮_ping_389ms
+hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_🇩🇪_ping_546ms
+hysteria2://3e8790e4fb6629aa819217d9655eafa3@140.83.85.233:50160?insecure=1&sni=www.bing.com#🇯🇵_🇯🇵_ping_853ms
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#🇺🇸_🇺🇸_ping_1139ms

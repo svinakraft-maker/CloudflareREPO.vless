@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 08:27 (Moscow)
+# Date/Time: 2026-08-24 / 08:49 (Moscow)
 # Количество: 31
 hysteria2://3aabd489-04af-42fb-87e2-363d1b83d335@iq5ny.pleiades.codes:8443?insecure=1&sni=iq5ny.pleiades.codes#🇬🇧_ping_152ms_speed_10.5Mbps
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.119.101:443?sni=de4.convert-cloud.guru#🇩🇪_ping_153ms_speed_8.5Mbps

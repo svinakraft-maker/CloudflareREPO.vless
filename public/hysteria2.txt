@@ -1,8 +1,14 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-24 / 17:54 (Moscow)
-# Количество: 4
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_🇳🇱_ping_174ms
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇳🇱_🇳🇱_ping_666ms
-hysteria2://sxc15led4b0vp5fy@positive.otzivs.ru:1935?sni=positive.otzivs.ru&obfs=salamander&obfs-password=8gojzqtrjrtph2mh&fp=edge&security=tls#🇩🇪_🇩🇪_ping_2361ms
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-three.letsgodance.site:8443?sni=de-three.letsgodance.site#🇩🇪_🇩🇪_ping_2596ms
+# Date/Time: 2026-08-24 / 18:39 (Moscow)
+# Количество: 10
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.142:8443?sni=grape-turbo-fr.roxa.org#🇳🇱_ping_242ms_speed_7.7Mbps
+hysteria2://2544ad8a388f1b7e6d1c878f5a7d121c@213.35.114.141:50160?insecure=1&sni=www.bing.com#🇸🇬_ping_1603ms_speed_8.9Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.248.75:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1827ms_speed_5.9Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.144.53:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1875ms_speed_7.9Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=18.118.193.169#🇺🇸_ping_1980ms_speed_8.9Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_1986ms_speed_0.6Mbps
+hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?insecure=1&security=tls&sni=40t2.wxgqlfx.vip#🇺🇸_ping_2213ms
+hysteria2://sxc15led4b0vp5fy@positive.otzivs.ru:1935?sni=positive.otzivs.ru&obfs=salamander&obfs-password=8gojzqtrjrtph2mh&fp=edge&security=tls#🇩🇪_ping_2243ms_speed_15.3Mbps
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#🇫🇮_ping_2362ms_speed_0.0Mbps_out🇫🇮
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.52.5:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_4314ms

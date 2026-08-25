@@ -2,6 +2,8 @@
 
 # ☁️ FlareFeed ☁️
 
+ # https://t.me/FlareFeed
+
 ### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)

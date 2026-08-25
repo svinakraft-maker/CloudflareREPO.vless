@@ -1,7 +1,7 @@
 # profile-title: CLASH ClashFone.yaml
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 15:40 (Moscow)
-# Количество: 1459
+# Date/Time: 2026-08-25 / 15:43 (Moscow)
+# Количество: 1455
 mixed-port: 7890
 allow-lan: false
 mode: rule
@@ -44,9 +44,7 @@ dns:
     - 'https://dns.google/dns-query'
     - 'https://cloudflare-dns.com/dns-query'
 proxies:
-=== BEGIN WARP PROXIES ===
 # (WARP proxies removed - using our proxies)
-=== BEGIN FLAREFEED PROXIES ===
   - name: "vless-1"
     server: "51.102.158.171"
     port: 22224
@@ -1393,12 +1391,10 @@ proxies:
     type: "vless"
     uuid: "8fb65472-5957-4f64-ba2d-b5812b2f155a"
     network: "tcp"
-=== END FLAREFEED PROXIES ===
-=== END WARP PROXIES ===
 proxy-groups:
   - name: "🚀 Выбрать вручную"
     type: select
-    include-all: true
+    include-all-proxies: true
     filter: "vless|vmess|trojan|ss|hysteria2"
   
   - name: "⚡️ Авто"
@@ -1406,7 +1402,7 @@ proxy-groups:
     tolerance: 150
     interval: 300
     url: "http://www.google.com/generate_204"
-    include-all: true
+    include-all-proxies: true
     filter: "vless|vmess|trojan|ss|hysteria2"
     hidden: true
   

@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 16:15 (Moscow)
+# Date/Time: 2026-08-25 / 16:37 (Moscow)
 # Количество: 21
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#🇵🇱_ping_227ms
 trojan://trojan@104.18.12.229:8443?sni=longwanghen.pages.dev&type=ws&path=%2F&fp=chrome#🏳_ping_374ms

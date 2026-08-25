@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 12:44 (Moscow)
+# Date/Time: 2026-08-25 / 13:06 (Moscow)
 # Количество: 19
 hysteria2://6203363b-6c41-4558-b503-526c5c949822@edge.nordcache.ru:9443?insecure=1&sni=edge.nordcache.ru#🇨🇭_ping_336ms_speed_2.5Mbps_out🇨🇭
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.230:8080?sni=hopp-legend-se.roxa.org#🇸🇨_ping_400ms_speed_8.0Mbps_out🇸🇨

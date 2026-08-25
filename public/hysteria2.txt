@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 16:15 (Moscow)
+# Date/Time: 2026-08-25 / 16:37 (Moscow)
 # Количество: 32
 hysteria2://5eaf179b-ff25-4887-903f-3682c6d8f47f@lvhy2.metricpipe.space:8452?sni=lvhy2.metricpipe.space#🇱🇻_ping_166ms_speed_6.1Mbps
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0&sni=msk.frkn.org#🇷🇺_ping_359ms_speed_2.8Mbps

@@ -1,7 +1,7 @@
 # profile-title: CLASH openwrtXkeenetic.yaml
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 15:53 (Moscow)
-# Количество: 524
+# Date/Time: 2026-08-25 / 16:05 (Moscow)
+# Количество: 528
 mixed-port: 7890
 tproxy-port: 7891
 allow-lan: true
@@ -483,7 +483,6 @@ proxy-groups:
     url: "http://www.google.com/generate_204"
     include-all-proxies: true
     filter: "vless|vmess|trojan|ss|hysteria2"
-    hidden: true
   
   - name: "🌍 Геоблок"
     type: select
@@ -491,6 +490,11 @@ proxy-groups:
       - "⚡️ Авто"
       - "🚀 Выбрать вручную"
   
+  - name: "🌐 По умолчанию"
+    type: select
+    proxies:
+      - "⚡️ Авто"
+      - "🚀 Выбрать вручную"
   - name: "🔓 Без VPN"
     type: select
     proxies:

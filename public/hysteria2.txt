@@ -1,12 +1,8 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 10:03 (Moscow)
-# Количество: 8
-hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?sni=edge.nordcache.ru#🇨🇭_ping_210ms_speed_6.2Mbps_out🇨🇭
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#🇨🇦_ping_508ms_speed_1.0Mbps
-hysteria2://5a7655f8-969e-4738-a7f8-12f327dd1b65@178.250.243.21:9443?sni=cns.dodostarscoffee.ru&insecure=0#🇩🇪_ping_562ms_speed_0.3Mbps_out🇩🇪
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_610ms_speed_7.9Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_893ms
-hysteria2://c86222db9b5784ef6a2c0ab13f6ef658@168.107.13.220:50160?insecure=1&sni=www.bing.com#🇰🇷_ping_970ms
-hysteria2://c85bd762dc136495ddc02b30b0b7c5c5@107-172-212-12.liao.kdns.fr:50160?sni=107-172-212-12.liao.kdns.fr#🇺🇸_ping_1013ms_speed_17.3Mbps
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?alpn=h3&sni=hy222.routeon.pro#🇳🇱_ping_1122ms_speed_4.7Mbps_out🇳🇱
+# Date/Time: 2026-08-25 / 10:28 (Moscow)
+# Количество: 4
+hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?sni=edge.nordcache.ru#🇨🇭_🇨🇭_ping_225ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#🇨🇦_🇨🇦_ping_434ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_862ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_916ms

@@ -1,26 +1,13 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 06:55 (Moscow)
-# Количество: 22
-hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_ping_260ms_speed_0.6Mbps_out🇩🇪
-hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?sni=edge.nordcache.ru#🇷🇺_ping_331ms_speed_11.9Mbps
-hysteria2://086422b2-3347-45f8-b527-d9e1be25dc56@185.23.18.208:443?sni=histeriaheixa.mooo.com#🇱🇹_ping_437ms_speed_2.6Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_871ms
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#🇫🇷_ping_1198ms_speed_9.0Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_ping_1198ms
-hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_1205ms_speed_1.5Mbps
-hysteria2://026ee970-e645-4062-899a-383d75767b48@hy2.ghostyconnect.org:443?sni=hy2.ghostyconnect.org#🇫🇮_ping_1320ms_speed_8.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_1477ms_speed_2.8Mbps
-hysteria2://2630a66444286f47ce591752f28adf5e@154-49-127-140.liao.kdns.fr:50160?insecure=1&sni=154-49-127-140.liao.kdns.fr#🇺🇸_ping_1510ms_speed_9.9Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.134.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1610ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#🇺🇸_ping_1643ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.225.195:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1646ms
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080?sni=hopp-romania-new.roxa.org#🇷🇴_ping_1812ms_speed_9.7Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1996ms
-hysteria2://57ec0f01-0c00-4a69-ad67-937b4735640b@40t2.wxgqlfx.vip:35193?insecure=1&sni=40t2.wxgqlfx.vip#🇺🇸_ping_2091ms_speed_6.5Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_2095ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.248.75:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_2228ms_speed_3.9Mbps
-hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#🇰🇷_ping_2372ms
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_ping_2488ms
-hysteria2://sxc15led4b0vp5fy@positive.otzivs.ru:1935?sni=positive.otzivs.ru&obfs=salamander&obfs-password=8gojzqtrjrtph2mh&fp=edge&security=tls#🇩🇪_ping_2589ms_speed_4.6Mbps
-hysteria2://b4c65d3711d27d46f32263f1dd9caf48@151.145.65.190:50160?insecure=1&sni=www.bing.com#🇯🇵_ping_3705ms
+# Date/Time: 2026-08-25 / 07:21 (Moscow)
+# Количество: 9
+hysteria2://086422b2-3347-45f8-b527-d9e1be25dc56@185.23.18.208:443?sni=histeriaheixa.mooo.com#🇱🇹_🇱🇹_ping_165ms
+hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?sni=edge.nordcache.ru#🇨🇭_🇨🇭_ping_186ms
+hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?sni=dora5.api3-max.ru#🇫🇷_🇫🇷_ping_192ms
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080?sni=hopp-romania-new.roxa.org#🇦🇪_🇦🇪_ping_395ms
+hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_🇩🇪_ping_421ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_🇺🇸_ping_777ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_858ms
+hysteria2://b4c65d3711d27d46f32263f1dd9caf48@151.145.65.190:50160?insecure=1&sni=www.bing.com#ping_1316ms
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_🇯🇵_ping_2072ms

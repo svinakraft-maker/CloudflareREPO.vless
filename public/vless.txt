@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 08:06 (Moscow)
+# Date/Time: 2026-08-25 / 08:28 (Moscow)
 # Количество: 2063
 vless://9e09f1ce-45d4-466d-b077-81b0dae00db2@46.149.66.9:27700?type=grpc&serviceName=zuugrpc&fp=firefox#🇷🇺_ping_42ms_speed_3.0Mbps
 vless://d46b4fca-2352-4557-a6d5-e8c45b27618c@77.222.52.61:2200?type=ws&security=none&path=/v1#🇷🇺_ping_46ms

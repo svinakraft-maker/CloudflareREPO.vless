@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 09:41 (Moscow)
+# Date/Time: 2026-08-25 / 10:03 (Moscow)
 # Количество: 8
 hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?sni=edge.nordcache.ru#🇨🇭_ping_210ms_speed_6.2Mbps_out🇨🇭
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#🇨🇦_ping_508ms_speed_1.0Mbps

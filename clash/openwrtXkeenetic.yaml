@@ -1,7 +1,7 @@
 # profile-title: CLASH openwrtXkeenetic.yaml
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 16:09 (Moscow)
-# Количество: 528
+# Date/Time: 2026-08-25 / 16:16 (Moscow)
+# Количество: 570
 mixed-port: 7890
 tproxy-port: 7891
 allow-lan: true
@@ -61,13 +61,6 @@ tun:
 proxies:
   - name: "vless-1"
     type: "vless"
-    server: "51.102.158.171"
-    port: 22224
-    udp: true
-    uuid: "e4514801-0d5a-42ba-869f-39bd605aef9e"
-    network: "tcp"
-  - name: "vless-2"
-    type: "vless"
     server: "193.233.246.82"
     port: 8443
     udp: true
@@ -82,37 +75,7 @@ proxies:
     client-fingerprint: "chrome"
     grpc-opts:
       grpc-service-name: "grpc-yandex"
-  - name: "vless-3"
-    type: "vless"
-    server: "v.volnalink.uk"
-    port: 2083
-    udp: true
-    uuid: "4f8efa61-96db-483c-b134-9ce844e31228"
-    network: "grpc"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "www.booking.com"
-    reality-opts:
-      public-key: "09l3Pxt0H9sP87D_FGMAiUdbYkg7ExQKkC_Itc3sMRc"
-      short-id: "da"
-    client-fingerprint: "chrome"
-    grpc-opts:
-      grpc-service-name: "grpc"
-  - name: "vless-4"
-    type: "vless"
-    server: "185.147.26.175"
-    port: 443
-    udp: true
-    uuid: "fa883d80-f437-41af-884d-06d1faad0c27"
-    network: "tcp"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "yt.orpheous.ru"
-    reality-opts:
-      public-key: "9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4"
-      short-id: "e4aa362b5f9d07d7"
-    client-fingerprint: "firefox"
-  - name: "vless-5"
+  - name: "vless-2"
     type: "vless"
     server: "193.233.246.80"
     port: 8443
@@ -128,38 +91,117 @@ proxies:
     client-fingerprint: "firefox"
     grpc-opts:
       grpc-service-name: "grpc-yandex"
-  - name: "vless-6"
+  - name: "vless-3"
     type: "vless"
-    server: "cctvhikvision.center"
-    port: 2052
-    udp: true
-    uuid: "b3a9b22a-bf5c-476f-9eb7-224c42294fcf"
-    network: "ws"
-    ws-opts:
-      path: "/@BlueKnight_net--@BlueKnight_net"
-      headers:
-        Host: "uwu.blueknightnet.qzz.io"
-  - name: "vless-7"
-    type: "vless"
-    server: "185.32.6.70"
+    server: "185.147.26.175"
     port: 443
     udp: true
-    uuid: "953e3703-4ddc-49a7-a087-c96049d22340"
+    uuid: "fa883d80-f437-41af-884d-06d1faad0c27"
     network: "tcp"
     tls: true
     flow: "xtls-rprx-vision"
-    servername: "storage.yandex.net"
+    servername: "yt.orpheous.ru"
     reality-opts:
-      public-key: "lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk"
-      short-id: "99fe1ec015fde70c"
+      public-key: "9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4"
+      short-id: "e4aa362b5f9d07d7"
     client-fingerprint: "firefox"
-  - name: "vless-8"
+  - name: "vless-4"
     type: "vless"
-    server: "uk.alertyagency.com"
+    server: "194.26.192.76"
     port: 443
     udp: true
-    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    uuid: "626c0789-16d1-4815-be8b-bd03959d7d12"
     network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "nl1.tsumshop.org"
+    reality-opts:
+      public-key: "tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ"
+      short-id: "c8c75aaf699259b4"
+    client-fingerprint: "firefox"
+  - name: "vless-5"
+    type: "vless"
+    server: "80.78.244.33"
+    port: 9890
+    udp: true
+    uuid: "130e6aab-9eba-441e-9021-22cbccc72832"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "dl.google.com"
+    reality-opts:
+      public-key: "Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0"
+      short-id: "aa"
+    client-fingerprint: "qq"
+    grpc-opts:
+      grpc-service-name: "grpc-tunnel"
+  - name: "vless-6"
+    type: "vless"
+    server: "se.alertyagency.com"
+    port: 9443
+    udp: true
+    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "api-maps.yandex.ru"
+    reality-opts:
+      public-key: "UtAnh-HlChjh3afrhycDmeOSFs7cZBjIJx0qG7NB5Rc"
+      short-id: "b419319c"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-7"
+    type: "vless"
+    server: "200.165.232.160"
+    port: 443
+    udp: true
+    uuid: "023e61d1-a483-4c83-a623-f5baabfbdb2a"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "dl.google.com"
+    reality-opts:
+      public-key: "Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q"
+      short-id: ""
+    client-fingerprint: "chrome"
+    grpc-opts:
+      grpc-service-name: "grpc-tunnel"
+  - name: "vless-8"
+    type: "vless"
+    server: "84.32.209.7"
+    port: 443
+    udp: true
+    uuid: "f1c496bf-d2ab-45be-bc13-051d60d227b7"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "dartsearch-cn.net"
+    reality-opts:
+      public-key: "00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM"
+      short-id: ""
+    client-fingerprint: "firefox"
+  - name: "vless-9"
+    type: "vless"
+    server: "2.26.254.55"
+    port: 443
+    udp: true
+    uuid: "9bbd487f-8f84-4ad7-b897-681c3f7d95dc"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "magazin2.mervi.icu"
+    reality-opts:
+      public-key: "q1rTc0dfjHfbCh54q7uwj2eKmJod2lgTkk0X965DI1A"
+      short-id: "62e72195463d98ae"
+    client-fingerprint: "firefox"
+  - name: "vless-10"
+    type: "vless"
+    server: "uk.alertyagency.com"
+    port: 9443
+    udp: true
+    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    network: "grpc"
     tls: true
     flow: "xtls-rprx-vision"
     servername: "api-maps.yandex.ru"
@@ -167,7 +209,39 @@ proxies:
       public-key: "i5_jSoc9DraIlWT7xls9w5PxjeaIjwBS_24nPX_9eGE"
       short-id: "051880fe"
     client-fingerprint: "firefox"
-  - name: "vless-9"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-11"
+    type: "vless"
+    server: "159.195.240.82"
+    port: 443
+    udp: true
+    uuid: "75079a7f-75b5-418b-8a65-f7b2f438cd4a"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "vie1.tsumshop.org"
+    reality-opts:
+      public-key: "tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ"
+      short-id: "c8c75aaf699259b4"
+    client-fingerprint: "firefox"
+  - name: "vless-12"
+    type: "vless"
+    server: "ee.alertyagency.com"
+    port: 9443
+    udp: true
+    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "api-maps.yandex.ru"
+    reality-opts:
+      public-key: "nP6l7_NPVUklPsrochXfsGGjbDHMHGWodoXN3h_6RQU"
+      short-id: "b71a4299"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-13"
     type: "vless"
     server: "162.35.231.31"
     port: 443
@@ -181,43 +255,7 @@ proxies:
       public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
       short-id: "f41bc0b00ca1a978"
     client-fingerprint: "firefox"
-  - name: "vless-10"
-    type: "vless"
-    server: "162.35.231.31.sslip.io"
-    port: 443
-    udp: true
-    uuid: "419f25c1-bc35-412e-93fb-258efee859b5"
-    network: "tcp"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "162.35.231.31.sslip.io"
-    reality-opts:
-      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
-      short-id: "f41bc0b00ca1a978"
-    client-fingerprint: "firefox"
-  - name: "vless-11"
-    type: "vless"
-    server: "188.114.97.6"
-    port: 8880
-    udp: true
-    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
-    network: "ws"
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "workspace.evan00.dpdns.org"
-  - name: "vless-12"
-    type: "vless"
-    server: "hikvision-plus.com"
-    port: 2052
-    udp: true
-    uuid: "b3a9b22a-bf5c-476f-9eb7-224c42294fcf"
-    network: "ws"
-    ws-opts:
-      path: "/@BlueKnight_net--@BlueKnight_net"
-      headers:
-        Host: "uwu.blueknightnet.qzz.io"
-  - name: "vless-13"
+  - name: "vless-14"
     type: "vless"
     server: "31.76.119.117"
     port: 443
@@ -231,17 +269,6 @@ proxies:
       public-key: "lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q"
       short-id: "9e4eced6e98ed4d4"
     client-fingerprint: "firefox"
-  - name: "vless-14"
-    type: "vless"
-    server: "188.114.97.6"
-    port: 2095
-    udp: true
-    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
-    network: "ws"
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "workspace.evan00.dpdns.org"
   - name: "vless-15"
     type: "vless"
     server: "159.195.242.180"
@@ -258,204 +285,37 @@ proxies:
     client-fingerprint: "firefox"
   - name: "vless-16"
     type: "vless"
-    server: "162.35.231.31.sslip.io"
+    server: "159.195.240.82"
     port: 443
     udp: true
-    uuid: "c6cff605-90cf-4953-bf97-0a44e43f229d"
+    uuid: "d900a139-8b5f-4758-8a32-389c6f36fc86"
     network: "tcp"
     tls: true
     flow: "xtls-rprx-vision"
-    servername: "162.35.231.31.sslip.io"
+    servername: "vie1.tsumshop.org"
     reality-opts:
-      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
-      short-id: "f41bc0b00ca1a978"
+      public-key: "tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ"
+      short-id: "c8c75aaf699259b4"
     client-fingerprint: "firefox"
   - name: "vless-17"
     type: "vless"
-    server: "se.alertyagency.com"
-    port: 9443
+    server: "rs3.univesalsrv.com"
+    port: 443
     udp: true
-    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
     network: "grpc"
     tls: true
     flow: "xtls-rprx-vision"
-    servername: "api-maps.yandex.ru"
+    servername: "rs3.univesalsrv.com"
     reality-opts:
-      public-key: "UtAnh-HlChjh3afrhycDmeOSFs7cZBjIJx0qG7NB5Rc"
-      short-id: "b419319c"
+      public-key: "gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ"
+      short-id: "35d05b666e2c6cdf"
     client-fingerprint: "firefox"
     grpc-opts:
-      grpc-service-name: "grpc"
+      grpc-service-name: "edge.v2.FeedService"
   - name: "vless-18"
     type: "vless"
-    server: "188.114.97.6"
-    port: 2086
-    udp: true
-    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
-    network: "ws"
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "workspace.evan00.dpdns.org"
-  - name: "vless-19"
-    type: "vless"
-    server: "188.114.97.6"
-    port: 80
-    udp: true
-    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
-    network: "ws"
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "workspace.evan00.dpdns.org"
-  - name: "vless-20"
-    type: "vless"
-    server: "neth1.nihaovpn.ru"
-    port: 443
-    udp: true
-    uuid: "00506574-3b10-4f7d-9b2f-8afdc5919b93"
-    network: "tcp"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "stackoverflow.com"
-    reality-opts:
-      public-key: "KXLSKenDdZrp3WANgHvkIuEFuGNb02R39SIFhWyhR3o"
-      short-id: "a8a897f350b14b20"
-    client-fingerprint: "firefox"
-  - name: "vless-21"
-    type: "vless"
-    server: "185.141.227.150"
-    port: 9001
-    udp: true
-    uuid: "2c634977-584e-4e1f-b501-1b70c77a6743"
-    network: "grpc"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "api-maps.yandex.ru"
-    reality-opts:
-      public-key: "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"
-      short-id: "6ba85179e30d4fc2"
-    client-fingerprint: "edge"
-    grpc-opts:
-      grpc-service-name: "grpc-reality"
-  - name: "vless-22"
-    type: "vless"
-    server: "162.35.231.31"
-    port: 443
-    udp: true
-    uuid: "c6cff605-90cf-4953-bf97-0a44e43f229d"
-    network: "tcp"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "162.35.231.31.sslip.io"
-    reality-opts:
-      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
-      short-id: "f41bc0b00ca1a978"
-    client-fingerprint: "firefox"
-  - name: "vless-23"
-    type: "vless"
-    server: "150.40.117.95"
-    port: 2053
-    udp: true
-    uuid: "e2797351-d453-430d-8204-d7e971aaca99"
-    network: "grpc"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "www.spotify.com"
-    reality-opts:
-      public-key: "A9qdieGRLprLJ5i92gMn-4eD9EA_aa-o_xXVhYy16Rg"
-      short-id: "8c"
-    client-fingerprint: "firefox"
-    grpc-opts:
-      grpc-service-name: "grpc"
-  - name: "vless-24"
-    type: "vless"
-    server: "104.17.28.89"
-    port: 2083
-    udp: true
-    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
-    network: "ws"
-    tls: true
-    servername: "workspace.evan00.dpdns.org"
-    skip-cert-verify: true
-    client-fingerprint: "chrome"
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "workspace.evan00.dpdns.org"
-  - name: "vless-25"
-    type: "vless"
-    server: "cctvhikvision.center"
-    port: 2052
-    udp: true
-    uuid: "3302c871-79e8-45a3-8233-d0547ae963ed"
-    network: "ws"
-    ws-opts:
-      path: "/@BlueKnight_net--@BlueKnight_net"
-      headers:
-        Host: "uwu.blueknightnet.qzz.io"
-  - name: "vless-26"
-    type: "vless"
-    server: "194.48.250.31"
-    port: 443
-    udp: true
-    uuid: "8c105407-82fb-4dd1-8df4-916d34a7d3fe"
-    network: "xhttp"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "www.google.com"
-    reality-opts:
-      public-key: "sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE"
-      short-id: ""
-    client-fingerprint: "qq"
-  - name: "vless-27"
-    type: "vless"
-    server: "it.alertyagency.com"
-    port: 9443
-    udp: true
-    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
-    network: "grpc"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "api-maps.yandex.ru"
-    reality-opts:
-      public-key: "3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc"
-      short-id: "17a2a5e0"
-    client-fingerprint: "firefox"
-    grpc-opts:
-      grpc-service-name: "grpc"
-  - name: "vless-28"
-    type: "vless"
-    server: "51.77.76.61"
-    port: 8444
-    udp: true
-    uuid: "1f619326-cd93-4d6b-aebe-e0b5f8831d02"
-    network: "ws"
-    tls: true
-    servername: "link.meshbeat.online"
-    skip-cert-verify: true
-    client-fingerprint: "chrome"
-    ws-opts:
-      path: "/api/v1/devices/ff3c56308c/telemetry"
-      headers:
-        Host: "link.meshbeat.online"
-  - name: "vless-29"
-    type: "vless"
-    server: "188.114.97.6"
-    port: 443
-    udp: true
-    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
-    network: "ws"
-    tls: true
-    servername: "workspace.evan00.dpdns.org"
-    skip-cert-verify: true
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "workspace.evan00.dpdns.org"
-  - name: "vless-30"
-    type: "vless"
-    server: "rs2.univesalsrv.com"
+    server: "150.40.126.19"
     port: 443
     udp: true
     uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
@@ -469,6 +329,188 @@ proxies:
     client-fingerprint: "firefox"
     grpc-opts:
       grpc-service-name: "media.v1.ObjectService"
+  - name: "vless-19"
+    type: "vless"
+    server: "200.165.232.160"
+    port: 443
+    udp: true
+    uuid: "82d145c1-d691-4eef-9de1-9c316db4859a"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "dl.google.com"
+    reality-opts:
+      public-key: "Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q"
+      short-id: ""
+    client-fingerprint: "chrome"
+    grpc-opts:
+      grpc-service-name: "grpc-tunnel"
+  - name: "vless-20"
+    type: "vless"
+    server: "150.40.126.21"
+    port: 443
+    udp: true
+    uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "rs3.univesalsrv.com"
+    reality-opts:
+      public-key: "gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ"
+      short-id: "35d05b666e2c6cdf"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "edge.v2.FeedService"
+  - name: "vless-21"
+    type: "vless"
+    server: "150.40.117.95"
+    port: 8443
+    udp: true
+    uuid: "07780c89-ec2f-4510-ad40-5a010e13672e"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "www.cloudflare.com"
+    reality-opts:
+      public-key: "eBYPMjiqvCw54ofTrEZ9dthv5dZ0xNDKXuvuTozPvBw"
+      short-id: "c6"
+    client-fingerprint: "firefox"
+  - name: "vless-22"
+    type: "vless"
+    server: "167.104.223.29.sslip.io"
+    port: 443
+    udp: true
+    uuid: "c6cff605-90cf-4953-bf97-0a44e43f229d"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "167.104.223.29.sslip.io"
+    reality-opts:
+      public-key: "qOraT1A2tq0v0HIZlcplEnqXx4Sn-99z_EKNqTEZv1M"
+      short-id: "6ecabc17bcfb4291"
+    client-fingerprint: "firefox"
+  - name: "vless-23"
+    type: "vless"
+    server: "159.195.242.180"
+    port: 443
+    udp: true
+    uuid: "80d02a71-54a5-4c5b-976d-5ee573c502af"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "at2.tsumshop.org"
+    reality-opts:
+      public-key: "tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ"
+      short-id: "c8c75aaf699259b4"
+    client-fingerprint: "firefox"
+  - name: "vless-24"
+    type: "vless"
+    server: "nn.alertyagency.com"
+    port: 9443
+    udp: true
+    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "api-maps.yandex.ru"
+    reality-opts:
+      public-key: "Zj7pfZMGav4r5mbPzpi5ohHue1r0El7QfnQt5nx2ljI"
+      short-id: "56d5a8fb"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-25"
+    type: "vless"
+    server: "162.35.231.31"
+    port: 443
+    udp: true
+    uuid: "c6cff605-90cf-4953-bf97-0a44e43f229d"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "162.35.231.31.sslip.io"
+    reality-opts:
+      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
+      short-id: "f41bc0b00ca1a978"
+    client-fingerprint: "firefox"
+  - name: "vless-26"
+    type: "vless"
+    server: "200.165.232.160"
+    port: 443
+    udp: true
+    uuid: "25d18f6f-f701-4da1-93d8-ec712f05963b"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "dl.google.com"
+    reality-opts:
+      public-key: "Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q"
+      short-id: ""
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc-tunnel"
+  - name: "vless-27"
+    type: "vless"
+    server: "md3.univesalsrv.com"
+    port: 443
+    udp: true
+    uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "md3.univesalsrv.com"
+    reality-opts:
+      public-key: "q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ"
+      short-id: "9a72d40f1ff882b3"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "stats.v2.PushService"
+  - name: "vless-28"
+    type: "vless"
+    server: "45.9.156.24"
+    port: 443
+    udp: true
+    uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "bg2.univesalsrv.com"
+    reality-opts:
+      public-key: "0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4"
+      short-id: "501ab3325b77e1ca"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "api.v2.PushService"
+  - name: "vless-29"
+    type: "vless"
+    server: "194.26.192.76"
+    port: 443
+    udp: true
+    uuid: "4fe19d97-7b1d-4cb2-99ee-4bd8658a4c34"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "nl1.tsumshop.org"
+    reality-opts:
+      public-key: "tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ"
+      short-id: "c8c75aaf699259b4"
+    client-fingerprint: "firefox"
+  - name: "vless-30"
+    type: "vless"
+    server: "md5.univesalsrv.com"
+    port: 443
+    udp: true
+    uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "md5.univesalsrv.com"
+    reality-opts:
+      public-key: "99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg"
+      short-id: "aa9884f2982b7d3c"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "app.v1.PushService"
 # (WARP proxies removed - using our proxies)
 proxy-groups:
   - name: "🚀 Выбрать вручную"

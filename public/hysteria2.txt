@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 11:14 (Moscow)
+# Date/Time: 2026-08-25 / 11:36 (Moscow)
 # Количество: 20
 hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@ru.xiaoliyu.cyou:4433?insecure=1&sni=ru.xiaoliyu.cyou#🇷🇺_ping_58ms_speed_8.7Mbps
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇩🇪_ping_235ms_speed_24.2Mbps

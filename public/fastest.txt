@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 03:24 (Moscow)
+# Date/Time: 2026-08-25 / 03:27 (Moscow)
 # Количество: 100
 vless://4829c2f5-f45a-4330-9b3c-d381b9efdbec@31.76.84.62:443?type=grpc&security=reality&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&sni=id.pervye.ru&serviceName=ns&authority=id.pervye.ru#🇺🇸_ping_58ms_speed_29.4Mbps
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.129.222:62145?security=none&type=tcp&packetEncoding=xudp#🇳🇱_ping_78ms_speed_23.1Mbps

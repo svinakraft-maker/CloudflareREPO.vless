@@ -2,7 +2,7 @@
 
 # ☁️ FlareFeed ☁️
 
- # https://t.me/FlareFeed
+ # https://t.me/FlareFeedtg
 
 ### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 

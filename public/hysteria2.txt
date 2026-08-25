@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 03:27 (Moscow)
+# Date/Time: 2026-08-25 / 03:46 (Moscow)
 # Количество: 14
 hysteria2://1c8206c7-231c-41a8-b807-ad23a354cc69@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_ping_263ms_speed_0.8Mbps_out🇩🇪
 hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?sni=www.bing.com&alpn=h3&insecure=1#🇷🇴_ping_282ms_speed_8.1Mbps

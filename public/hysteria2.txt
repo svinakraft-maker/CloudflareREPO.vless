@@ -1,20 +1,9 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 08:28 (Moscow)
-# Количество: 16
-hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&fm={#🇵🇱_ping_357ms_speed_0.7Mbps_out🇵🇱
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?sni=hy222.routeon.pro#🇳🇱_ping_364ms_speed_5.3Mbps_out🇳🇱
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080?sni=hopp-romania-new.roxa.org#🇦🇪_ping_372ms_speed_8.9Mbps_out🇦🇪
-hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?sni=edge.nordcache.ru#🇨🇭_ping_385ms_speed_7.2Mbps_out🇨🇭
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=3.149.228.246#🇺🇸_ping_436ms_speed_10.1Mbps
-hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@178.250.243.21:9443?descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83785&sni=cns.dodostarscoffee.ru&nonce=KPguQtrC&seq=you_are_beautiful5544#🇩🇪_ping_447ms_speed_0.3Mbps_out🇩🇪
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦_ping_476ms_speed_13.9Mbps
-hysteria2://5b9aba98-df99-4699-8fd8-15aabe7de47f@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇩🇪_ping_496ms_speed_0.3Mbps_out🇩🇪
-hysteria2://026ee970-e645-4062-899a-383d75767b48@hy2.ghostyconnect.org:443?sni=hy2.ghostyconnect.org#🇫🇮_ping_512ms_speed_4.2Mbps
-hysteria2://5a7655f8-969e-4738-a7f8-12f327dd1b65@178.250.243.21:9443?sni=cns.dodostarscoffee.ru#🇷🇺_ping_523ms_speed_0.3Mbps
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#🇺🇸_ping_544ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_ping_699ms_speed_0.4Mbps
-hysteria2://c86222db9b5784ef6a2c0ab13f6ef658@168.107.13.220:50160?insecure=1&sni=www.bing.com#🇰🇷_ping_956ms
-hysteria2://026ee970-e645-4062-899a-383d75767b48@hy2nl.ghostyconnect.org:443?sni=hy2nl.ghostyconnect.org#🇳🇱_ping_1327ms_speed_8.8Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_ping_1864ms
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰_ping_2835ms_speed_0.4Mbps
+# Date/Time: 2026-08-25 / 08:54 (Moscow)
+# Количество: 5
+hysteria2://39679f52-1d9a-4843-9c1d-7f9c0ee9491e@edge.nordcache.ru:9443?sni=edge.nordcache.ru#🇨🇭_🇨🇭_ping_334ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦_🇨🇦_ping_518ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=3.149.228.246#🇺🇸_🇺🇸_ping_761ms
+hysteria2://c86222db9b5784ef6a2c0ab13f6ef658@168.107.13.220:50160?insecure=1&sni=www.bing.com#ping_966ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_4283ms

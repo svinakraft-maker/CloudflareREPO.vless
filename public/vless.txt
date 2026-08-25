@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 09:41 (Moscow)
+# Date/Time: 2026-08-25 / 10:03 (Moscow)
 # Количество: 1896
 vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@fla.mythos-wargame.fun:443?type=grpc&security=tls&fp=chrome&serviceName=edge.sync.v1#🇺🇸_ping_38ms_speed_4.3Mbps
 vless://9e09f1ce-45d4-466d-b077-81b0dae00db2@46.149.66.9:27700?type=grpc&serviceName=zuugrpc#🇷🇺_ping_38ms_speed_2.2Mbps

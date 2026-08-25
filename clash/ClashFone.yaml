@@ -1,7 +1,7 @@
 # profile-title: CLASH ClashFone.yaml
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 15:53 (Moscow)
-# Количество: 1454
+# Date/Time: 2026-08-25 / 16:05 (Moscow)
+# Количество: 1458
 mixed-port: 7890
 allow-lan: false
 mode: rule
@@ -1403,7 +1403,6 @@ proxy-groups:
     url: "http://www.google.com/generate_204"
     include-all-proxies: true
     filter: "vless|vmess|trojan|ss|hysteria2"
-    hidden: true
   
   - name: "📺 YouTube"
     type: select
@@ -1423,6 +1422,11 @@ proxy-groups:
       - "⚡️ Авто"
       - "🚀 Выбрать вручную"
   
+  - name: "🌐 По умолчанию"
+    type: select
+    proxies:
+      - "⚡️ Авто"
+      - "🚀 Выбрать вручную"
   - name: "🔓 Без VPN"
     type: select
     proxies:

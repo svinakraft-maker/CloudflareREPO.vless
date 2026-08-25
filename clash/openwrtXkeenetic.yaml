@@ -1,0 +1,532 @@
+# profile-title: CLASH openwrtXkeenetic.yaml
+# profile-update-interval: 1
+# Date/Time: 2026-08-25 / 15:34 (Moscow)
+# Количество: 528
+mixed-port: 7890
+tproxy-port: 7891
+allow-lan: true
+mode: rule
+log-level: silent
+unified-delay: true
+geodata-mode: true
+tcp-concurrent: true
+geodata-loader: memconservative
+auto-redir:
+  enable: true
+  auto-route: true
+  stack: system
+sniffer:
+  enable: true
+  sniff:
+    HTTP: {ports: [80, 8080-8880], override-destination: true}
+    TLS: {ports: [443, 8443]}
+  skip-domain:
+    - '+.lan'
+    - '+.local'
+    - '+.push.apple.com'
+profile:
+  store-selected: true
+dns:
+  enable: true
+  ipv6: false
+  prefer-h3: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - '*.local'
+    - '+.stun.*.*'
+    - 'lens.l.google.com'
+    - 'stun.l.google.com'
+    - 'localhost.ptlogin2.qq.com'
+    - 'www.msftconnecttest.com'
+    - '+.apple.com'
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - 'https://doh.pub/dns-query'
+    - 'https://dns.alidns.com/dns-query'
+  fallback:
+    - 'https://dns.google/dns-query'
+    - 'https://cloudflare-dns.com/dns-query'
+tun:
+  enable: true
+  stack: system
+  auto-route: true
+  auto-detect-interface: true
+  dns-hijack:
+    - any:53
+proxies:
+=== BEGIN WARP PROXIES ===
+# (WARP proxies removed - using our proxies)
+=== BEGIN FLAREFEED PROXIES ===
+  - name: "vless-1"
+    server: "51.102.158.171"
+    port: 22224
+    udp: true
+    type: "vless"
+    uuid: "e4514801-0d5a-42ba-869f-39bd605aef9e"
+    network: "tcp"
+  - name: "vless-2"
+    server: "193.233.246.82"
+    port: 8443
+    udp: true
+    type: "vless"
+    uuid: "41da9cd0-b02c-427a-b74e-7e402c610ae4"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "ads.x5.ru"
+    reality-opts:
+      public-key: "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg"
+      short-id: "844352756c1fabba"
+    client-fingerprint: "chrome"
+    grpc-opts:
+      grpc-service-name: "grpc-yandex"
+  - name: "vless-3"
+    server: "v.volnalink.uk"
+    port: 2083
+    udp: true
+    type: "vless"
+    uuid: "4f8efa61-96db-483c-b134-9ce844e31228"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "www.booking.com"
+    reality-opts:
+      public-key: "09l3Pxt0H9sP87D_FGMAiUdbYkg7ExQKkC_Itc3sMRc"
+      short-id: "da"
+    client-fingerprint: "chrome"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-4"
+    server: "185.147.26.175"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "fa883d80-f437-41af-884d-06d1faad0c27"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "yt.orpheous.ru"
+    reality-opts:
+      public-key: "9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4"
+      short-id: "e4aa362b5f9d07d7"
+    client-fingerprint: "firefox"
+  - name: "vless-5"
+    server: "193.233.246.80"
+    port: 8443
+    udp: true
+    type: "vless"
+    uuid: "41da9cd0-b02c-427a-b74e-7e402c610ae4"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "ads.x5.ru"
+    reality-opts:
+      public-key: "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg"
+      short-id: "844352756c1fabba"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc-yandex"
+  - name: "vless-6"
+    server: "cctvhikvision.center"
+    port: 2052
+    udp: true
+    type: "vless"
+    uuid: "b3a9b22a-bf5c-476f-9eb7-224c42294fcf"
+    network: "ws"
+    ws-opts:
+      path: "/@BlueKnight_net--@BlueKnight_net"
+      headers:
+        Host: "uwu.blueknightnet.qzz.io"
+  - name: "vless-7"
+    server: "185.32.6.70"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "953e3703-4ddc-49a7-a087-c96049d22340"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "storage.yandex.net"
+    reality-opts:
+      public-key: "lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk"
+      short-id: "99fe1ec015fde70c"
+    client-fingerprint: "firefox"
+  - name: "vless-8"
+    server: "uk.alertyagency.com"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "api-maps.yandex.ru"
+    reality-opts:
+      public-key: "i5_jSoc9DraIlWT7xls9w5PxjeaIjwBS_24nPX_9eGE"
+      short-id: "051880fe"
+    client-fingerprint: "firefox"
+  - name: "vless-9"
+    server: "162.35.231.31"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "419f25c1-bc35-412e-93fb-258efee859b5"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "162.35.231.31.sslip.io"
+    reality-opts:
+      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
+      short-id: "f41bc0b00ca1a978"
+    client-fingerprint: "firefox"
+  - name: "vless-10"
+    server: "162.35.231.31.sslip.io"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "419f25c1-bc35-412e-93fb-258efee859b5"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "162.35.231.31.sslip.io"
+    reality-opts:
+      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
+      short-id: "f41bc0b00ca1a978"
+    client-fingerprint: "firefox"
+  - name: "vless-11"
+    server: "188.114.97.6"
+    port: 8880
+    udp: true
+    type: "vless"
+    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "workspace.evan00.dpdns.org"
+  - name: "vless-12"
+    server: "hikvision-plus.com"
+    port: 2052
+    udp: true
+    type: "vless"
+    uuid: "b3a9b22a-bf5c-476f-9eb7-224c42294fcf"
+    network: "ws"
+    ws-opts:
+      path: "/@BlueKnight_net--@BlueKnight_net"
+      headers:
+        Host: "uwu.blueknightnet.qzz.io"
+  - name: "vless-13"
+    server: "31.76.119.117"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "fa883d80-f437-41af-884d-06d1faad0c27"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "de.orpheous.ru"
+    reality-opts:
+      public-key: "lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q"
+      short-id: "9e4eced6e98ed4d4"
+    client-fingerprint: "firefox"
+  - name: "vless-14"
+    server: "188.114.97.6"
+    port: 2095
+    udp: true
+    type: "vless"
+    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "workspace.evan00.dpdns.org"
+  - name: "vless-15"
+    server: "159.195.242.180"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "4fe19d97-7b1d-4cb2-99ee-4bd8658a4c34"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "at2.tsumshop.org"
+    reality-opts:
+      public-key: "tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ"
+      short-id: "c8c75aaf699259b4"
+    client-fingerprint: "firefox"
+  - name: "vless-16"
+    server: "162.35.231.31.sslip.io"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "c6cff605-90cf-4953-bf97-0a44e43f229d"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "162.35.231.31.sslip.io"
+    reality-opts:
+      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
+      short-id: "f41bc0b00ca1a978"
+    client-fingerprint: "firefox"
+  - name: "vless-17"
+    server: "se.alertyagency.com"
+    port: 9443
+    udp: true
+    type: "vless"
+    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "api-maps.yandex.ru"
+    reality-opts:
+      public-key: "UtAnh-HlChjh3afrhycDmeOSFs7cZBjIJx0qG7NB5Rc"
+      short-id: "b419319c"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-18"
+    server: "188.114.97.6"
+    port: 2086
+    udp: true
+    type: "vless"
+    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "workspace.evan00.dpdns.org"
+  - name: "vless-19"
+    server: "188.114.97.6"
+    port: 80
+    udp: true
+    type: "vless"
+    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
+    network: "ws"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "workspace.evan00.dpdns.org"
+  - name: "vless-20"
+    server: "neth1.nihaovpn.ru"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "00506574-3b10-4f7d-9b2f-8afdc5919b93"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "stackoverflow.com"
+    reality-opts:
+      public-key: "KXLSKenDdZrp3WANgHvkIuEFuGNb02R39SIFhWyhR3o"
+      short-id: "a8a897f350b14b20"
+    client-fingerprint: "firefox"
+  - name: "vless-21"
+    server: "185.141.227.150"
+    port: 9001
+    udp: true
+    type: "vless"
+    uuid: "2c634977-584e-4e1f-b501-1b70c77a6743"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "api-maps.yandex.ru"
+    reality-opts:
+      public-key: "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc"
+      short-id: "6ba85179e30d4fc2"
+    client-fingerprint: "edge"
+    grpc-opts:
+      grpc-service-name: "grpc-reality"
+  - name: "vless-22"
+    server: "162.35.231.31"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "c6cff605-90cf-4953-bf97-0a44e43f229d"
+    network: "tcp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "162.35.231.31.sslip.io"
+    reality-opts:
+      public-key: "XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI"
+      short-id: "f41bc0b00ca1a978"
+    client-fingerprint: "firefox"
+  - name: "vless-23"
+    server: "150.40.117.95"
+    port: 2053
+    udp: true
+    type: "vless"
+    uuid: "e2797351-d453-430d-8204-d7e971aaca99"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "www.spotify.com"
+    reality-opts:
+      public-key: "A9qdieGRLprLJ5i92gMn-4eD9EA_aa-o_xXVhYy16Rg"
+      short-id: "8c"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-24"
+    server: "104.17.28.89"
+    port: 2083
+    udp: true
+    type: "vless"
+    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
+    network: "ws"
+    tls: true
+    servername: "workspace.evan00.dpdns.org"
+    skip-cert-verify: true
+    client-fingerprint: "chrome"
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "workspace.evan00.dpdns.org"
+  - name: "vless-25"
+    server: "cctvhikvision.center"
+    port: 2052
+    udp: true
+    type: "vless"
+    uuid: "3302c871-79e8-45a3-8233-d0547ae963ed"
+    network: "ws"
+    ws-opts:
+      path: "/@BlueKnight_net--@BlueKnight_net"
+      headers:
+        Host: "uwu.blueknightnet.qzz.io"
+  - name: "vless-26"
+    server: "194.48.250.31"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "8c105407-82fb-4dd1-8df4-916d34a7d3fe"
+    network: "xhttp"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "www.google.com"
+    reality-opts:
+      public-key: "sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE"
+      short-id: ""
+    client-fingerprint: "qq"
+  - name: "vless-27"
+    server: "it.alertyagency.com"
+    port: 9443
+    udp: true
+    type: "vless"
+    uuid: "a704443d-655e-4d9f-8ce6-12eeb17a9a08"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "api-maps.yandex.ru"
+    reality-opts:
+      public-key: "3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc"
+      short-id: "17a2a5e0"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "grpc"
+  - name: "vless-28"
+    server: "51.77.76.61"
+    port: 8444
+    udp: true
+    type: "vless"
+    uuid: "1f619326-cd93-4d6b-aebe-e0b5f8831d02"
+    network: "ws"
+    tls: true
+    servername: "link.meshbeat.online"
+    skip-cert-verify: true
+    client-fingerprint: "chrome"
+    ws-opts:
+      path: "/api/v1/devices/ff3c56308c/telemetry"
+      headers:
+        Host: "link.meshbeat.online"
+  - name: "vless-29"
+    server: "188.114.97.6"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "1078d418-b4e0-4668-9018-dc90c2042d61"
+    network: "ws"
+    tls: true
+    servername: "workspace.evan00.dpdns.org"
+    skip-cert-verify: true
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "workspace.evan00.dpdns.org"
+  - name: "vless-30"
+    server: "rs2.univesalsrv.com"
+    port: 443
+    udp: true
+    type: "vless"
+    uuid: "2f35965a-9a9b-45fd-ba32-987296dfb6be"
+    network: "grpc"
+    tls: true
+    flow: "xtls-rprx-vision"
+    servername: "rs2.univesalsrv.com"
+    reality-opts:
+      public-key: "tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE"
+      short-id: "1469af2040b7c323"
+    client-fingerprint: "firefox"
+    grpc-opts:
+      grpc-service-name: "media.v1.ObjectService"
+=== END FLAREFEED PROXIES ===
+=== END WARP PROXIES ===
+proxy-groups:
+  - name: "🚀 Выбрать вручную"
+    type: select
+    include-all: true
+    filter: "vless|vmess|trojan|ss|hysteria2"
+  
+  - name: "⚡️ Авто"
+    type: url-test
+    tolerance: 150
+    interval: 300
+    url: "http://www.google.com/generate_204"
+    include-all: true
+    filter: "vless|vmess|trojan|ss|hysteria2"
+    hidden: true
+  
+  - name: "🌍 Геоблок"
+    type: select
+    proxies:
+      - "⚡️ Авто"
+      - "🚀 Выбрать вручную"
+  
+  - name: "🔓 Без VPN"
+    type: select
+    proxies:
+      - DIRECT
+    hidden: true
+  
+  - name: "⛔ Блок"
+    type: select
+    proxies:
+      - REJECT
+    hidden: true
+rules:
+  - DOMAIN-SUFFIX,google.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,googlevideo.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,youtube.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,t.me,🌍 Геоблок
+  - DOMAIN-SUFFIX,telegram.org,🌍 Геоблок
+  - IP-CIDR,91.108.4.0/22,🌍 Геоблок,no-resolve
+  - IP-CIDR,91.108.8.0/22,🌍 Геоблок,no-resolve
+  - IP-CIDR,91.108.12.0/22,🌍 Геоблок,no-resolve
+  - IP-CIDR,91.108.16.0/22,🌍 Геоблок,no-resolve
+  - IP-CIDR,91.108.20.0/22,🌍 Геоблок,no-resolve
+  - IP-CIDR,91.108.56.0/22,🌍 Геоблок,no-resolve
+  - IP-CIDR,95.161.64.0/20,🌍 Геоблок,no-resolve
+  - IP-CIDR,149.154.160.0/20,🌍 Геоблок,no-resolve
+  - DOMAIN-SUFFIX,instagram.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,facebook.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,fbcdn.net,🌍 Геоблок
+  - DOMAIN-SUFFIX,twitter.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,x.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,twimg.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,openai.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,chatgpt.com,🌍 Геоблок
+  - GEOIP,CN,DIRECT
+  - MATCH,🚀 Выбрать вручную

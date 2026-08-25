@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-25 / 08:07 (Moscow)
+# Date/Time: 2026-08-25 / 08:28 (Moscow)
 # Количество: 16
 hysteria2://771d283f-868e-4ac4-8a88-074af8b0a9c9@zisvpn.ru:1452?sni=zisvpn.ru&fm={#🇵🇱_ping_357ms_speed_0.7Mbps_out🇵🇱
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443?sni=hy222.routeon.pro#🇳🇱_ping_364ms_speed_5.3Mbps_out🇳🇱

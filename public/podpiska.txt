@@ -1,7 +1,7 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-26 / 16:21 (Moscow)
-# Количество: 643
+# Date/Time: 2026-08-26 / 17:33 (Moscow)
+# Количество: 641
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:20881#🇭🇰_ping_39ms_speed_0.9Mbps_out🇭🇰
 vless://fa883d80-f437-41af-884d-06d1faad0c27@185.147.26.175:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&sni=yt.orpheous.ru#🇷🇺_ping_40ms_speed_11.5Mbps
 ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@45.140.169.123:10889#🇷🇺_ping_42ms
@@ -623,25 +623,23 @@ vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2053?encryptio
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJydXNoLTZpdDZiLnRlZW9wcC5xdWVzdCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9rejQ5aGYvZ2JpbjVqdmUubTN1OCIsImhvc3QiOiJydXNoLTZpdDZiLnRlZW9wcC5xdWVzdCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇺🇸_ping_5996ms_speed_9.8Mbps_out🇺🇸
 vless://e2797351-d453-430d-8204-d7e971aaca99@150.40.117.95:2053?type=grpc&security=reality&fp=firefox&pbk=A9qdieGRLprLJ5i92gMn-4eD9EA_aa-o_xXVhYy16Rg&sid=8c&sni=www.spotify.com&serviceName=grpc&spx=/637e3206b93e58a#🇳🇱_ping_7023ms_speed_0.2Mbps
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.144:8080?type=ws&sni=40.160.69.144#🇺🇸_ping_7108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_80ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_86ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#🇩🇪_🇩🇪_ping_92ms
-ss://2022-blake3-chacha20-poly1305:vd3JxzAJjh5/VoQ+VAZNhrdY7FdJ9zZdOvA7LAtQars=@130.61.42.202:59924#🇩🇪_🇩🇪_ping_100ms_speed_11.4Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#🇪🇸_🇪🇸_ping_140ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_147ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸_🇪🇸_ping_213ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WmpjME4yUXlZVGt5TnpjMk5HUmlaRGhqWTJOallUVTVNemsyTjJOa09Uaz06WW1OaE4yVXlOemRsTlRnM05HRmtNamt4TkdZNFpqRXpZV00yTXpRMk5HUT0@84.32.131.61:18610#🇺🇸_🇺🇸_ping_256ms_speed_15.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬_🇸🇬_ping_429ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_450ms_speed_8.2Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_506ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_514ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_553ms_speed_7.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#🇯🇵_🇯🇵_ping_564ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkA5NS40MC4xMjAuMTYyOjgzMTk=#🇭🇰_🇭🇰_ping_667ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319#🇭🇰_🇭🇰_ping_701ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_847ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#🇭🇰_🇭🇰_ping_1836ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱_🇳🇱_ping_2942ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇳🇱_🇳🇱_ping_3295ms_speed_0.2Mbps
-hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#🇩🇪_🇩🇪_ping_3847ms_speed_5.7Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdDQDMxLjc2LjgyLjEzMTozNDI2MA==#🇬🇧_🇬🇧_ping_4190ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_82ms_speed_13.2Mbps
+ss://2022-blake3-chacha20-poly1305:vd3JxzAJjh5/VoQ+VAZNhrdY7FdJ9zZdOvA7LAtQars=@130.61.42.202:59924#🇩🇪_🇩🇪_ping_102ms_speed_6.9Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#🇪🇸_🇪🇸_ping_142ms_speed_20.6Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸_🇪🇸_ping_145ms_speed_6.1Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_149ms_speed_5.6Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplR2xIOTNJeDhGd0tJMHMwRmhlYndm@157.22.240.141:57925#🇷🇺_🇷🇺_ping_183ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#🇺🇸_🇺🇸_ping_248ms_speed_17.7Mbps
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6anBKeG8zR0JPMFo3a1FqeURMdDBIVGlQdUkrUjVTNlVReG5heGFISlVHZz1AMTI5LjE1My43NC4yNTI6NTAzNTY=#🇺🇸_🇺🇸_ping_349ms_speed_13.1Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬_🇸🇬_ping_433ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c0dkYmloT2IvcS9FYkFOVzI2T0RrWnZXK2JGeHRMNU9JU29oQTY0dkNxUT1AMTYzLjE3Ni4yMTMuMzQ6NTkzMTk=#🇧🇷_🇧🇷_ping_449ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_569ms_speed_4.8Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#🇯🇵_🇯🇵_ping_590ms_speed_9.6Mbps
+hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=www.cloudflare.com#🇩🇪_🇩🇪_ping_659ms_speed_1.9Mbps
+hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#🇩🇪_🇩🇪_ping_675ms_speed_2.7Mbps
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WmpjME4yUXlZVGt5TnpjMk5HUmlaRGhqWTJOallUVTVNemsyTjJOa09Uaz06WW1OaE4yVXlOemRsTlRnM05HRmtNamt4TkdZNFpqRXpZV00yTXpRMk5HUT0@84.32.131.61:18610#🇺🇸_🇺🇸_ping_759ms_speed_8.2Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319#🇭🇰_🇭🇰_ping_765ms_speed_2.2Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#🇭🇰_🇭🇰_ping_820ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.148.164.219:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_850ms_speed_6.5Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸_🇺🇸_ping_1050ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱_🇳🇱_ping_2128ms

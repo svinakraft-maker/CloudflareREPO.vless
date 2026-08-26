@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-26 / 14:22 (Moscow)
+# Date/Time: 2026-08-27 / 01:45 (Moscow)
 # Количество: 26
 trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@fihy2.metricpipe.space:9443?security=tls&fp=chrome&sni=fihy2.metricpipe.space&alpn=http/1.1#🇫🇮_ping_130ms
 trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@lvhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=lvhy2.metricpipe.space&alpn=http/1.1#🇱🇻_ping_169ms

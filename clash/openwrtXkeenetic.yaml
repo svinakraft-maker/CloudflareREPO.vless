@@ -1,7 +1,7 @@
 # profile-title: CLASH openwrtXkeenetic.yaml
 # profile-update-interval: 1
-# Date/Time: 2026-08-26 / 14:34 (Moscow)
-# Количество: 157
+# Date/Time: 2026-08-26 / 14:53 (Moscow)
+# Количество: 156
 profile-title: CLASH openwrtXkeenetic.yaml
 profile-update-interval: 1
 Date/Time: 2026-08-26 / 14:30 (Moscow)
@@ -157,5 +157,4 @@ rules:
   - DOMAIN-SUFFIX,leagueoflegends.com,🎮 Gaming
   - DOMAIN-KEYWORD,openai,🤖 OpenAI
   - DOMAIN-KEYWORD,claude,🤖 OpenAI
-  - GEOIP,CN,DIRECT
   - MATCH,PROXY

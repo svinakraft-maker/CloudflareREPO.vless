@@ -1,7 +1,10 @@
 # profile-title: CLASH ClashFone.yaml
 # profile-update-interval: 1
-# Date/Time: 2026-08-26 / 14:24 (Moscow)
-# Количество: 140
+# Date/Time: 2026-08-26 / 14:31 (Moscow)
+# Количество: 157
+profile-title: CLASH ClashFone.yaml
+profile-update-interval: 1
+Date/Time: 2026-08-26 / 14:30 (Moscow)
 mixed-port: 7890
 allow-lan: false
 mode: rule
@@ -27,12 +30,14 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
-    - '*.lan'
-    - '*.local'
-    - '+.stun.*.*'
+    - '.lan'
+    - '.local'
+    - '+.stun.*'
     - 'lens.l.google.com'
     - 'stun.l.google.com'
     - 'localhost.ptlogin2.qq.com'
+    - 'dns.msftncsi.com'
+    - 'www.msftncsi.com'
     - 'www.msftconnecttest.com'
   default-nameserver:
     - 223.5.5.5
@@ -43,78 +48,75 @@ dns:
   fallback:
     - 'https://dns.google/dns-query'
     - 'https://cloudflare-dns.com/dns-query'
-proxies:
-  - name: "vless-1"
-    server: "193.233.246.80"
-    port: 8443
-    udp: true
-    type: "vless"
-    uuid: "41da9cd0-b02c-427a-b74e-7e402c610ae4"
-    network: "grpc"
-    tls: true
-    flow: "xtls-rprx-vision"
-    servername: "ads.x5.ru"
-    reality-opts:
-      public-key: ""
-      short-id: ""
-    client-fingerprint: "firefox"
-    grpc-opts:
-      grpc-service-name: "grpc-yandex"
-  - name: "vless-2"
-    server: "162.159.156.214"
-    port: 8880
-    udp: true
-    type: "vless"
-    uuid: "4f74ff26-25af-41d6-9d39-be46fe8ff1a8"
-    network: "ws"
-    ws-opts:
-      path: "/pyip=ProxyIP.US.CMLiussss.net"
-      headers:
-        Host: "steep-resonance-1ffb.274.workers.dev"
-# (WARP proxies removed - using our proxies)
+proxy-providers:
+  sub:
+    type: http
+    url: "https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/fastest.txt"
+    path: ./proxy_providers/sub.yml
+    override:
+      udp: true
+    health-check:
+      enable: true
+      url: http://cp.cloudflare.com/generate_204
+      interval: 300
+      timeout: 5000
+      lazy: true
+      expected-status: 204
 proxy-groups:
-  - name: "🚀 Выбрать вручную"
+  - name: PROXY
     type: select
-    include-all-proxies: true
-    filter: "vless|vmess|trojan|ss|hysteria2"
-  
-  - name: "⚡️ Авто"
-    type: url-test
-    tolerance: 150
+    url: http://cp.cloudflare.com/generate_204
+    expected-status: 204
     interval: 300
-    url: "http://www.google.com/generate_204"
-    include-all-proxies: true
-    filter: "vless|vmess|trojan|ss|hysteria2"
-  
+    icon: https://i.imgur.com/B3HrpPC.png
+    proxies:
+      - auto
+    use:
+      - sub
+  - name: auto
+    use:
+      - sub
+    type: url-test
+    url: http://cp.cloudflare.com/generate_204
+    expected-status: 204
+    interval: 300
+    tolerance: 150
+    lazy: true
   - name: "📺 YouTube"
     type: select
     proxies:
-      - "⚡️ Авто"
-      - "🚀 Выбрать вручную"
-  
+      - auto
+      - PROXY
   - name: "💬 Telegram"
     type: select
     proxies:
-      - "⚡️ Авто"
-      - "🚀 Выбрать вручную"
-  
+      - auto
+      - PROXY
+  - name: "📷 Instagram"
+    type: select
+    proxies:
+      - auto
+      - PROXY
+  - name: "🎮 Gaming"
+    type: select
+    proxies:
+      - auto
+      - PROXY
+  - name: "🤖 OpenAI"
+    type: select
+    proxies:
+      - auto
+      - PROXY
   - name: "🌍 Геоблок"
     type: select
     proxies:
-      - "⚡️ Авто"
-      - "🚀 Выбрать вручную"
-  
-  - name: "🌐 По умолчанию"
-    type: select
-    proxies:
-      - "⚡️ Авто"
-      - "🚀 Выбрать вручную"
+      - auto
+      - PROXY
   - name: "🔓 Без VPN"
     type: select
     proxies:
       - DIRECT
     hidden: true
-  
   - name: "⛔ Блок"
     type: select
     proxies:
@@ -124,8 +126,11 @@ rules:
   - DOMAIN-SUFFIX,googlevideo.com,📺 YouTube
   - DOMAIN-SUFFIX,youtube.com,📺 YouTube
   - DOMAIN-SUFFIX,ytimg.com,📺 YouTube
+  - DOMAIN-SUFFIX,ggpht.com,📺 YouTube
   - DOMAIN-SUFFIX,t.me,💬 Telegram
   - DOMAIN-SUFFIX,telegram.org,💬 Telegram
+  - DOMAIN-SUFFIX,telegram.me,💬 Telegram
+  - DOMAIN-SUFFIX,telesco.pe,💬 Telegram
   - IP-CIDR,91.108.4.0/22,💬 Telegram,no-resolve
   - IP-CIDR,91.108.8.0/22,💬 Telegram,no-resolve
   - IP-CIDR,91.108.12.0/22,💬 Telegram,no-resolve
@@ -134,11 +139,23 @@ rules:
   - IP-CIDR,91.108.56.0/22,💬 Telegram,no-resolve
   - IP-CIDR,95.161.64.0/20,💬 Telegram,no-resolve
   - IP-CIDR,149.154.160.0/20,💬 Telegram,no-resolve
-  - DOMAIN-SUFFIX,instagram.com,🌍 Геоблок
+  - IP-CIDR6,2001:67c:4e8::/48,💬 Telegram,no-resolve
+  - IP-CIDR6,2001:b28:f23d::/48,💬 Telegram,no-resolve
+  - IP-CIDR6,2001:b28:f23f::/48,💬 Telegram,no-resolve
+  - DOMAIN-SUFFIX,instagram.com,📷 Instagram
+  - DOMAIN-SUFFIX,cdninstagram.com,📷 Instagram
   - DOMAIN-SUFFIX,facebook.com,🌍 Геоблок
   - DOMAIN-SUFFIX,fbcdn.net,🌍 Геоблок
   - DOMAIN-SUFFIX,twitter.com,🌍 Геоблок
   - DOMAIN-SUFFIX,x.com,🌍 Геоблок
   - DOMAIN-SUFFIX,twimg.com,🌍 Геоблок
+  - DOMAIN-SUFFIX,openai.com,🤖 OpenAI
+  - DOMAIN-SUFFIX,chatgpt.com,🤖 OpenAI
+  - DOMAIN-SUFFIX,steamcommunity.com,🎮 Gaming
+  - DOMAIN-SUFFIX,steampowered.com,🎮 Gaming
+  - DOMAIN-SUFFIX,riotgames.com,🎮 Gaming
+  - DOMAIN-SUFFIX,leagueoflegends.com,🎮 Gaming
+  - DOMAIN-KEYWORD,openai,🤖 OpenAI
+  - DOMAIN-KEYWORD,claude,🤖 OpenAI
   - GEOIP,CN,DIRECT
-  - MATCH,🚀 Выбрать вручную
+  - MATCH,PROXY

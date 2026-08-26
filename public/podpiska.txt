@@ -1,6 +1,6 @@
 # profile-title: 🏴 BLACK LISTS  🏴
 # profile-update-interval: 1
-# Date/Time: 2026-08-26 / 06:44 (Moscow)
+# Date/Time: 2026-08-26 / 07:57 (Moscow)
 # Количество: 646
 ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:20881#🇭🇰_ping_39ms_speed_0.9Mbps_out🇭🇰
 vless://fa883d80-f437-41af-884d-06d1faad0c27@185.147.26.175:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&sni=yt.orpheous.ru#🇷🇺_ping_40ms_speed_11.5Mbps
@@ -623,28 +623,28 @@ vless://3302c871-79e8-45a3-8233-d0547ae963ed@cctvhikvision.center:2053?encryptio
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJydXNoLTZpdDZiLnRlZW9wcC5xdWVzdCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9rejQ5aGYvZ2JpbjVqdmUubTN1OCIsImhvc3QiOiJydXNoLTZpdDZiLnRlZW9wcC5xdWVzdCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇺🇸_ping_5996ms_speed_9.8Mbps_out🇺🇸
 vless://e2797351-d453-430d-8204-d7e971aaca99@150.40.117.95:2053?type=grpc&security=reality&fp=firefox&pbk=A9qdieGRLprLJ5i92gMn-4eD9EA_aa-o_xXVhYy16Rg&sid=8c&sni=www.spotify.com&serviceName=grpc&spx=/637e3206b93e58a#🇳🇱_ping_7023ms_speed_0.2Mbps
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.144:8080?type=ws&sni=40.160.69.144#🇺🇸_ping_7108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdGZGcWU1c242aElIZmhkalNSd0JkM2pMSzJYaDFqeEAxNzguNzIuMTg0LjE0MzoxNDA=#🇷🇺_🇷🇺_ping_31ms_speed_28.5Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YlFqVm1IRGNSMWNUN0M3dmlkbEZZajVjQXNUQkV2VEA0NS4xMC40MS45OTo0NTAw#ping_36ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_80ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_86ms_speed_24.0Mbps
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱_🇳🇱_ping_93ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_145ms_speed_6.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸_🇪🇸_ping_151ms_speed_7.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSEZGV3Y3bnA5M0RCTEtaVXZWbTd1@157.22.240.141:57925#🇷🇺_🇷🇺_ping_177ms_speed_22.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#🇺🇸_🇺🇸_ping_238ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇳🇱_🇳🇱_ping_261ms
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N0Q5LzNZNStNQ2VCRE5wQzZmdFJEbGtBSmRLcFhDYzFtT0U5NFN2Y1hFYz0=@129.146.38.3:50356#🇺🇸_🇺🇸_ping_353ms_speed_3.6Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319#🇭🇰_🇭🇰_ping_397ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#🇭🇰_🇭🇰_ping_411ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬_🇸🇬_ping_417ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkA5NS40MC4xMjAuMTYyOjgzMTk=#🇭🇰_🇭🇰_ping_423ms
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QkZReUhXQjIwcXZIMGFzdWl4Y2lkTDF3TFU2WExkbUZ6QU5GM0dqTEZRdz0@147.15.47.5:59319#🇧🇷_🇧🇷_ping_447ms_speed_6.4Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#🇷🇺_🇷🇺_ping_448ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZ251OXRWQ3ZEWGM@64.90.7.12:47509#🇭🇰_🇭🇰_ping_569ms_speed_3.8Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZ251OXRWQ3ZEWGM=@64.90.7.12:47509#🇭🇰_🇭🇰_ping_599ms_speed_3.7Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZVF0RjVTVFdmVGhlTjNOYURsbDM5VlpPZ3BKQUV2V0AyMDkuMjIyLjI1Mi4xNzg6MTQw#🇺🇸_🇺🇸_ping_760ms_speed_6.8Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZVF0RjVTVFdmVGhlTjNOYURsbDM5VlpPZ3BKQUV2V0AyMDkuMjIyLjI1Mi4xNzg6MTQ1#🇫🇮_🇫🇮_ping_760ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZVF0RjVTVFdmVGhlTjNOYURsbDM5VlpPZ3BKQUV2V0AyMDkuMjIyLjI1Mi4xNzg6MTAwMQ==#🇷🇴_🇷🇴_ping_873ms_speed_6.0Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplREJiMWotRVB4bjliS2hXMGhvaHg1LVBILVAxdVFQc0A4OS4xMjUuMzMuMTY6MTIzNA==#🇳🇱_🇳🇱_ping_1211ms_speed_3.9Mbps
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#🇳🇱_🇳🇱_ping_1803ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#🇳🇱_🇳🇱_ping_2166ms_speed_8.2Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdGZGcWU1c242aElIZmhkalNSd0JkM2pMSzJYaDFqeEAxNzguNzIuMTg0LjE0MzoxNDA=#🇷🇺_🇷🇺_ping_31ms_speed_5.8Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdGZGcWU1c242aElIZmhkalNSd0JkM2pMSzJYaDFqeA@178.72.184.143:140#🇷🇺_🇷🇺_ping_33ms_speed_7.8Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YlFqVm1IRGNSMWNUN0M3dmlkbEZZajVjQXNUQkV2VEA0NS4xMC40MS45OTo0NTAw#🇷🇺_🇷🇺_ping_35ms_speed_16.8Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#🇳🇱_🇳🇱_ping_77ms_speed_16.8Mbps
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱_🇳🇱_ping_86ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪_🇩🇪_ping_94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#🇵🇱_🇵🇱_ping_114ms_speed_23.1Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸_🇪🇸_ping_147ms_speed_7.6Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸_🇪🇸_ping_153ms_speed_5.5Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSEZGV3Y3bnA5M0RCTEtaVXZWbTd1@157.22.240.141:57925#🇷🇺_🇷🇺_ping_180ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#🇳🇱_🇳🇱_ping_230ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#🇷🇺_🇷🇺_ping_237ms_speed_18.0Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#🇺🇸_🇺🇸_ping_237ms_speed_13.4Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#🇺🇸_🇺🇸_ping_243ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdDQDMxLjc2LjgyLjEzMTozNDI2MA==#🇬🇧_🇬🇧_ping_268ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2TzVwNGhpUFZ5NkxnWTF0R21GMnFGVnVMc0hHdjFycTRJU0cxS2lMb0xBPQ@185.84.158.206:56985#🇩🇪_🇩🇪_ping_343ms_speed_5.4Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇬🇧_🇬🇧_ping_345ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N0Q5LzNZNStNQ2VCRE5wQzZmdFJEbGtBSmRLcFhDYzFtT0U5NFN2Y1hFYz0=@129.146.38.3:50356#🇺🇸_🇺🇸_ping_349ms_speed_4.9Mbps
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#🇭🇰_🇭🇰_ping_402ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkA5NS40MC4xMjAuMTYyOjgzMTk=#🇭🇰_🇭🇰_ping_403ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319#🇭🇰_🇭🇰_ping_442ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#🇸🇬_🇸🇬_ping_444ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WnhJUVN1aGk0OFBDNjQ1MmUxR0t1VEdkMit6Z1I3c281dWN5UytLdmVBYz0@159.112.176.198:59319#🇧🇷_🇧🇷_ping_448ms
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QkZReUhXQjIwcXZIMGFzdWl4Y2lkTDF3TFU2WExkbUZ6QU5GM0dqTEZRdz0@147.15.47.5:59319#🇧🇷_🇧🇷_ping_1458ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#🇳🇱_🇳🇱_ping_1973ms_speed_16.3Mbps

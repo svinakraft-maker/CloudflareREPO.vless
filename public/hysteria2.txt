@@ -1,10 +1,5 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-27 / 16:58 (Moscow)
-# Количество: 6
-hysteria2://c99e2eeb-8af9-46c1-8972-d207e9fd1b11@finland-core-sh.cvedcdigital.vip:4444?sni=finland-core-sh.cvedcdigital.vip#🇺🇸_ping_104ms_speed_13.1Mbps
-hysteria2://c99e2eeb-8af9-46c1-8972-d207e9fd1b11@market.cvedcdigital.vip:4444?sni=market.cvedcdigital.vip#🇦🇪_ping_176ms_speed_22.4Mbps
-hysteria2://c99e2eeb-8af9-46c1-8972-d207e9fd1b11@infra-core.cvedcdigital.vip:1443?sni=infra-core.cvedcdigital.vip#🇵🇱_ping_192ms_speed_16.2Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.10.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_619ms
-hysteria2://u1agq9566pfrco2q@45.74.158.242:15641?sni=www.ser7er.wolfs2.ir&obfs=salamander&obfs-password=xdqynq1idjgm8x4p#🇹🇷_ping_1186ms_speed_0.8Mbps
-hysteria2://4a7983ed-4e1d-4038-aa13-61929b431fbf@2.27.22.245:8443?sni=de2.lootopen.online#🇩🇪_ping_2182ms_speed_8.9Mbps
+# Date/Time: 2026-08-27 / 17:17 (Moscow)
+# Количество: 1
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.10.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_587ms

@@ -1,17 +1,30 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-27 / 07:31 (Moscow)
-# Количество: 13
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@fihy2.metricpipe.space:9443?security=tls&fp=chrome&sni=fihy2.metricpipe.space&alpn=http/1.1#ping_103ms
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@lvhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=lvhy2.metricpipe.space&alpn=http/1.1#ping_144ms
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@czechia.metricpipe.space:9443?security=tls&fp=chrome&sni=czechia.metricpipe.space&alpn=http/1.1#ping_230ms
-trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#🇵🇱_🇵🇱_ping_247ms
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@ukhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=ukhy2.metricpipe.space&alpn=http/1.1#ping_552ms
-trojan://trojan@104.18.12.229:8443?sni=longwanghen.pages.dev&type=ws&path=%2F&fp=chrome#🏳_🏳_ping_632ms
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_🇫🇷_ping_816ms
-trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#ping_990ms
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@swenhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=swenhy2.metricpipe.space&alpn=http/1.1#ping_1202ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#ping_1320ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#ping_1618ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#ping_3667ms
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@switzerhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=switzerhy2.metricpipe.space&alpn=http/1.1#ping_4970ms
+# Date/Time: 2026-08-27 / 08:03 (Moscow)
+# Количество: 26
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@fihy2.metricpipe.space:9443?security=tls&fp=chrome&sni=fihy2.metricpipe.space&alpn=http/1.1#🇫🇮_ping_130ms
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@lvhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=lvhy2.metricpipe.space&alpn=http/1.1#🇱🇻_ping_169ms
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@czechia.metricpipe.space:9443?security=tls&fp=chrome&sni=czechia.metricpipe.space&alpn=http/1.1#🇨🇿_ping_215ms
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@ukhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=ukhy2.metricpipe.space&alpn=http/1.1#🇬🇧_ping_224ms
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#🇵🇱_ping_246ms
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@swenhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=swenhy2.metricpipe.space&alpn=http/1.1#🇪🇸_ping_257ms
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@switzerhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=switzerhy2.metricpipe.space&alpn=http/1.1#🇨🇭_ping_296ms
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@turkhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=turkhy2.metricpipe.space&alpn=http/1.1#🇷🇺_ping_318ms
+trojan://trojan@104.18.12.229:8443?sni=longwanghen.pages.dev&type=ws&path=%2F&fp=chrome#🏳_ping_385ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_555ms
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_568ms
+trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_573ms_speed_5.3Mbps
+trojan://FH72359861@35.92.245.6:443?sni=neutral-quail.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_582ms
+trojan://AE62539071@liked-serval.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_595ms
+trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls#🇺🇸_ping_599ms_speed_4.4Mbps
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#🇺🇸_ping_633ms
+trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_648ms_speed_9.6Mbps
+trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#🇯🇵_ping_675ms
+trojan://EQ30679154@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_838ms_speed_0.8Mbps
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_ping_838ms_out🇫🇷
+trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸_ping_904ms_speed_0.1Mbps
+trojan://EQ30679154@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_1033ms_speed_3.0Mbps
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#🇭🇰_ping_1065ms
+trojan://FH72359861@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#🇺🇸_ping_1318ms_speed_5.2Mbps
+trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@ushy2.metricpipe.space:9443?security=tls&fp=chrome&sni=ushy2.metricpipe.space&alpn=http/1.1#🇺🇸_ping_2461ms
+trojan://epc3ufz9q4ocqeqh@uwu.blueknightnet.qzz.io:2087?security=tls&sni=uwu.dianaw.cc.cd&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net#🇩🇪_ping_2684ms_speed_2.4Mbps_out🇩🇪

@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-08-28 / 12:40 (Moscow)
+# Date/Time: 2026-08-28 / 13:02 (Moscow)
 # Количество: 68
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@usa.alertyagency.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=IhcYDA8gF5PuTtKLu-kB6zezpqAKQvnjE_XbgNg8nXI&sid=157ce3ba&sni=api-maps.yandex.ru#ping_601ms_speed_11.8Mbps
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.41.10:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LubLmalkyXoDFKxVQLtf1mh5cVK7W8K-MeNQf6ZDQ2I&sid=9e354fd8&sni=api-maps.yandex.ru#ping_271ms_speed_11.1Mbps

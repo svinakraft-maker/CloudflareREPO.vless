@@ -1,5 +1,18 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-28 / 00:16 (Moscow)
-# Количество: 1
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.10.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#ping_589ms_speed_-1.0Mbps
+# Date/Time: 2026-08-29 / 13:57 (Moscow)
+# Количество: 14
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#🇸🇬_ping_436ms
+hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@nl1.xiaoliyu.cyou:4433?insecure=1#🇺🇸_ping_488ms
+hysteria2://58f133a9-0b8c-4237-ba40-c69d32a35e27@us.loadpng.com:443?sni=us.loadpng.com&security=tls&fp=firefox#🇺🇸_ping_498ms
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#🇨🇭_ping_532ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.193.153:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_592ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_718ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1865ms
+hysteria2://901113fb-2ddd-4472-84bf-307de471f32f@fi.katanalink.net:443?sni=fi.katanalink.net#🇺🇸_ping_2536ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_3039ms_speed_4.2Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els2.mangshe.xyz:2056?insecure=1&sni=els2.mangshe.xyz#🇷🇺_ping_3269ms_speed_9.7Mbps
+hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#🇳🇱_ping_3507ms_speed_3.2Mbps
+hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@ru.xiaoliyu.cyou:4433?insecure=1#🇳🇱_ping_4544ms_speed_4.3Mbps_out🇳🇱
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els.mangshe.xyz:2056?insecure=1&sni=els.mangshe.xyz#🇧🇾_ping_4930ms_speed_4.9Mbps_out🇧🇾
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_5911ms_speed_4.6Mbps

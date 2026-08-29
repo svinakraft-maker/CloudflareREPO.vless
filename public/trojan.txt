@@ -1,12 +1,11 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-28 / 00:16 (Moscow)
-# Количество: 8
-trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#ping_384ms_speed_-1.0Mbps
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@switzerhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=switzerhy2.metricpipe.space&alpn=http/1.1#ping_1140ms_speed_-1.0Mbps
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@turkhy2.metricpipe.space:9443?security=tls&fp=chrome&sni=turkhy2.metricpipe.space&alpn=http/1.1#ping_1224ms_speed_-1.0Mbps
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#ping_516ms_speed_-1.0Mbps
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#ping_1415ms_speed_-1.0Mbps
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#ping_2206ms_speed_-1.0Mbps
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#ping_2592ms_speed_-1.0Mbps
-trojan://4LR1nTjdxRQs2JGmzJnsRefgqQUYFEfo@ushy2.metricpipe.space:9443?security=tls&fp=chrome&sni=ushy2.metricpipe.space&alpn=http/1.1#ping_1387ms_speed_-1.0Mbps
+# Date/Time: 2026-08-29 / 13:57 (Moscow)
+# Количество: 7
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_530ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#🇺🇸_ping_624ms
+trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#🇯🇵_ping_712ms
+trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_897ms_out🇫🇷
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_ping_951ms_out🇫🇷
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_1014ms_out🇫🇷
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#🇭🇰_ping_1041ms

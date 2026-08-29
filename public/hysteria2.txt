@@ -1,12 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-29 / 18:43 (Moscow)
-# Количество: 8
-hysteria2://b492c1192f7aa3433c9818baf5ebb4ff@134.185.87.191:443?insecure=1&sni=sb.jmx666.eu.cc#🇸🇬_ping_844ms_speed_13.1Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.185.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_845ms_speed_12.1Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.189.148:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_870ms
-hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@80.96.109.223:5001?sni=special.aeternavpn.space#🇩🇪_ping_1004ms_speed_1.4Mbps_out🇩🇪
-hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.76.4.128:5002?sni=fi.aeternavpn.space#🇫🇮_ping_1175ms_speed_0.4Mbps_out🇫🇮
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_1363ms_speed_4.6Mbps
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8443?sni=hopp-romania-new.roxa.org#🇷🇴_ping_2296ms_speed_4.6Mbps
-hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@ru1.xiaoliyu.cyou:4433?insecure=1#🇷🇺_ping_3416ms_speed_0.5Mbps
+# Date/Time: 2026-08-29 / 19:32 (Moscow)
+# Количество: 7
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.74.81:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_589ms
+hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@80.96.109.223:5001?sni=special.aeternavpn.space#🇩🇪_ping_598ms_speed_0.3Mbps_out🇩🇪
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8443?sni=hopp-romania-new.roxa.org#🇷🇴_ping_691ms_speed_5.9Mbps
+hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.76.4.128:5002?sni=fi.aeternavpn.space#🇫🇮_ping_1104ms_speed_0.1Mbps_out🇫🇮
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1864ms
+hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@ru1.xiaoliyu.cyou:4433?insecure=1#🇷🇺_ping_3025ms_speed_1.1Mbps
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#🇸🇬_ping_3648ms_speed_12.5Mbps

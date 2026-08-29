@@ -1,11 +1,12 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-29 / 19:32 (Moscow)
-# Количество: 7
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.74.81:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_589ms
-hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@80.96.109.223:5001?sni=special.aeternavpn.space#🇩🇪_ping_598ms_speed_0.3Mbps_out🇩🇪
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8443?sni=hopp-romania-new.roxa.org#🇷🇴_ping_691ms_speed_5.9Mbps
-hysteria2://1206bad5-dcc9-410e-9595-d9fe9ee54085@31.76.4.128:5002?sni=fi.aeternavpn.space#🇫🇮_ping_1104ms_speed_0.1Mbps_out🇫🇮
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1864ms
-hysteria2://39b27e20-16f5-45a1-8139-7c9b7f51b6f8@ru1.xiaoliyu.cyou:4433?insecure=1#🇷🇺_ping_3025ms_speed_1.1Mbps
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#🇸🇬_ping_3648ms_speed_12.5Mbps
+# Date/Time: 2026-08-29 / 20:19 (Moscow)
+# Количество: 8
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?sni=ee1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇪🇪_ping_215ms_speed_7.9Mbps
+hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?insecure=1#🇺🇸_ping_1783ms_speed_12.3Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_1888ms_speed_2.4Mbps
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#🇰🇷_ping_3141ms_speed_1.4Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els1.mangshe.xyz:2056?insecure=1&sni=els1.mangshe.xyz#🇷🇺_ping_4471ms_speed_0.2Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_4519ms_speed_3.1Mbps
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#🇰🇷_ping_5083ms
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#🇨🇭_ping_5172ms_speed_1.5Mbps

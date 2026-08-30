@@ -1,10 +1,19 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-30 / 17:21 (Moscow)
-# Количество: 6
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.84.16:443?sni=vpn-de-001.fastervpn.world&insecure=1#🇩🇪_ping_145ms
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els2.mangshe.xyz:2056?insecure=1&sni=els2.mangshe.xyz#🇷🇺_ping_520ms_speed_1.9Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.134.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_615ms
-hysteria2://e9a98960-e28b-434d-984d-c0aee9df8978@66.154.113.16:7001?sni=www.apple.com&insecure=1#🇺🇸_ping_664ms_speed_13.8Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.10.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_741ms
-hysteria2://f9e76796-72ba-4af1-9435-a556bd81c140@156.229.163.112:55000?insecure=1&sni=www.bing.com#🇺🇸_ping_1719ms_speed_0.5Mbps
+# Date/Time: 2026-08-30 / 18:04 (Moscow)
+# Количество: 15
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els2.mangshe.xyz:2056?insecure=1&sni=els2.mangshe.xyz#🇷🇺_ping_475ms_speed_1.9Mbps
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.183:8443?sni=hopp-romania-new.roxa.org#🇷🇴_ping_693ms_speed_3.0Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.185.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_819ms_speed_11.5Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_826ms
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.237:8443?sni=hopp-legend-se.roxa.org#🇺🇸_ping_1036ms_speed_7.1Mbps
+hysteria2://c3e44804-5149-4bfe-9a33-d5051af3c65e@192.227.229.51:28133?insecure=1&security=tls&sni=www.apple.com#🇺🇸_ping_1066ms_speed_5.3Mbps
+hysteria2://Krab9Hyst2_Rk7pQ2xL@nl.vpn.legendaah.xyz:36723?insecure=1&sni=nl.vpn.legendaah.xyz#🇳🇱_ping_1073ms_speed_0.3Mbps
+hysteria2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@hh.funvideorus.net:443?sni=hh.funvideorus.net#🇩🇪_ping_1082ms_speed_2.4Mbps
+hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=www.bing.com#🇰🇷_ping_1099ms
+hysteria2://e9a98960-e28b-434d-984d-c0aee9df8978@66.154.113.16:7001?sni=www.apple.com&insecure=1#🇺🇸_ping_1120ms_speed_6.4Mbps
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#🇰🇷_ping_1206ms
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#🇨🇭_ping_1241ms_speed_0.9Mbps
+hysteria2://f9e76796-72ba-4af1-9435-a556bd81c140@156.229.163.112:55000?insecure=1&sni=www.bing.com#🇺🇸_ping_1526ms_speed_0.4Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_1641ms_speed_2.3Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.32.171:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1705ms

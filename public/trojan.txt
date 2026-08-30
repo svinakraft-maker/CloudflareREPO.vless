@@ -1,14 +1,14 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-08-30 / 12:02 (Moscow)
+# Date/Time: 2026-08-30 / 12:50 (Moscow)
 # Количество: 10
-trojan://47SXGr72f1wpGNkZzLUUExRDHuVQypaW@90.156.218.126:2223?type=tcp&security=tls&fp=android&sni=vkc7.secured-by-tenzo.sbs&alpn=h2,http/1.1#🇷🇺_ping_157ms
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-netherlands.unlimited-access.ru:443?sni=tr-netherlands.unlimited-access.ru&type=tcp&alpn=http%2F1.1&fp=firefox#🇷🇺_ping_488ms_speed_11.0Mbps
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_524ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#🇺🇸_ping_625ms
-trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#🇯🇵_ping_675ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?sni=rc9.freeguard.org&peer=rc9.freeguard.org&security=tls#🇺🇸_ping_687ms
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_ping_857ms_out🇫🇷
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_900ms_out🇫🇷
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_949ms_out🇫🇷
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#🇭🇰_ping_1025ms
+trojan://47SXGr72f1wpGNkZzLUUExRDHuVQypaW@90.156.218.126:2223?type=tcp&security=tls&fp=android&sni=vkc7.secured-by-tenzo.sbs&alpn=h2,http/1.1#🇷🇺_ping_57ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_509ms
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-netherlands.unlimited-access.ru:443?sni=tr-netherlands.unlimited-access.ru&type=tcp&alpn=http%2F1.1&fp=firefox#🇷🇺_ping_514ms_speed_20.6Mbps
+trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?sni=rc9.freeguard.org&peer=rc9.freeguard.org&security=tls#🇺🇸_ping_536ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#🇺🇸_ping_628ms
+trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#🇯🇵_ping_667ms
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_877ms_out🇫🇷
+trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_900ms_out🇫🇷
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#🇭🇰_ping_1056ms
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_ping_2173ms_out🇫🇷

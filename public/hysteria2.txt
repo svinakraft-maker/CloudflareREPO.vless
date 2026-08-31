@@ -1,8 +1,17 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-31 / 04:00 (Moscow)
-# Количество: 4
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?sni=ee1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇪🇪_ping_168ms_speed_6.9Mbps
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#🇷🇺_ping_288ms_speed_20.6Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_822ms
-hysteria2://39152f8b-0bcf-494e-b314-261ca875280c@31.77.220.152:5020?alpn=h3&sni=special.aeternavpn.space#🇩🇪_ping_973ms_speed_0.7Mbps_out🇩🇪
+# Date/Time: 2026-08-31 / 04:44 (Moscow)
+# Количество: 13
+hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#🇳🇱_ping_196ms
+hysteria2://Krab9Hyst2_Rk7pQ2xL@nl.vpn.legendaah.xyz:36723?insecure=1&sni=nl.vpn.legendaah.xyz#🇳🇱_ping_422ms_speed_0.5Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@nlb4.mangshe.xyz:2056?insecure=1&sni=nlb4.mangshe.xyz#🇩🇪_ping_586ms_speed_10.6Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_604ms
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#🇨🇭_ping_690ms
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=css.rbxcdn.com#🇺🇸_ping_710ms_speed_0.5Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els.mangshe.xyz:2056?insecure=1&sni=els.mangshe.xyz#🇷🇺_ping_896ms_speed_0.9Mbps
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#🇸🇬_ping_959ms_speed_1.0Mbps
+hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160?sni=www.bing.com&insecure=1#🇸🇬_ping_976ms_speed_3.6Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@dg2.mangshe.xyz:2056?insecure=1&sni=dg2.mangshe.xyz#🇭🇰_ping_1050ms_speed_0.1Mbps
+hysteria2://39152f8b-0bcf-494e-b314-261ca875280c@31.77.220.152:5020?alpn=h3&sni=special.aeternavpn.space#🇩🇪_ping_1120ms_speed_0.4Mbps_out🇩🇪
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.74.81:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1636ms
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@els1.mangshe.xyz:2056?insecure=1&sni=els1.mangshe.xyz#🇷🇺_ping_3943ms_speed_0.3Mbps

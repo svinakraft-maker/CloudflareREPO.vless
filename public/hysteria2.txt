@@ -1,14 +1,14 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-31 / 11:20 (Moscow)
+# Date/Time: 2026-08-31 / 12:04 (Moscow)
 # Количество: 10
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.82.167:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_173ms_speed_20.7Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?sni=ee1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇪🇪_ping_258ms_speed_7.7Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.134.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_663ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#🇩🇪_ping_1242ms
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#🇰🇷_ping_1360ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.74.81:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1640ms
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰_ping_2416ms
-hysteria2://f9e76796-72ba-4af1-9435-a556bd81c140@156.229.163.112:55000?insecure=1&sni=www.bing.com#🇺🇸_ping_2922ms_speed_0.3Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_3271ms_speed_1.6Mbps
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_5719ms_speed_0.2Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?sni=ee1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇪🇪_ping_261ms_speed_6.4Mbps
+hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8589?sni=rgrg.nimarko.org#🇱🇻_ping_396ms_speed_1.2Mbps_out🇱🇻
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_675ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_825ms
+hysteria2://b492c1192f7aa3433c9818baf5ebb4ff@134.185.87.191:443?insecure=1&sni=sb.jmx666.eu.cc#🇸🇬_ping_840ms
+hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=www.bing.com#🇰🇷_ping_924ms_speed_13.8Mbps
+hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8585?sni=swsw.nimarko.org#🇪🇪_ping_2340ms_speed_0.9Mbps_out🇪🇪
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_2653ms_speed_0.7Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_4708ms_speed_0.7Mbps
+hysteria2://9c5be37406b6584005b8de0ee3734dd9@140.238.43.0:50160?insecure=1&sni=www.bing.com#🇯🇵_ping_5954ms

@@ -1,13 +1,18 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-08-31 / 15:00 (Moscow)
-# Количество: 9
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?sni=ee1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇪🇪_ping_241ms_speed_8.0Mbps
-hysteria2://1c06966e-dbf0-44c4-b504-fe2aaf923359@91.185.83.48:8589?sni=rgrg.nimarko.org#🇱🇻_ping_629ms_speed_0.4Mbps_out🇱🇻
-hysteria2://b492c1192f7aa3433c9818baf5ebb4ff@134.185.87.191:443?insecure=1&sni=sb.jmx666.eu.cc#🇸🇬_ping_803ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.248.75:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_831ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.185.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_832ms_speed_11.3Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_847ms_speed_2.2Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_922ms_speed_12.1Mbps
-hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=www.bing.com#🇰🇷_ping_970ms_speed_11.8Mbps
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#🇳🇱_ping_5549ms_speed_21.0Mbps
+# Date/Time: 2026-08-31 / 15:44 (Moscow)
+# Количество: 14
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?sni=ee1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇪🇪_ping_157ms_speed_13.5Mbps
+hysteria2://036c648f927d4d86a82dcf629db8cbe1@jackvpn21.mooo.com:31603?alpn=h3&fp=chrome&security=tls&sni=#🇩🇪_ping_496ms_speed_26.2Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.134.50:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_603ms
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_ping_839ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷_ping_1206ms_speed_22.0Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_1227ms_speed_3.2Mbps
+hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#🇷🇺_ping_1540ms_speed_21.2Mbps
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52036?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=#🇬🇷_ping_2064ms_speed_0.6Mbps_out🇬🇷
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_2851ms_speed_2.3Mbps
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_3059ms_speed_0.7Mbps
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52067?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=#🇹🇷_ping_3491ms_speed_0.7Mbps_out🇹🇷
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52057?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=#🇵🇹_ping_3700ms_speed_0.6Mbps_out🇵🇹
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52030?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=#🇫🇷_ping_4400ms_speed_0.4Mbps_out🇫🇷
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52026?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=#🇪🇸_ping_5441ms_speed_0.5Mbps_out🇪🇸

@@ -63,7 +63,7 @@ proxy-providers:
       lazy: true
       expected-status: 204
 proxy-groups:
-  - name: PROXY
+  - name: "PROXY"
     type: select
     url: http://cp.cloudflare.com/generate_204
     expected-status: 204
@@ -71,65 +71,113 @@ proxy-groups:
     icon: https://i.imgur.com/B3HrpPC.png
     proxies:
       - auto
+      - DIRECT
     use:
       - sub
-  - name: auto
-    use:
-      - sub
+
+  - name: "auto"
     type: url-test
     url: http://cp.cloudflare.com/generate_204
     expected-status: 204
     interval: 300
     tolerance: 150
     lazy: true
+    use:
+      - sub
+
+  - name: "🎮 Discord"
+    type: select
+    proxies:
+      - auto
+      - PROXY
+      - DIRECT
+
+  - name: "☁️ Cloudflare WARP"
+    type: select
+    proxies:
+      - auto
+      - PROXY
+      - DIRECT
+
+  - name: "🔍 IP Check"
+    type: select
+    proxies:
+      - DIRECT
+      - auto
+      - PROXY
+
+  - name: "🌍 GLOBAL"
+    type: select
+    proxies:
+      - PROXY
+      - auto
+      - DIRECT
+
   - name: "📺 YouTube"
     type: select
     proxies:
       - auto
       - PROXY
+      - DIRECT
+
   - name: "💬 Telegram"
     type: select
     proxies:
       - auto
       - PROXY
+      - DIRECT
+
   - name: "📷 Instagram"
     type: select
     proxies:
       - auto
       - PROXY
-  - name: "🎮 Gaming"
-    type: select
-    proxies:
-      - auto
-      - PROXY
+      - DIRECT
+
   - name: "🤖 OpenAI"
     type: select
     proxies:
       - auto
       - PROXY
-  - name: "🌍 Геоблок"
-    type: select
-    proxies:
-      - auto
-      - PROXY
+      - DIRECT
+
   - name: "🔓 Без VPN"
     type: select
     proxies:
       - DIRECT
     hidden: true
+
   - name: "⛔ Блок"
     type: select
     proxies:
       - REJECT
     hidden: true
 rules:
-  - DOMAIN-SUFFIX,googlevideo.com,📺 YouTube
-  - DOMAIN-SUFFIX,youtube.com,📺 YouTube
-  - DOMAIN-SUFFIX,ytimg.com,📺 YouTube
-  - DOMAIN-SUFFIX,ggpht.com,📺 YouTube
+  - DOMAIN-SUFFIX,ip-api.com,🔍 IP Check
+  - DOMAIN-SUFFIX,ipapi.co,🔍 IP Check
+  - DOMAIN-SUFFIX,ipinfo.io,🔍 IP Check
+  - DOMAIN-SUFFIX,2ip.ru,🔍 IP Check
+  - DOMAIN-SUFFIX,whoer.net,🔍 IP Check
+  - DOMAIN-SUFFIX,whatismyip.com,🔍 IP Check
+  - DOMAIN-SUFFIX,myip.com,🔍 IP Check
+  - DOMAIN-SUFFIX,ip-check.info,🔍 IP Check
+  - DOMAIN-SUFFIX,cloudflare.com,☁️ Cloudflare WARP
+  - DOMAIN-SUFFIX,cloudflare-dns.com,☁️ Cloudflare WARP
+  - DOMAIN-SUFFIX,cloudflare.net,☁️ Cloudflare WARP
+  - DOMAIN-SUFFIX,cloudflareclient.com,☁️ Cloudflare WARP
+  - DOMAIN-SUFFIX,cloudflare-ipfs.com,☁️ Cloudflare WARP
+  - DOMAIN-SUFFIX,warp.plus,☁️ Cloudflare WARP
+  - DOMAIN-SUFFIX,discord.com,🎮 Discord
+  - DOMAIN-SUFFIX,discord.gg,🎮 Discord
+  - DOMAIN-SUFFIX,discordapp.com,🎮 Discord
+  - DOMAIN-SUFFIX,discordapp.net,🎮 Discord
+  - DOMAIN-SUFFIX,discordcdn.com,🎮 Discord
+  - DOMAIN-SUFFIX,discord.media,🎮 Discord
+  - DOMAIN-KEYWORD,discord,🎮 Discord
   - DOMAIN-SUFFIX,t.me,💬 Telegram
   - DOMAIN-SUFFIX,telegram.org,💬 Telegram
   - DOMAIN-SUFFIX,telegram.me,💬 Telegram
+  - DOMAIN-SUFFIX,telegram.dog,💬 Telegram
   - DOMAIN-SUFFIX,telesco.pe,💬 Telegram
   - IP-CIDR,91.108.4.0/22,💬 Telegram,no-resolve
   - IP-CIDR,91.108.8.0/22,💬 Telegram,no-resolve
@@ -142,19 +190,39 @@ rules:
   - IP-CIDR6,2001:67c:4e8::/48,💬 Telegram,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,💬 Telegram,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,💬 Telegram,no-resolve
+  - DOMAIN-SUFFIX,googlevideo.com,📺 YouTube
+  - DOMAIN-SUFFIX,youtube.com,📺 YouTube
+  - DOMAIN-SUFFIX,ytimg.com,📺 YouTube
+  - DOMAIN-SUFFIX,ggpht.com,📺 YouTube
   - DOMAIN-SUFFIX,instagram.com,📷 Instagram
   - DOMAIN-SUFFIX,cdninstagram.com,📷 Instagram
-  - DOMAIN-SUFFIX,facebook.com,🌍 Геоблок
-  - DOMAIN-SUFFIX,fbcdn.net,🌍 Геоблок
-  - DOMAIN-SUFFIX,twitter.com,🌍 Геоблок
-  - DOMAIN-SUFFIX,x.com,🌍 Геоблок
-  - DOMAIN-SUFFIX,twimg.com,🌍 Геоблок
   - DOMAIN-SUFFIX,openai.com,🤖 OpenAI
   - DOMAIN-SUFFIX,chatgpt.com,🤖 OpenAI
-  - DOMAIN-SUFFIX,steamcommunity.com,🎮 Gaming
-  - DOMAIN-SUFFIX,steampowered.com,🎮 Gaming
-  - DOMAIN-SUFFIX,riotgames.com,🎮 Gaming
-  - DOMAIN-SUFFIX,leagueoflegends.com,🎮 Gaming
   - DOMAIN-KEYWORD,openai,🤖 OpenAI
   - DOMAIN-KEYWORD,claude,🤖 OpenAI
+  - GEOSITE,category-ru,🌍 GLOBAL
+  - GEOIP,RU,🌍 GLOBAL
+  - DOMAIN-SUFFIX,yandex.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,yandex.net,🌍 GLOBAL
+  - DOMAIN-SUFFIX,yandex.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,vk.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,vk.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,mail.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,ok.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,rutube.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,sberbank.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,tinkoff.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,gosuslugi.ru,🌍 GLOBAL
+  - DOMAIN-SUFFIX,steampowered.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,steamcommunity.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,epicgames.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,battle.net,🌍 GLOBAL
+  - DOMAIN-SUFFIX,xbox.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,playstation.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,riotgames.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,leagueoflegends.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,fbcdn.net,🌍 GLOBAL
+  - DOMAIN-SUFFIX,twitter.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,x.com,🌍 GLOBAL
+  - DOMAIN-SUFFIX,twimg.com,🌍 GLOBAL
   - MATCH,PROXY

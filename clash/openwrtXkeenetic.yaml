@@ -225,4 +225,4 @@ rules:
   - DOMAIN-SUFFIX,twitter.com,🌍 GLOBAL
   - DOMAIN-SUFFIX,x.com,🌍 GLOBAL
   - DOMAIN-SUFFIX,twimg.com,🌍 GLOBAL
-  - MATCH,PROXY
+  - MATCH,DIRECT

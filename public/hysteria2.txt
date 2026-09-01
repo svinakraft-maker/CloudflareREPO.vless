@@ -1,7 +1,34 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-01 / 08:49 (Moscow)
-# Количество: 3
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#🇷🇺_ping_137ms_speed_22.4Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&sni=vpn-kr-003.fastervpn.world#🇰🇷_ping_825ms
-hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#🇭🇰_ping_1172ms_speed_5.9Mbps
+# Date/Time: 2026-09-01 / 09:36 (Moscow)
+# Количество: 30
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@lt-2.kihsuyhf8jkiugsxb.cfd:443?sni=lt-2.kihsuyhf8jkiugsxb.cfd#🇺🇸_ping_119ms_speed_11.8Mbps
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-fi-5.dost-self.co.uk:2443?sni=exit-fi-5.dost-self.co.uk#🇺🇸_ping_122ms_speed_23.5Mbps
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@ee-4.kihsuyhf8jkiugsxb.cfd:443?sni=ee-4.kihsuyhf8jkiugsxb.cfd#🇪🇪_ping_143ms_speed_12.6Mbps
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@de-8.kihsuyhf8jkiugsxb.cfd:443?sni=de-8.kihsuyhf8jkiugsxb.cfd#🇩🇪_ping_144ms_speed_11.7Mbps
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-germany-new.ddnsguru.com#🇷🇴_ping_168ms_speed_12.0Mbps
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-nl-1.dost-self.co.uk:2443?sni=exit-nl-1.dost-self.co.uk#🇳🇱_ping_176ms_speed_11.9Mbps
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-pl-2.dost-self.co.uk:2443?sni=exit-pl-2.dost-self.co.uk#🇺🇸_ping_186ms_speed_13.7Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@nlb4.mangshe.xyz:2056?insecure=1&sni=nlb4.mangshe.xyz#🇩🇪_ping_188ms_speed_19.0Mbps
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@balance-lt.kihsuyhf8jkiugsxb.cfd:443?sni=balance-lt.kihsuyhf8jkiugsxb.cfd&fm={#🇺🇸_ping_195ms_speed_26.3Mbps
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@de-6.kihsuyhf8jkiugsxb.cfd:443?sni=de-6.kihsuyhf8jkiugsxb.cfd#🇩🇪_ping_214ms_speed_5.5Mbps
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@fi-6.kihsuyhf8jkiugsxb.cfd:443?sni=fi-6.kihsuyhf8jkiugsxb.cfd#🇺🇸_ping_218ms_speed_20.6Mbps
+hysteria2://c0d1d7e1-7ce6-425d-a0ff-27b7eec8c533@z0xm5-km2u.ru.mediavitrina.com:30443?sni=ru.mediavitrina.com#🇸🇪_ping_274ms_speed_7.2Mbps_out🇸🇪
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@ee.kihsuyhf8jkiugsxb.cfd:443?sni=ee.kihsuyhf8jkiugsxb.cfd&fm={#🇪🇪_ping_282ms_speed_5.9Mbps
+hysteria2://52b140a1-1e12-4410-9532-ebaee7cec3a1@brbr.hisan.space:5443?sni=brbr.hisan.space#🇳🇱_ping_285ms_speed_16.4Mbps
+hysteria2://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.185:7443?sni=fi.aeternavpn.space&fm={"quicParams":{"congestion":"bbr","debug":false}}#🇫🇮_ping_343ms_speed_2.4Mbps_out🇫🇮
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&allowInsecure=1#🇺🇸_ping_429ms_speed_15.3Mbps
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast_s100.screw.page:443?sni=fast_s100.screw.page&fm={#🇺🇸_ping_732ms_speed_7.3Mbps_out🇺🇸
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@balance-se.kihsuyhf8jkiugsxb.cfd:443?sni=balance-se.kihsuyhf8jkiugsxb.cfd&fm={#🇸🇪_ping_819ms_speed_13.0Mbps
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-se-3.dost-self.co.uk:2443?sni=exit-se-3.dost-self.co.uk#🇸🇪_ping_1098ms_speed_11.8Mbps_out🇸🇪
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@ee-5.kihsuyhf8jkiugsxb.cfd:443?sni=ee-5.kihsuyhf8jkiugsxb.cfd#🇪🇪_ping_1357ms_speed_7.5Mbps
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇦🇪_ping_1479ms_speed_25.6Mbps
+hy2://19f72087-4591-4d72-930b-2697078ec2be@us4.xiaoliyu.cyou:4433?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸_ping_1559ms_speed_7.6Mbps
+hysteria2://uowQGj5hGoMerPtQE2sZV-ETleLUgimbKf3q8TWfijQ@give.internet-card.sbs:34444?sni=wata.internet-card.sbs#🇦🇪_ping_1598ms_speed_5.0Mbps_out🇦🇪
+hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160?insecure=1&sni=www.bing.com#🇸🇬_ping_2149ms_speed_1.0Mbps
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-jp-1.dost-self.co.uk:2443?sni=exit-jp-1.dost-self.co.uk#🇯🇵_ping_2445ms_speed_9.4Mbps
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-am-1.dost-self.co.uk:2443?sni=exit-am-1.dost-self.co.uk#🇦🇲_ping_2780ms_speed_6.4Mbps
+hysteria2://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-fi-2.dost-self.co.uk:2443?sni=exit-fi-2.dost-self.co.uk#🇫🇮_ping_3242ms_speed_13.7Mbps
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@ph-1.kihsuyhf8jkiugsxb.cfd:443?sni=ph-1.kihsuyhf8jkiugsxb.cfd#🇵🇭_ping_3352ms_speed_9.7Mbps
+hysteria2://ca909a1b-67e7-4b2e-8f8a-2837a865b2d2@jp-1.kihsuyhf8jkiugsxb.cfd:443?sni=jp-1.kihsuyhf8jkiugsxb.cfd#🇯🇵_ping_4203ms_speed_6.4Mbps
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page&fm=%7B#🇩🇪_ping_4765ms_speed_8.4Mbps_out🇩🇪

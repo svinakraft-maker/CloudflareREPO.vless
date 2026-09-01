@@ -1,7 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-01 / 17:33 (Moscow)
-# Количество: 3
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?sni=hopp-romania-new.roxa.org#🇷🇴_ping_325ms_speed_18.1Mbps
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_2827ms_speed_0.5Mbps
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page#🇩🇪_ping_4402ms_speed_12.5Mbps_out🇩🇪
+# Date/Time: 2026-09-01 / 18:23 (Moscow)
+# Количество: 7
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.193.153:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_631ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.153.59.21:443?sni=vpn-de-001.fastervpn.world&insecure=1#🇩🇪_ping_1175ms
+hysteria2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443?insecure=1&sni=ltu-01.node.lumixnet.com#🇺🇸_ping_1320ms_speed_27.3Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee1.sferavpn.pro#🇪🇪_ping_1418ms_speed_13.2Mbps
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_ping_2133ms
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰_ping_2684ms_speed_0.2Mbps
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?sni=fast100.screw.page&fm=%7B#🇩🇪_ping_3462ms_speed_0.0Mbps_out🇩🇪

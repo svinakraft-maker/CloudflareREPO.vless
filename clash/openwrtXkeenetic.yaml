@@ -1,53 +1,3 @@
-# profile-title: CLASH openwrtXkeenetic.yaml
-# profile-update-interval: 1
-# Date/Time: 2026-08-26 / 14:53 (Moscow)
-# Количество: 156
-profile-title: CLASH openwrtXkeenetic.yaml
-profile-update-interval: 1
-Date/Time: 2026-08-26 / 14:30 (Moscow)
-mixed-port: 7890
-allow-lan: false
-mode: rule
-log-level: silent
-unified-delay: true
-geodata-mode: true
-tcp-concurrent: true
-sniffer:
-  enable: true
-  sniff:
-    HTTP: {ports: [80, 8080-8880], override-destination: true}
-    TLS: {ports: [443, 8443]}
-  skip-domain:
-    - '+.lan'
-    - '+.local'
-profile:
-  store-selected: true
-dns:
-  enable: true
-  ipv6: false
-  prefer-h3: true
-  listen: 0.0.0.0:53
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
-  fake-ip-filter:
-    - '.lan'
-    - '.local'
-    - '+.stun.*'
-    - 'lens.l.google.com'
-    - 'stun.l.google.com'
-    - 'localhost.ptlogin2.qq.com'
-    - 'dns.msftncsi.com'
-    - 'www.msftncsi.com'
-    - 'www.msftconnecttest.com'
-  default-nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
-  nameserver:
-    - 'https://doh.pub/dns-query'
-    - 'https://dns.alidns.com/dns-query'
-  fallback:
-    - 'https://dns.google/dns-query'
-    - 'https://cloudflare-dns.com/dns-query'
 proxy-providers:
   sub:
     type: http
@@ -62,6 +12,171 @@ proxy-providers:
       timeout: 5000
       lazy: true
       expected-status: 204
+
+rule-providers:
+  twitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/twitter.yaml
+    path: ./ruleset/twitter.yaml
+    interval: 86400
+  meta:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/meta.yaml
+    path: ./ruleset/meta.yaml
+    interval: 86400
+  netflix:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/netflix.yaml
+    path: ./ruleset/netflix.yaml
+    interval: 86400
+  tiktok:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/tiktok.yaml
+    path: ./ruleset/tiktok.yaml
+    interval: 86400
+  ai:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/ai.yaml
+    path: ./ruleset/ai_list.yaml
+    interval: 86400
+  HODCA:
+    type: http
+    behavior: domain
+    format: text
+    url: https://raw.githubusercontent.com/itdoginfo/allow-domains/refs/heads/main/Categories/hodca.lst
+    path: ./ruleset/hodca.lst
+    interval: 86400
+  telegram:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/telegram.yaml
+    path: ./ruleset/telegram.yaml
+    interval: 86400
+  discord:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/discord.yaml
+    path: ./ruleset/discord.yaml
+    interval: 86400
+  discord-ip:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/discord-cidr.yaml
+    path: ./ruleset/discord-cidr.yaml
+    interval: 86400
+  youtube:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/youtube.yaml
+    path: ./ruleset/youtube.yaml
+    interval: 86400
+  porno:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/porno.yaml
+    path: ./ruleset/porno.yaml
+    interval: 86400
+  torrent:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/torrent.yaml
+    path: ./ruleset/torrent.yaml
+    interval: 86400
+  tools:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/tools.yaml
+    path: ./ruleset/tools.yaml
+    interval: 86400
+  socials:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/socials.yaml
+    path: ./ruleset/socials.yaml
+    interval: 86400
+  music:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/music.yaml
+    path: ./ruleset/music.yaml
+    interval: 86400
+  games:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/codelabhq/clash-warp-config/main/ruleset/games.yaml
+    path: ./ruleset/games.yaml
+    interval: 86400
+  Steam:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Steam/Steam.yaml
+    path: ./ruleset/steam.yaml
+    interval: 86400
+  EA:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/EA/EA.yaml
+    path: ./ruleset/ea.yaml
+    interval: 86400
+  Blizzard:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Blizzard/Blizzard.yaml
+    path: ./ruleset/blizzard.yaml
+    interval: 86400
+  Ubisoft:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Ubisoft/Ubisoft.yaml
+    path: ./ruleset/ubisoft.yaml
+    interval: 86400
+  Epic:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Epic/Epic.yaml
+    path: ./ruleset/epic.yaml
+    interval: 86400
+  private-domains:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite/release/mihomo/private.mrs
+    path: ./ruleset/geosite-private.mrs
+    interval: 86400
+  category-ru:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite/release/mihomo/category-ru.mrs
+    path: ./ruleset/category-ru.mrs
+    interval: 86400
+  whitelist:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite/release/mihomo/whitelist.mrs
+    path: ./ruleset/whitelist.mrs
+    interval: 86400
+  private-ips:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geoip/release/mihomo/private.mrs
+    path: ./ruleset/geoip-private.mrs
+    interval: 2592000
+  direct-ips:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geoip/release/mihomo/direct.mrs
+    path: ./ruleset/direct-ips.mrs
+    interval: 86400
+
 proxy-groups:
   - name: "PROXY"
     type: select
@@ -74,7 +189,6 @@ proxy-groups:
       - DIRECT
     use:
       - sub
-
   - name: "auto"
     type: url-test
     url: http://cp.cloudflare.com/generate_204
@@ -84,145 +198,148 @@ proxy-groups:
     lazy: true
     use:
       - sub
-
-  - name: "🎮 Discord"
+  - name: Обход качества Twitch
     type: select
+    include-all-proxies: true
     proxies:
       - auto
       - PROXY
       - DIRECT
-
-  - name: "☁️ Cloudflare WARP"
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/twitch-icon.svg
+  - name: Игры
     type: select
+    include-all-proxies: true
     proxies:
       - auto
       - PROXY
       - DIRECT
-
-  - name: "🔍 IP Check"
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/steampowered-icon.svg
+  - name: YouTube
     type: select
-    proxies:
-      - DIRECT
-      - auto
-      - PROXY
-
-  - name: "🌍 GLOBAL"
-    type: select
-    proxies:
-      - PROXY
-      - auto
-      - DIRECT
-
-  - name: "📺 YouTube"
-    type: select
+    include-all-proxies: true
     proxies:
       - auto
       - PROXY
       - DIRECT
-
-  - name: "💬 Telegram"
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/youtube-icon.svg
+  - name: Discord
     type: select
+    include-all-proxies: true
     proxies:
       - auto
       - PROXY
       - DIRECT
-
-  - name: "📷 Instagram"
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/discord-icon.svg
+  - name: Telegram
     type: select
+    include-all-proxies: true
     proxies:
       - auto
       - PROXY
       - DIRECT
-
-  - name: "🤖 OpenAI"
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/telegram-icon.svg
+  - name: Meta
     type: select
+    include-all-proxies: true
     proxies:
       - auto
       - PROXY
       - DIRECT
-
-  - name: "🔓 Без VPN"
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/meta-icon.svg
+  - name: Геоблок
     type: select
+    include-all-proxies: true
+    proxies:
+      - auto
+      - PROXY
+      - DIRECT
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/geoblock-icon.svg
+  - name: AI
+    type: select
+    include-all-proxies: true
+    proxies:
+      - auto
+      - PROXY
+      - DIRECT
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/openai-icon.svg
+  - name: Torrent
+    type: select
+    include-all-proxies: true
     proxies:
       - DIRECT
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/torrent-icon.svg
+  - name: Все остальное
+    type: select
+    include-all-proxies: true
+    proxies:
+      - auto
+      - PROXY
+      - DIRECT
+    icon: https://raw.githubusercontent.com/codelabhq/icons/main/global-icon.svg
+  - name:  Блок
+    type: select
     hidden: true
-
-  - name: "⛔ Блок"
-    type: select
     proxies:
       - REJECT
+  - name: ⏭️ Пропуск
+    type: select
     hidden: true
+    proxies:
+      - PASS
+
 rules:
-  - DOMAIN-SUFFIX,ip-api.com,🔍 IP Check
-  - DOMAIN-SUFFIX,ipapi.co,🔍 IP Check
-  - DOMAIN-SUFFIX,ipinfo.io,🔍 IP Check
-  - DOMAIN-SUFFIX,2ip.ru,🔍 IP Check
-  - DOMAIN-SUFFIX,whoer.net,🔍 IP Check
-  - DOMAIN-SUFFIX,whatismyip.com,🔍 IP Check
-  - DOMAIN-SUFFIX,myip.com,🔍 IP Check
-  - DOMAIN-SUFFIX,ip-check.info,🔍 IP Check
-  - DOMAIN-SUFFIX,cloudflare.com,☁️ Cloudflare WARP
-  - DOMAIN-SUFFIX,cloudflare-dns.com,☁️ Cloudflare WARP
-  - DOMAIN-SUFFIX,cloudflare.net,☁️ Cloudflare WARP
-  - DOMAIN-SUFFIX,cloudflareclient.com,☁️ Cloudflare WARP
-  - DOMAIN-SUFFIX,cloudflare-ipfs.com,☁️ Cloudflare WARP
-  - DOMAIN-SUFFIX,warp.plus,☁️ Cloudflare WARP
-  - DOMAIN-SUFFIX,discord.com,🎮 Discord
-  - DOMAIN-SUFFIX,discord.gg,🎮 Discord
-  - DOMAIN-SUFFIX,discordapp.com,🎮 Discord
-  - DOMAIN-SUFFIX,discordapp.net,🎮 Discord
-  - DOMAIN-SUFFIX,discordcdn.com,🎮 Discord
-  - DOMAIN-SUFFIX,discord.media,🎮 Discord
-  - DOMAIN-KEYWORD,discord,🎮 Discord
-  - DOMAIN-SUFFIX,t.me,💬 Telegram
-  - DOMAIN-SUFFIX,telegram.org,💬 Telegram
-  - DOMAIN-SUFFIX,telegram.me,💬 Telegram
-  - DOMAIN-SUFFIX,telegram.dog,💬 Telegram
-  - DOMAIN-SUFFIX,telesco.pe,💬 Telegram
-  - IP-CIDR,91.108.4.0/22,💬 Telegram,no-resolve
-  - IP-CIDR,91.108.8.0/22,💬 Telegram,no-resolve
-  - IP-CIDR,91.108.12.0/22,💬 Telegram,no-resolve
-  - IP-CIDR,91.108.16.0/22,💬 Telegram,no-resolve
-  - IP-CIDR,91.108.20.0/22,💬 Telegram,no-resolve
-  - IP-CIDR,91.108.56.0/22,💬 Telegram,no-resolve
-  - IP-CIDR,95.161.64.0/20,💬 Telegram,no-resolve
-  - IP-CIDR,149.154.160.0/20,💬 Telegram,no-resolve
-  - IP-CIDR6,2001:67c:4e8::/48,💬 Telegram,no-resolve
-  - IP-CIDR6,2001:b28:f23d::/48,💬 Telegram,no-resolve
-  - IP-CIDR6,2001:b28:f23f::/48,💬 Telegram,no-resolve
-  - DOMAIN-SUFFIX,googlevideo.com,📺 YouTube
-  - DOMAIN-SUFFIX,youtube.com,📺 YouTube
-  - DOMAIN-SUFFIX,ytimg.com,📺 YouTube
-  - DOMAIN-SUFFIX,ggpht.com,📺 YouTube
-  - DOMAIN-SUFFIX,instagram.com,📷 Instagram
-  - DOMAIN-SUFFIX,cdninstagram.com,📷 Instagram
-  - DOMAIN-SUFFIX,openai.com,🤖 OpenAI
-  - DOMAIN-SUFFIX,chatgpt.com,🤖 OpenAI
-  - DOMAIN-KEYWORD,openai,🤖 OpenAI
-  - DOMAIN-KEYWORD,claude,🤖 OpenAI
-  - GEOSITE,category-ru,🌍 GLOBAL
-  - GEOIP,RU,🌍 GLOBAL
-  - DOMAIN-SUFFIX,yandex.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,yandex.net,🌍 GLOBAL
-  - DOMAIN-SUFFIX,yandex.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,vk.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,vk.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,mail.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,ok.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,rutube.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,sberbank.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,tinkoff.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,gosuslugi.ru,🌍 GLOBAL
-  - DOMAIN-SUFFIX,steampowered.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,steamcommunity.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,epicgames.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,battle.net,🌍 GLOBAL
-  - DOMAIN-SUFFIX,xbox.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,playstation.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,riotgames.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,leagueoflegends.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,fbcdn.net,🌍 GLOBAL
-  - DOMAIN-SUFFIX,twitter.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,x.com,🌍 GLOBAL
-  - DOMAIN-SUFFIX,twimg.com,🌍 GLOBAL
+  - RULE-SET,private-ips,DIRECT,no-resolve
+  - RULE-SET,private-domains,DIRECT
+  # === РУССКИЕ САЙТЫ И ПРИЛОЖЕНИЯ ===
+  - RULE-SET,category-ru,DIRECT
+  - RULE-SET,whitelist,DIRECT
+  - RULE-SET,direct-ips,DIRECT,no-resolve
+  # === TELEGRAM ===
+  - RULE-SET,telegram,Telegram
+  # === БЛОКИРОВКА БЕСПОЛЕЗНОЙ РЕКЛАМЫ TWITCH ===
+  - DOMAIN-SUFFIX,adserver.twitch.tv,REJECT
+  - DOMAIN-SUFFIX,ads.twitch.tv,REJECT
+  - DOMAIN-KEYWORD,twitch-ads,REJECT
+  - DOMAIN-KEYWORD,amazon-adsystem,REJECT
+  # === ОБХОД ОГРАНИЧЕНИЯ КАЧЕСТВА TWITCH ===
+  - DOMAIN-SUFFIX,usher.ttvnw.net,Обход качества Twitch
+  - DOMAIN-SUFFIX,gql.twitch.tv,Обход качества Twitch
+  # === ОСТАЛЬНЫЙ ТРАФИК TWITCH — НАПРЯМУЮ ===
+  - DOMAIN-SUFFIX,twitch.tv,DIRECT
+  - DOMAIN-SUFFIX,ttvnw.net,DIRECT
+  - DOMAIN-SUFFIX,jtvnw.net,DIRECT
+  # === ОСТАЛЬНЫЕ СЕРВИСЫ ===
+  - RULE-SET,youtube,YouTube
+  - RULE-SET,discord,Discord
+  - RULE-SET,ai,AI
+  - RULE-SET,meta,Meta,no-resolve
+  - RULE-SET,twitter,Геоблок
+  - RULE-SET,tiktok,Геоблок
+  - RULE-SET,netflix,Геоблок
+  - RULE-SET,porno,Геоблок
+  - RULE-SET,torrent,Torrent
+  - RULE-SET,tools,Геоблок
+  - RULE-SET,socials,Геоблок
+  - RULE-SET,music,Геоблок
+  - RULE-SET,games,Геоблок
+  - RULE-SET,Ubisoft,Игры
+  - RULE-SET,EA,Игры
+  - RULE-SET,Blizzard,Игры
+  - RULE-SET,Epic,Игры
+  - DOMAIN-KEYWORD,notion,Геоблок
+  - DOMAIN-SUFFIX,ntc.party,PROXY
+  # === СЛУЖЕБНЫЙ ТРАФИК GOOGLE И CHROME ===
+  - DOMAIN-SUFFIX,googleapis.com,DIRECT
+  - DOMAIN-SUFFIX,gstatic.com,DIRECT
+  - DOMAIN-SUFFIX,google.com,DIRECT
+  - DOMAIN-KEYWORD,chrome,DIRECT
+  # === Activision и матчмейкинг ===
+  - DOMAIN-SUFFIX,activision.com,Игры
+  - DOMAIN-SUFFIX,callofduty.com,Игры
+  - DOMAIN-SUFFIX,demonware.net,Игры
+  - DOMAIN-SUFFIX,mw3.demonware.net,Игры
+  # === Apple ===
+  - DOMAIN-SUFFIX,apple.com,PROXY
+  # === ОБХОД БЛОКИРОВОК РКН ===
+  - RULE-SET,HODCA,PROXY
   - MATCH,DIRECT

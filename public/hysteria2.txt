@@ -1,10 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-01 / 03:32 (Moscow)
-# Количество: 6
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@nlb4.mangshe.xyz:2056?insecure=1&sni=nlb4.mangshe.xyz#🇩🇪_ping_371ms_speed_12.2Mbps
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#🇸🇬_ping_585ms_speed_12.7Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_642ms_speed_17.6Mbps
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_802ms_speed_0.6Mbps
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#🇰🇷_ping_991ms
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰_ping_2860ms_speed_8.0Mbps
+# Date/Time: 2026-09-01 / 04:17 (Moscow)
+# Количество: 7
+hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443/?insecure=0&sni=se.allgoodvpn.su#🇸🇪_ping_264ms_speed_26.1Mbps
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#🇸🇬_ping_593ms
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#🇳🇱_ping_1225ms_speed_12.5Mbps
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_1981ms_speed_0.8Mbps
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#🇰🇷_ping_2555ms
+hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160?sni=www.bing.com&insecure=1#🇸🇬_ping_3177ms_speed_0.5Mbps
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰_ping_3235ms_speed_6.0Mbps

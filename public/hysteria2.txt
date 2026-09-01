@@ -1,7 +1,9 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-01 / 04:59 (Moscow)
-# Количество: 3
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@nlb4.mangshe.xyz:2056?insecure=1&sni=nlb4.mangshe.xyz#🇩🇪_ping_510ms_speed_10.3Mbps
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?insecure=1&sni=sg1.xiaoliyu.cyou#🇸🇬_ping_1007ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1877ms
+# Date/Time: 2026-09-01 / 05:45 (Moscow)
+# Количество: 5
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#🇳🇱_ping_189ms
+hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#🇷🇺_ping_267ms_speed_22.1Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@nlb4.mangshe.xyz:2056?insecure=1&sni=nlb4.mangshe.xyz#🇩🇪_ping_271ms_speed_12.1Mbps
+hysteria2://0f8c0e93-1b91-456c-b0a0-58568ac0f690@31.177.111.70:8001/?sni=api.unio.finance&fm=%7B%22quicParams%22%3A%7B%22maxIdleTimeout%22%3A20%2C%22keepAlivePeriod%22%3A3%2C%22maxStreamReceiveWindow%22%3A26843545%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initStreamReceiveWindow%22%3A26843545%2C%22maxConnectionReceiveWindow%22%3A67108864%2C%22initConnectionReceiveWindow%22%3A67108864%7D%7D#🇩🇪_ping_285ms_speed_7.0Mbps_out🇩🇪
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=vpn-au-002.fastervpn.world#🇦🇺_ping_971ms

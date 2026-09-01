@@ -1,9 +1,11 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-01 / 06:30 (Moscow)
-# Количество: 5
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee1.sferavpn.pro#🇪🇪_ping_240ms_speed_26.8Mbps
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@nlb4.mangshe.xyz:2056?insecure=1&sni=nlb4.mangshe.xyz#🇩🇪_ping_302ms_speed_9.0Mbps
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_624ms_speed_3.1Mbps
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#🇰🇷_ping_972ms
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast93.screw.page:443?sni=fast93.screw.page&fm={#🇩🇪_ping_2417ms_speed_15.3Mbps_out🇩🇪
+# Date/Time: 2026-09-01 / 07:14 (Moscow)
+# Количество: 7
+hysteria2://kVfzhSpshc@hys1.wba-pn.ru:443?insecure=0&security=tls&sni=hys1.wba-pn.ru#🇳🇱_ping_167ms_speed_7.6Mbps
+hysteria2://c-E0lamG8OnEj9M_uh3oJPmIXqYIVGctO-NHELF1TmNYs7Jl@fast.news.gazette.help:443?sni=cz.h2.cleanersaz.help&alpn=h3#🇨🇿_ping_306ms_speed_8.9Mbps_out🇨🇿
+hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#🇰🇷_ping_827ms
+hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?insecure=1#🇺🇸_ping_1184ms_speed_3.6Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_2087ms_speed_3.8Mbps
+hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast93.screw.page:443?sni=fast93.screw.page&fm={#🇩🇪_ping_2734ms_speed_27.9Mbps_out🇩🇪
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#🇰🇷_ping_3325ms

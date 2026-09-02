@@ -1,0 +1,63 @@
+# profile-title: TELEGRAM PIN
+# profile-update-interval: 1
+# Date/Time: 2026-09-02 / 22:29 (Moscow)
+# Количество: 59
+📌 FLAREFEED — рабочие ссылки
+проверено с VPS (Москва): контент сверен по md5
+
+⚡ FASTEST 100 (телефон / NekoBox / Clash):
+• CF Workers: https://vless.svinakraft.workers.dev/fastest.txt
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt
+• githack: https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/fastest.txt
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt
+
+📦 PODPISKA (все прокси):
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt
+• githack: https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt
+
+🖥 Clash PC:
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/clash/ClashPC.yaml
+• githack: https://raw.githack.com/svinakraft-maker/FlareFeed/main/clash/ClashPC.yaml
+• jsdelivr: https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/clash/ClashPC.yaml
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/clash/ClashPC.yaml
+
+📱 Clash телефон:
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/clash/ClashFone.yaml
+• githack: https://raw.githack.com/svinakraft-maker/FlareFeed/main/clash/ClashFone.yaml
+• jsdelivr: https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/clash/ClashFone.yaml
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/clash/ClashFone.yaml
+
+🛡 Clash роутер (OpenWrt/Keenetic):
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/clash/openwrtXkeenetic.yaml
+• githack: https://raw.githack.com/svinakraft-maker/FlareFeed/main/clash/openwrtXkeenetic.yaml
+• jsdelivr: https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/clash/openwrtXkeenetic.yaml
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/clash/openwrtXkeenetic.yaml
+
+📂 vless:
+• CF Workers: https://vless.svinakraft.workers.dev/vless.txt
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/vless.txt
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/vless.txt
+
+📂 trojan:
+• CF Workers: https://vless.svinakraft.workers.dev/trojan.txt
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/trojan.txt
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/trojan.txt
+
+📂 ss:
+• CF Workers: https://vless.svinakraft.workers.dev/ss.txt
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/ss.txt
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/ss.txt
+
+📂 vmess:
+• CF Workers: https://vless.svinakraft.workers.dev/vmess.txt
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/vmess.txt
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/vmess.txt
+
+📂 hysteria2:
+• CF Workers: https://vless.svinakraft.workers.dev/hysteria2.txt
+• GitHub raw: https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/hysteria2.txt
+• gh-proxy: https://gh-proxy.com/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/hysteria2.txt
+
+💡 Подписку вставляй в NekoBox / v2rayNG / Clash Verge.
+Clash-конфиги — просто добавь файл как профиль.

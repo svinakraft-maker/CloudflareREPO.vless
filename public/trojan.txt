@@ -1,27 +1,28 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-09-02 / 16:55 (Moscow)
-# Количество: 23
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_520ms
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#🇺🇸_ping_590ms
-trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_636ms_out🇺🇸
-trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#🇯🇵_ping_653ms
-trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls#🇸🇬_ping_654ms
-trojan://AE62539071@bright-baboon.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_684ms_out🇺🇸
-trojan://b5772a33-e151-4afa-b59c-7a7696f4819c@hk200m.jiasu.asia:50000?sni=hk200m.jiasu.asia&type=tcp&fp=chrome#🇺🇸_ping_698ms_speed_5.0Mbps
-trojan://AE62539071@simple-rodent.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬_ping_702ms_out🇸🇬
-trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬_ping_704ms_out🇸🇬
+# Date/Time: 2026-09-02 / 17:39 (Moscow)
+# Количество: 24
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http/1.1&fp=firefox#🇬🇧_ping_451ms_speed_0.4Mbps
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#🇺🇸_ping_511ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#🇺🇸_ping_602ms
+trojan://AE62539071@bright-baboon.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_656ms_out🇺🇸
+trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_666ms_out🇺🇸
+trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#🇯🇵_ping_670ms
+trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬_ping_702ms_out🇸🇬
+trojan://bb75329a-2aeb-4958-a4b5-bab934e90294@hk200m.jiasu.asia:50000?sni=hk200m.jiasu.asia&type=tcp&fp=chrome#🇺🇸_ping_708ms
+trojan://AE62539071@simple-rodent.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬_ping_717ms_out🇸🇬
 trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#🇰🇷_ping_727ms
+trojan://136a3686-892c-4d09-8937-eacdf688810d@hk200m.jiasu.asia:50000?sni=hk200m.jiasu.asia&type=tcp&fp=chrome#🇺🇸_ping_728ms_speed_3.9Mbps
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_742ms_out🇺🇸
 trojan://AE62539071@liked-serval.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_746ms_out🇺🇸
-trojan://bd1eca7a-856e-452e-b613-141fe830cd13@hk200m.jiasu.asia:50000?sni=hk200m.jiasu.asia&type=tcp&fp=chrome#🇭🇰_ping_756ms_speed_7.4Mbps_out🇭🇰
-trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸_ping_770ms_out🇺🇸
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪_ping_798ms_out🇩🇪
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?security=tls#🇯🇵_ping_830ms
-trojan://AE62539071@funny-hen.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪_ping_856ms_out🇮🇪
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_866ms_out🇫🇷
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_ping_898ms_out🇫🇷
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷_ping_940ms_out🇫🇷
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#🇭🇰_ping_1011ms
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪_ping_1808ms_out🇮🇪
-trojan://humanity@185.75.243.102:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=android#🇫🇷_ping_2237ms_speed_9.8Mbps_out🇫🇷
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=/trojan&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇮🇩_ping_2275ms_speed_12.9Mbps_out🇮🇩
+trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls#🇸🇬_ping_774ms
+trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪_ping_779ms_out🇩🇪
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪_ping_819ms_out🇮🇪
+trojan://AE62539071@funny-hen.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇪_ping_824ms_out🇮🇪
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?security=tls#🇯🇵_ping_836ms
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷_ping_840ms_out🇫🇷
+trojan://acaadfd9-629d-499d-88b6-d5bc1a3f6337@hk200m.jiasu.asia:50000?sni=hk200m.jiasu.asia&type=tcp&fp=chrome#🇭🇰_ping_878ms_speed_7.8Mbps_out🇭🇰
+trojan://28cfb353-72ba-44db-83a2-29c6c3177ed1@hk200m.jiasu.asia:50000?sni=hk200m.jiasu.asia&type=tcp&fp=chrome#🇭🇰_ping_881ms_speed_7.4Mbps_out🇭🇰
+trojan://humanity@185.75.243.102:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=android#🇫🇷_ping_1047ms_speed_11.2Mbps_out🇫🇷
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#🇭🇰_ping_1088ms
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=/trojan&security=tls&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇮🇩_ping_1224ms_speed_7.5Mbps_out🇮🇩

@@ -1,16 +1,10 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-02 / 19:57 (Moscow)
-# Количество: 12
-hysteria2://ca4f51fcfae16c802d52@x-ui-ge.havalvpn.ru:44312?sni=x-ui-ge.havalvpn.ru#🇳🇱_ping_162ms_speed_18.5Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.153.59.21:443?insecure=1&sni=vpn-de-001.fastervpn.world#🇩🇪_ping_181ms_speed_23.5Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇩🇪_ping_234ms_speed_3.8Mbps
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#🇷🇺_ping_467ms_speed_22.1Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#🇬🇧_ping_1231ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_1242ms_speed_10.1Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳_ping_1519ms_speed_12.3Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1615ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#🇺🇸_ping_1845ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1847ms_speed_9.7Mbps
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.189.148:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1932ms
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#🇨🇭_ping_1934ms_speed_1.0Mbps
+# Date/Time: 2026-09-02 / 20:43 (Moscow)
+# Количество: 6
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇦🇺_ping_1010ms_speed_10.5Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#🇰🇷_ping_1074ms
+hysteria2://ca4f51fcfae16c802d52@x-ui-ge.havalvpn.ru:44312?sni=x-ui-ge.havalvpn.ru#🇳🇱_ping_1217ms_speed_25.1Mbps
+hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160?insecure=1&sni=www.bing.com#🇸🇬_ping_1870ms_speed_1.1Mbps
+hysteria2://44eb80266efef2761a2b@x-ui.havalvpn.ru:27955?sni=x-ui.havalvpn.ru#🇮🇷_ping_2297ms_speed_15.5Mbps
+hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#🇭🇰_ping_5758ms_speed_0.0Mbps

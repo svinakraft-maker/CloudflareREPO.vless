@@ -1,6 +1,6 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-03 / 23:44 (Moscow)
+# Date/Time: 2026-09-03 / 23:53 (Moscow)
 # Количество: 19
 hysteria2://cc8b3b88-4ce7-4420-9793-c230f1191246@87.229.95.140:443?obfs=salamander&obfs-password=i5mjtZaeVza5scg3&sni=55127e420fe3nl1.587458.xyz#🇳🇱_ping_78ms_speed_14.9Mbps
 hysteria2://e11728c3-a786-44b9-ad8b-0b7e738d33bd@2.26.93.130:443?sni=se1.hat.onl#🇺🇸_ping_119ms_speed_25.9Mbps

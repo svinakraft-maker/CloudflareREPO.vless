@@ -1,8 +1,16 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-03 / 19:48 (Moscow)
-# Количество: 4
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@dg1.mangshe.xyz:2056?insecure=1#🇭🇰_ping_888ms_speed_0.4Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1#🇨🇦_ping_973ms_speed_17.6Mbps
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?sni=sg1.xiaoliyu.cyou&insecure=1#🇸🇬_ping_1050ms
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_2414ms_speed_1.1Mbps
+# Date/Time: 2026-09-03 / 21:11 (Moscow)
+# Количество: 12
+hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#🇷🇺_ping_318ms_speed_20.8Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.189.148:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_816ms_speed_10.8Mbps
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_1535ms_speed_1.8Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=1&sni=de1.sferavpn.pro#🇩🇪_ping_2017ms_speed_0.3Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@dg1.mangshe.xyz:2056?insecure=1#🇭🇰_ping_2223ms_speed_0.4Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_2398ms_speed_0.8Mbps
+hysteria2://c8a6d478-b169-4f00-880a-0c6b38f0ee61@87.229.95.140:443?obfs=salamander&obfs-password=i5mjtZaeVza5scg3&sni=55127e420fe3nl1.587458.xyz#🇳🇱_ping_2405ms_speed_8.1Mbps
+hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee1.sferavpn.pro#🇪🇪_ping_2529ms_speed_3.7Mbps
+hysteria2://aa297f2a-42b2-440e-80cc-5c758f5f1003@87.229.95.140:443?obfs=salamander&obfs-password=i5mjtZaeVza5scg3&sni=55127e420fe3nl1.587458.xyz#🇳🇱_ping_4486ms_speed_9.5Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1#🇨🇦_ping_4573ms
+hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com#🇭🇰_ping_5221ms_speed_0.0Mbps
+hy2://afa31ea7-0b97-4bc9-b043-daaeca4aef70@87.229.95.140:443?sni=55127e420fe3nl1.587458.xyz&obfs=salamander&obfs-password=i5mjtZaeVza5scg3#🇳🇱_ping_9546ms_speed_25.1Mbps

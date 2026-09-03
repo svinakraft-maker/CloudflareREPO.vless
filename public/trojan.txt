@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-09-03 / 17:03 (Moscow)
+# Date/Time: 2026-09-03 / 17:31 (Moscow)
 # Количество: 25
 trojan://c0c17d1da2c2c9299d5094c8@www.speedtest.net:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=ez-3e9698.ezaccess1ec1f0c.workers.dev&path=/eyJqdW5rIjoia1pyRFFaUlU0eSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=ez-3e9698.ezaccess1ec1f0c.workers.dev&type=ws#🇸🇪_ping_135ms_out🇸🇪
 trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls#🇸🇬_ping_652ms

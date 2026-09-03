@@ -1,13 +1,10 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-03 / 05:16 (Moscow)
-# Количество: 9
-hy2://afa31ea7-0b97-4bc9-b043-daaeca4aef70@87.229.95.140:443?sni=55127e420fe3nl1.587458.xyz&obfs=salamander&obfs-password=i5mjtZaeVza5scg3#🇳🇱_ping_520ms_speed_1.8Mbps
-hysteria2://cc8b3b88-4ce7-4420-9793-c230f1191246@87.229.95.140:443?obfs=salamander&obfs-password=i5mjtZaeVza5scg3&sni=55127e420fe3nl1.587458.xyz#🇳🇱_ping_670ms_speed_1.4Mbps
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_939ms_speed_0.6Mbps
-hysteria2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160?insecure=1&sni=www.bing.com#🇯🇵_ping_1082ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_1168ms_speed_8.3Mbps
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_1352ms_speed_11.7Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_2038ms_speed_23.2Mbps
-hysteria2://yalx0jCCiWDGCwK5WizqUr6N@103.158.117.74:51887?insecure=1&obfs=salamander&obfs-password=yalx0jCCiWDGCwK5WizqUr6N&sni=www.microsoft.com#🇭🇰_ping_2868ms_speed_0.0Mbps
-hysteria2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443?sni=speedtestmark.com#🇱🇻_ping_4066ms_speed_3.3Mbps
+# Date/Time: 2026-09-03 / 05:58 (Moscow)
+# Количество: 6
+hysteria2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@gaming.locallynet.org:5443?sni=gaming.locallynet.org#🇺🇸_ping_172ms_speed_11.1Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443?insecure=1&sni=vpn-kr-003.fastervpn.world#🇰🇷_ping_769ms
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_928ms_speed_0.9Mbps
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#🇰🇷_ping_976ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇦🇺_ping_1183ms_speed_4.8Mbps
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@xg1.mangshe.xyz:2056?insecure=1&security=tls&sni=hdlb1.mangshe.xyz#🇨🇳_🇨🇳_ping_4603ms_speed_0.3Mbps

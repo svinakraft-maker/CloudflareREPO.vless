@@ -1,11 +1,13 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-04 / 06:34 (Moscow)
-# Количество: 7
-hysteria2://afa31ea7-0b97-4bc9-b043-daaeca4aef70@87.229.95.140:443?sni=55127e420fe3nl1.587458.xyz&obfs=salamander&obfs-password=i5mjtZaeVza5scg3#🇳🇱_ping_72ms_speed_16.0Mbps
-hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@193.23.216.87:443?sni=de2.hat.onl#🇩🇪_ping_123ms_speed_28.3Mbps
-hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@144.31.218.147:443?insecure=1&sni=cz1.hat.onl#🇩🇪_ping_204ms_speed_1.7Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳_ping_715ms_speed_8.3Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443?insecure=1&sni=vpn-kr-003.fastervpn.world#🇰🇷_ping_775ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇰🇷_ping_802ms
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#🇦🇺_ping_1176ms_speed_6.2Mbps
+# Date/Time: 2026-09-04 / 08:00 (Moscow)
+# Количество: 9
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#🇳🇱_ping_141ms
+hysteria2://f165967b-5a97-4791-8d19-aefabab31cd8@156.226.169.208:55644?insecure=1&sni=www.bing.com#🇸🇨_ping_542ms_speed_12.5Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#🇮🇳_ping_664ms_speed_15.5Mbps
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_695ms_speed_7.1Mbps
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.189.148:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_784ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇰🇷_ping_788ms
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_ping_822ms
+hysteria2://7027919f-ffc6-4cbf-92a7-af1c0f860b86@144.31.218.147:443?sni=cz1.hat.onl#🇩🇪_ping_840ms_speed_0.6Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=127.0.0.1#🇺🇸_ping_1400ms_speed_17.1Mbps

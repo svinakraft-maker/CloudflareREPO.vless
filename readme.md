@@ -27,25 +27,20 @@
 
 Ссылки — выбирай под свой клиент. Просто скопируй и вставь в VPN‑клиент (Happ, v2rayN, mihomo, Shadowrocket и др.):
 
-### 🌐 ALL — все рабочие серверы
-Полный список живых конфигов после проверки. Для ПК и мощных клиентов.
-
-```text
-https://vless.svinakraft.workers.dev/podpiska.txt
-```
-
-### 📱 MOBILE — топ‑100 самых быстрых
+# 📱 MOBILE — топ‑100 самых быстрых
 Отсортировано по качеству (минимальный пинг + максимальная скорость). **Для телефона и Happ** — лёгкий список, не тормозит импорт.
 
 ```text
 https://vless.svinakraft.workers.dev/fastest.txt
 ```
 
-### 🏳️ WhiteLists — все рабочие обходы глушилок
+## 🌐 ALL — все рабочие серверы
+Полный список живых конфигов после проверки. Для агрегаторов и личной проверки
 
 ```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.txt
+https://vless.svinakraft.workers.dev/podpiska.txt
 ```
+
 
 ### 🇷🇺 ЗЕРКАЛО на Gitverse — если основное не открывается
 Резервные ссылки на российском Gitverse. Работают **без Cloudflare и GitHub** (отдаются напрямую через raw‑API), ASCII‑шапка без кракозябр:
@@ -58,10 +53,7 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.tx
 ```text
 https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt
 ```
-**WhiteLists:**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/whitelist.txt
-```
+
 # Разделение на протоколы
 
 **VLESS**

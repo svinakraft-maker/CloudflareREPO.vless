@@ -2,7 +2,7 @@
 
 # ☁️ FlareFeed ☁️
 # ↘️ПРОКСИ ЗЕРКАЛА И ВСЕ ОБНОВЛЕНИЯ↙️ 
- # https://t.me/FlareFeedtg
+# 💬 https://t.me/FlareFeedtg 💬
 # ↗️ЧАТ И ПРЕДЛОЖЕНИЯ ПО УЛУЧШЕНИЮ↖️
 ### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 

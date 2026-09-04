@@ -1,14 +1,8 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-04 / 03:57 (Moscow)
-# Количество: 10
-hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@144.31.218.147:443?sni=cz1.hat.onl#🇩🇪_ping_178ms_speed_14.5Mbps
-hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@31.76.85.59:443?sni=nl2.hat.onl#🇺🇸_ping_185ms_speed_25.5Mbps
-hysteria2://c8a6d478-b169-4f00-880a-0c6b38f0ee61@87.229.95.140:443?obfs=salamander&obfs-password=i5mjtZaeVza5scg3&sni=55127e420fe3nl1.587458.xyz#🇳🇱_ping_592ms_speed_11.6Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee1.sferavpn.pro#🇪🇪_ping_615ms_speed_9.7Mbps
-hysteria2://7027919f-ffc6-4cbf-92a7-af1c0f860b86@144.31.218.147:443?sni=cz1.hat.onl#🇩🇪_ping_1188ms_speed_19.4Mbps
-hysteria2://e11728c3-a786-44b9-ad8b-0b7e738d33bd@31.76.85.59:443?sni=nl2.hat.onl#🇺🇸_ping_1240ms_speed_26.8Mbps
-hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@2.26.93.130:443?sni=se1.hat.onl#🇺🇸_ping_1267ms_speed_27.0Mbps
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1&sni=mlxy2.mangshe.xyz#🇲🇾_ping_1286ms_speed_3.9Mbps
-hysteria2://e11728c3-a786-44b9-ad8b-0b7e738d33bd@2.26.93.130:443?sni=se1.hat.onl#🇺🇸_ping_2170ms_speed_25.5Mbps
-hysteria2://7027919f-ffc6-4cbf-92a7-af1c0f860b86@31.76.85.59:443?sni=nl2.hat.onl#🇺🇸_ping_2245ms_speed_19.4Mbps
+# Date/Time: 2026-09-04 / 05:15 (Moscow)
+# Количество: 4
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇷🇴_ping_269ms_speed_18.7Mbps
+hysteria2://7027919f-ffc6-4cbf-92a7-af1c0f860b86@144.31.218.147:443?sni=cz1.hat.onl#🇩🇪_ping_349ms_speed_7.2Mbps
+hysteria2://c8a6d478-b169-4f00-880a-0c6b38f0ee61@87.229.95.140:443?obfs=salamander&obfs-password=i5mjtZaeVza5scg3&sni=55127e420fe3nl1.587458.xyz#🇳🇱_ping_391ms_speed_7.3Mbps
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_2709ms_speed_7.8Mbps

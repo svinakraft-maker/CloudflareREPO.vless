@@ -1,9 +1,9 @@
 <div align="center">
 
 # ☁️ FlareFeed ☁️
-# ↘️↘️ПРОКСИ ЗЕРКАЛА И ВСЕ ОБНОВЛЕНИЯ↙️↙️ 
+# ↘️ПРОКСИ ЗЕРКАЛА И ВСЕ ОБНОВЛЕНИЯ↙️ 
  # https://t.me/FlareFeedtg
-# ↗️↗️ЧАТ И ПРЕДЛОЖЕНИЯ ПО УЛУЧШЕНИЮ↖️↖️
+# ↗️ЧАТ И ПРЕДЛОЖЕНИЯ ПО УЛУЧШЕНИЮ↖️
 ### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)

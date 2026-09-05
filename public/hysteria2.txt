@@ -1,40 +1,34 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-05 / 03:40 (Moscow)
-# Количество: 36
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@87.251.17.11:9443?sni=onecloudstream.com#🇫🇮_ping_56ms_speed_10.1Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@87.251.17.12:9443?sni=onecloudstream.com#🇫🇮_ping_70ms_speed_28.1Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.191:9443?sni=onecloudstream.com#🇨🇭_ping_100ms_speed_14.3Mbps_out🇨🇭
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.43:9443?sni=onecloudstream.com#🇨🇭_ping_103ms_speed_27.6Mbps_out🇨🇭
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.46:9443?sni=onecloudstream.com#🇨🇭_ping_105ms_speed_26.2Mbps_out🇨🇭
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.55:9443?sni=onecloudstream.com#🇩🇪_ping_140ms_speed_26.2Mbps
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#🇳🇱_ping_145ms
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.80:9443?sni=onecloudstream.com#🇩🇪_ping_149ms_speed_24.3Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.164:9443?sni=onecloudstream.com#🇩🇪_ping_150ms_speed_27.2Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.67:9443?sni=onecloudstream.com#🇩🇪_ping_169ms_speed_11.3Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.167.24.244:9443?sni=onecloudstream.com#🇩🇪_ping_182ms_speed_20.9Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.83:9443?sni=onecloudstream.com#🇩🇪_ping_186ms_speed_11.2Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=1&sni=de1.sferavpn.pro#🇩🇪_ping_350ms_speed_25.3Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443/?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_470ms_speed_6.5Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@45.145.43.58:9443?sni=onecloudstream.com#🇩🇪_ping_502ms_speed_13.6Mbps
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_675ms_speed_11.3Mbps
-hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160/?insecure=1&sni=www.bing.com#🇸🇬_ping_766ms_speed_5.1Mbps
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_ping_840ms
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@87.251.17.10:9443?sni=onecloudstream.com#🇫🇮_ping_1122ms_speed_20.1Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?sni=onecloudstream.com#🇨🇭_ping_1126ms_speed_9.4Mbps_out🇨🇭
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@194.48.250.8:9443?sni=onecloudstream.com#🇩🇪_ping_1164ms_speed_25.2Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.23:9443?sni=onecloudstream.com#🇨🇭_ping_1169ms_speed_16.3Mbps_out🇨🇭
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.47:9443?sni=onecloudstream.com#🇩🇪_ping_1170ms_speed_20.4Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.66:9443?sni=onecloudstream.com#🇩🇪_ping_1193ms_speed_27.2Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@77.239.126.219:9443?sni=onecloudstream.com#🇪🇪_ping_1263ms_speed_12.6Mbps
-hysteria2://9fd994ad-d36c-476d-96c7-25f10bbdf2cb@fl.larpvpn.space:4434?sni=fl.larpvpn.space#🇫🇮_ping_1345ms_speed_12.6Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@lv02.gotosvo.com:9443?sni=onecloudstream.com#🇨🇭_ping_1457ms_speed_27.0Mbps
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1#🇨🇦_ping_1950ms
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_2119ms_speed_0.5Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.52:9443?sni=onecloudstream.com#🇨🇭_ping_2175ms_speed_26.4Mbps_out🇨🇭
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.42:9443?sni=onecloudstream.com#🇩🇪_ping_2218ms_speed_25.3Mbps
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@87.251.19.11:9443?sni=onecloudstream.com#🇪🇪_ping_2233ms_speed_14.6Mbps
-hysteria2://9fd994ad-d36c-476d-96c7-25f10bbdf2cb@gevip.larpvpn.space:4434?sni=gevip.larpvpn.space#🇩🇪_ping_2236ms_speed_27.2Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@ee1.sferavpn.pro:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ee1.sferavpn.pro#🇪🇪_ping_2313ms_speed_10.6Mbps
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@xg1.mangshe.xyz:2056?insecure=1&sni=hdlb1.mangshe.xyz#🇨🇳_🇨🇳_ping_2643ms_speed_0.4Mbps
-hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com#🇭🇰_ping_3550ms_speed_0.1Mbps
+# Date/Time: 2026-09-05 / 05:03 (Moscow)
+# Количество: 30
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.219:9443?sni=onecloudstream.com#🇱🇻_ping_90ms_speed_22.3Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.52:9443?sni=onecloudstream.com#🇨🇭_ping_105ms_speed_20.5Mbps_out🇨🇭
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.43:9443?sni=onecloudstream.com#🇨🇭_ping_110ms_speed_21.2Mbps_out🇨🇭
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.81:9443?sni=onecloudstream.com#🇨🇭_ping_111ms_speed_10.7Mbps_out🇨🇭
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@lv02.gotosvo.com:9443?sni=onecloudstream.com#🇨🇭_ping_124ms_speed_26.5Mbps_out🇨🇭
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@45.157.235.30:9443?sni=onecloudstream.com#🇩🇪_ping_136ms_speed_23.0Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.53:9443?sni=onecloudstream.com#🇨🇭_ping_139ms_speed_14.7Mbps_out🇨🇭
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.167.24.244:9443?sni=onecloudstream.com#🇩🇪_ping_140ms_speed_14.0Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.80:9443?sni=onecloudstream.com#🇩🇪_ping_148ms_speed_16.2Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.83:9443?sni=onecloudstream.com#🇩🇪_ping_152ms_speed_7.6Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.164:9443?sni=onecloudstream.com#🇩🇪_ping_176ms_speed_20.9Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@87.251.17.10:9443?sni=onecloudstream.com#🇫🇮_ping_253ms_speed_8.0Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@45.145.43.58:9443?sni=onecloudstream.com#🇩🇪_ping_334ms_speed_11.5Mbps
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@uoi.whit3.net:443?sni=uoi.whit3.net#🇳🇱_ping_353ms_speed_16.4Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.23:9443?sni=onecloudstream.com#🇨🇭_ping_366ms_speed_10.6Mbps_out🇨🇭
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@nice-route-nl.whit3.net:443?sni=nice-route-nl.whit3.net#🇳🇱_ping_458ms_speed_9.5Mbps
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@mg-42.whit3.net:443?sni=mg-42.whit3.net#🇪🇪_ping_569ms_speed_7.9Mbps
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:4433?insecure=1&sni=ru1.xiaoliyu.cyou#🇷🇺_ping_603ms_speed_0.4Mbps
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@mywebsite.whit3.net:443?sni=mywebsite.whit3.net#🇹🇷_ping_606ms_speed_5.7Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#🇺🇸_ping_608ms
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#🇩🇪_ping_613ms_speed_4.1Mbps
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=45.88.43.116#🇯🇵_ping_822ms
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@just-do-it.whit3.net:443?sni=just-do-it.whit3.net#🇦🇪_ping_926ms_speed_7.0Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.46:9443?sni=onecloudstream.com#🇨🇭_ping_1166ms_speed_13.9Mbps_out🇨🇭
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@77.239.126.219:9443?sni=onecloudstream.com#🇪🇪_ping_1186ms_speed_21.4Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.42:9443?sni=onecloudstream.com#🇩🇪_ping_1190ms_speed_11.3Mbps
+hysteria2://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@dump.whit3.net:443?sni=dump.whit3.net#🇨🇭_ping_1432ms_speed_7.4Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.59:9443?sni=onecloudstream.com#🇩🇪_ping_1466ms_speed_9.8Mbps
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?insecure=1&sni=sg1.xiaoliyu.cyou#🇸🇬_ping_1706ms_speed_11.3Mbps
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.142:9443?sni=onecloudstream.com#🇨🇭_ping_2170ms_speed_10.7Mbps_out🇨🇭

@@ -1,7 +1,12 @@
 # profile-title: HYSTERIA2
 # profile-update-interval: 1
-# Date/Time: 2026-09-05 / 13:24 (Moscow)
-# Количество: 3
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬_ping_601ms
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_693ms_speed_16.1Mbps
-hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443/?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_2935ms_speed_1.4Mbps
+# Date/Time: 2026-09-05 / 14:45 (Moscow)
+# Количество: 8
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#🇭🇰_ping_689ms_speed_11.4Mbps
+hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&sni=vpn-kr-002.fastervpn.world#🇰🇷_ping_791ms
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1&sni=mlxy2.mangshe.xyz#🇲🇾_ping_966ms_speed_0.3Mbps
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#🇰🇷_ping_1325ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443/?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🇩🇪_ping_1408ms_speed_0.4Mbps
+hysteria2://yalx0jCCiWDGCwK5WizqUr6N@103.158.117.74:51887?insecure=1&obfs=salamander&obfs-password=yalx0jCCiWDGCwK5WizqUr6N&sni=www.microsoft.com#🇭🇰_ping_2170ms_speed_0.5Mbps
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1#🇨🇦_ping_2490ms_speed_5.2Mbps
+hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com#🇭🇰_ping_5438ms_speed_0.0Mbps

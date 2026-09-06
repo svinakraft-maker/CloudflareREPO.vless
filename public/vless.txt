@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 11:45 (Moscow)
+# Date/Time: 2026-09-06 / 12:48 (Moscow)
 # Количество: 134
 vless://2feda6f7-8baa-4591-a851-1e2037a58572@31.77.111.31:43435?type=grpc&security=reality&sni=cdn.higames.ru&fp=firefox&pbk=mc5GFUALNT1V4TgYZ4OWJHB2DQ-G-b4qLYsRlgWB-VQ&sid=37dc4f92a7470fa0&serviceName=api#ping_211ms_speed_25.3Mbps
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@46.224.1.83:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#ping_122ms_speed_22.9Mbps

@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 11:45 (Moscow)
+# Date/Time: 2026-09-06 / 12:48 (Moscow)
 # Количество: 334
 trojan://FH72359861@worthy-perch.rooster465.autos:443?security=tls#ping_1302ms_speed_-1.0Mbps
 trojan://PQ05174892@adapted-worm.rooster465.autos:443?type=tcp&security=tls&sni=adapted-worm.rooster465.autos&fp=chrome#ping_213ms_speed_-1.0Mbps

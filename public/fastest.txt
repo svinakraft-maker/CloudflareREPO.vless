@@ -1,6 +1,6 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 19:04 (Moscow)
+# Date/Time: 2026-09-06 / 19:56 (Moscow)
 # Количество: 100
 vless://0325e30e-7505-477e-aa32-7f73a3cc0153@cdn2-51.cdn-vkvideo.com:443?type=tcp&security=reality&sni=cdn2-51.cdn-vkvideo.com&fp=firefox&pbk=5mfLd7cQ9DsVW2_cHPPucMWv9MDN1kW6JORPNZIAyy8&sid=b0d8f964b7ac8ac9&flow=xtls-rprx-vision#ping_2002ms_speed_32.6Mbps
 vless://14409b0c-2091-4bc7-9845-2485a31ac38a@138.124.28.79:443?type=tcp&security=reality&sni=doich.stopingiphatered.shop&fp=firefox&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&sid=0c13e8822e7f58aa&flow=xtls-rprx-vision#ping_159ms_speed_29.4Mbps
@@ -35,18 +35,6 @@ vless://14409b0c-2091-4bc7-9845-2485a31ac38a@31.76.62.250:443?type=tcp&security=
 vmess://eyJhZGQiOiIxMDcuMTcyLjc1LjE0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDJjNjdhOC1kNzY5LTRkNzMtODMzYS1hYjZhY2RiODZlNmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#ping_791ms_speed_2.1Mbps
 vless://db04ac87-08bb-49a9-9deb-556fe915892e@172.64.229.236:443?encryption=none&security=tls&sni=ap-south.xhs152.shop&fp=random&type=ws&host=ap-south.xhs152.shop&path=/announcement?ed=2048#ping_824ms_speed_2.1Mbps
 vless://a2d7890a-5451-4470-9300-a059792924bb@49.50.76.194:443?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#ping_2667ms_speed_2.0Mbps
-vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#ping_753ms_speed_1.9Mbps
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.17.152.64:2053?encryption=none&security=tls&sni=us.105794.xyz&fp=chrome&type=ws&host=us.105794.xyz&path=/download/v3/installer-x64.bin#ping_4374ms_speed_1.8Mbps
-vless://30980395-1884-483f-95d1-2b7c26928e3c@Fi.horlutr.ir:11437?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&sid=7de83d0e31eb75ef#ping_324ms_speed_1.5Mbps
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.20.30.31:2053?security=tls&type=ws&path=/download/v3/installer-x64.bin&host=us.105794.xyz&sni=us.105794.xyz&fp=edge&encryption=none#ping_5212ms_speed_1.5Mbps
-vless://cbf3b4be-b3a8-4f70-bd28-988e72f7d46d@x9f2.guiming.net:8443?encryption=none&security=tls&sni=x9f2.guiming.net&type=ws&host=x9f2.guiming.net&path=/d8f3k2m9#ping_618ms_speed_1.0Mbps
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSEsgfCBwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIHwgVk1FU1MgW0NFN0FdIHwgQFNjRGV2TmV0d29yayIsImFkZCI6IjE0My4xNC4xODkuMTI1IiwicG9ydCI6IjIxMzE2IiwiaWQiOiIxMTZmNmVjZC0yNzVlLTRiNTAtOTIxZC03ODBlNzhhNTI2Y2IiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImhvc3QiOiJwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIiwicGF0aCI6Ii8ifQ#ping_721ms_speed_0.6Mbps
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVEggfCAxMTguMTkzLjU3LjE2NyB8IFZNRVNTIFswNUJFXSB8IEBTY0Rldk5ldHdvcmsiLCJhZGQiOiIxMTguMTkzLjU3LjE2NyIsInBvcnQiOiI0OTY2NyIsImlkIjoiZDQ2YmY0OTItNDVmNC00YzMzLTgyZDEtZWEyYTFjYjU0ZWI2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJwYXRoIjoiL2Q0NmJmNDkyIiwiaW5zZWN1cmUiOiIwIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#ping_738ms_speed_0.6Mbps
-vless://48e84fcc-ecb1-48a3-a596-88fea84887f5@129.154.192.50:2053?flow=xtls-rprx-vision&fp=chrome&pbk=oBYxqt4GNTWrmvHRHM_6SAVj_yy95lXtQ0NLd1QWQDU&security=reality&sid=dea6d68a3f6f96e3&sni=www.ibm.com#ping_2347ms_speed_0.5Mbps
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t17.qifei.app:443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&flow=xtls-rprx-vision#ping_758ms_speed_0.3Mbps
-vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?type=tcp&security=reality&path=%2F&host=www.cloudflare.com&sni=www.cloudflare.com&fp=chrome&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw&sid=94c8a1b378da7250&flow=xtls-rprx-vision#ping_1192ms_speed_0.2Mbps
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.62.90:443?type=tcp&security=reality&sni=www.amazon.com&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&flow=xtls-rprx-vision#ping_1601ms_speed_0.2Mbps
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@95.163.232.171:14443?encryption=none&host=pr-media.pepro.site&path=%2Fws&security=tls&sni=pr-media.pepro.site&type=ws&fp=firefox#ping_2444ms_speed_0.2Mbps
 vless://106b0505-da24-4ae4-b22c-302ab814f6f4@79.137.192.188:2200?type=ws&path=%2Fv1&host=rzd.ru#ping_53ms_speed_-1.0Mbps
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.121.241:22222?encryption=none&security=none&type=tcp#ping_95ms_speed_-1.0Mbps
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.121.241:22223?encryption=none&security=none&type=tcp#ping_103ms_speed_-1.0Mbps
@@ -67,6 +55,7 @@ trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-
 trojan://PQ05174892@apparent-wasp.rooster465.autos:443?security=tls#ping_268ms_speed_-1.0Mbps
 trojan://AE62539071@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#ping_282ms_speed_-1.0Mbps
 trojan://CF68213490@careful-penguin.rooster465.autos:443?security=tls#ping_308ms_speed_-1.0Mbps
+vless://30980395-1884-483f-95d1-2b7c26928e3c@Fi.horlutr.ir:11437?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&sid=7de83d0e31eb75ef#ping_324ms_speed_1.5Mbps
 trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?security=tls#ping_417ms_speed_-1.0Mbps
 vless://903bb12e-ac86-414c-adf1-b9c41e213da8@104.17.108.59:443?mode=0&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=sire.allomroll.org#ping_485ms_speed_-1.0Mbps
 trojan://HC04361579@renewing-ewe.rooster465.autos:443?security=tls&amp;sni=renewing-ewe.rooster465.autos&amp;type=tcp&amp;path=%2f#ping_579ms_speed_-1.0Mbps
@@ -81,6 +70,7 @@ trojan://AE62539071@pleased-pelican.rooster465.autos:443?security=tls#ping_615ms
 trojan://AE62539071@joint-ewe.rooster465.autos:443?security=tls#ping_616ms_speed_-1.0Mbps
 trojan://PQ05174892@concise-guinea.rooster465.autos:443?type=raw&headerType=none&security=tls#ping_616ms_speed_-1.0Mbps
 vless://d9d0f208-d582-41d5-bb7b-742671402810@ovk6lv4rlvi.vpvr4ib84nuv6hdkt.ru:3077?fp=chrome&sni=ovk6lv4rlvi.vpvr4ib84nuv6hdkt.ru&pbk=8GnxB0ZZX6eYKsl03bD3xyEmu-_kAGQ2EcfTMa-KQSw&sid=751c96d1e4ccfdb7&flow=xtls-rprx-vision&type=tcp&security=reality&headerType=none&encryption=none#ping_616ms_speed_-1.0Mbps
+vless://cbf3b4be-b3a8-4f70-bd28-988e72f7d46d@x9f2.guiming.net:8443?encryption=none&security=tls&sni=x9f2.guiming.net&type=ws&host=x9f2.guiming.net&path=/d8f3k2m9#ping_618ms_speed_1.0Mbps
 trojan://EQ30679154@brave-tomcat.rooster465.autos:443?security=tls#ping_619ms_speed_-1.0Mbps
 trojan://AE62539071@fun-poodle.rooster465.autos:443?security=tls#ping_622ms_speed_-1.0Mbps
 trojan://AE62539071@literate-cow.rooster465.autos:443?security=tls#ping_626ms_speed_-1.0Mbps
@@ -102,3 +92,13 @@ trojan://EQ30679154@curious-llama.rooster465.autos:443?type=tcp&security=tls&sni
 trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls#ping_638ms_speed_-1.0Mbps
 trojan://EQ30679154@open-octopus.rooster465.autos:443?security=tls#ping_639ms_speed_-1.0Mbps
 trojan://HC04361579@settling-shad.rooster465.autos:443?security=tls&sni=settling-shad.rooster465.autos#ping_639ms_speed_-1.0Mbps
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSEsgfCBwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIHwgVk1FU1MgW0NFN0FdIHwgQFNjRGV2TmV0d29yayIsImFkZCI6IjE0My4xNC4xODkuMTI1IiwicG9ydCI6IjIxMzE2IiwiaWQiOiIxMTZmNmVjZC0yNzVlLTRiNTAtOTIxZC03ODBlNzhhNTI2Y2IiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImhvc3QiOiJwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIiwicGF0aCI6Ii8ifQ#ping_721ms_speed_0.6Mbps
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVEggfCAxMTguMTkzLjU3LjE2NyB8IFZNRVNTIFswNUJFXSB8IEBTY0Rldk5ldHdvcmsiLCJhZGQiOiIxMTguMTkzLjU3LjE2NyIsInBvcnQiOiI0OTY2NyIsImlkIjoiZDQ2YmY0OTItNDVmNC00YzMzLTgyZDEtZWEyYTFjYjU0ZWI2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJwYXRoIjoiL2Q0NmJmNDkyIiwiaW5zZWN1cmUiOiIwIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#ping_738ms_speed_0.6Mbps
+vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#ping_753ms_speed_1.9Mbps
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t17.qifei.app:443?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&flow=xtls-rprx-vision#ping_758ms_speed_0.3Mbps
+vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?type=tcp&security=reality&path=%2F&host=www.cloudflare.com&sni=www.cloudflare.com&fp=chrome&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw&sid=94c8a1b378da7250&flow=xtls-rprx-vision#ping_1192ms_speed_0.2Mbps
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.62.90:443?type=tcp&security=reality&sni=www.amazon.com&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&flow=xtls-rprx-vision#ping_1601ms_speed_0.2Mbps
+vless://48e84fcc-ecb1-48a3-a596-88fea84887f5@129.154.192.50:2053?flow=xtls-rprx-vision&fp=chrome&pbk=oBYxqt4GNTWrmvHRHM_6SAVj_yy95lXtQ0NLd1QWQDU&security=reality&sid=dea6d68a3f6f96e3&sni=www.ibm.com#ping_2347ms_speed_0.5Mbps
+vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@95.163.232.171:14443?encryption=none&host=pr-media.pepro.site&path=%2Fws&security=tls&sni=pr-media.pepro.site&type=ws&fp=firefox#ping_2444ms_speed_0.2Mbps
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.17.152.64:2053?encryption=none&security=tls&sni=us.105794.xyz&fp=chrome&type=ws&host=us.105794.xyz&path=/download/v3/installer-x64.bin#ping_4374ms_speed_1.8Mbps
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.20.30.31:2053?security=tls&type=ws&path=/download/v3/installer-x64.bin&host=us.105794.xyz&sni=us.105794.xyz&fp=edge&encryption=none#ping_5212ms_speed_1.5Mbps

@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 21:58 (Moscow)
+# Date/Time: 2026-09-06 / 22:54 (Moscow)
 # Количество: 44
 vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@77.110.104.125:8443?type=grpc&security=reality&sni=maps.apple.com&fp=firefox&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&serviceName=your-custom-path#ping_162ms_speed_34.8Mbps
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.228.124:62145?&type=tcp&headerType=none&path=%2F#ping_1133ms_speed_28.8Mbps

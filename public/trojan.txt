@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 19:04 (Moscow)
+# Date/Time: 2026-09-06 / 19:56 (Moscow)
 # Количество: 227
 trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@littoral.appagent.net:443?type=raw&security=tls&fp=chrome#ping_632ms_speed_5.1Mbps
 trojan://AE62539071@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#ping_282ms_speed_-1.0Mbps

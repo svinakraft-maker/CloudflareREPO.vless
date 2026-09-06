@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 19:04 (Moscow)
+# Date/Time: 2026-09-06 / 19:56 (Moscow)
 # Количество: 50
 vless://0325e30e-7505-477e-aa32-7f73a3cc0153@cdn2-51.cdn-vkvideo.com:443?type=tcp&security=reality&sni=cdn2-51.cdn-vkvideo.com&fp=firefox&pbk=5mfLd7cQ9DsVW2_cHPPucMWv9MDN1kW6JORPNZIAyy8&sid=b0d8f964b7ac8ac9&flow=xtls-rprx-vision#ping_2002ms_speed_32.6Mbps
 vless://14409b0c-2091-4bc7-9845-2485a31ac38a@138.124.28.79:443?type=tcp&security=reality&sni=doich.stopingiphatered.shop&fp=firefox&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&sid=0c13e8822e7f58aa&flow=xtls-rprx-vision#ping_159ms_speed_29.4Mbps

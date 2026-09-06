@@ -1,6 +1,6 @@
 # profile-title: TROJAN
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 19:56 (Moscow)
+# Date/Time: 2026-09-06 / 20:01 (Moscow)
 # Количество: 229
 trojan://AE62539071@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#ping_271ms_speed_-1.0Mbps
 trojan://EQ30679154@intimate-adder.rooster465.autos:443?type=tcp&security=tls&sni=intimate-adder.rooster465.autos&fp=chrome#ping_915ms_speed_-1.0Mbps
